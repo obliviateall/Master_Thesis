@@ -1,0 +1,348 @@
+Fundamental electronic structure and multiatomic bonding in 13 biocompatible high-entropy alloys
+Predicting synthesizable multi-functional edge reconstructions in two-dimensional transition metal dichalcogenides
+Completing density functional theory by machine learning hidden messages from molecules
+Discovery of high-entropy ceramics via machine learning
+Ab initio theory of the negatively charged boron vacancy qubit in hexagonal boron nitride
+Accelerated design and characterization of non-uniform cellular materials via a machine-learning based framework
+Machine-learned impurity level prediction for semiconductors: the example of Cd-based chalcogenides
+Tunable chemical complexity to control atomic diffusion in alloys
+Machine-learning structural and electronic properties of metal halide perovskites using a hierarchical convolutional neural network
+Publisher Correction: Ambipolar device simulation based on the drift-diffusion model in ion-gated transition metal dichalcogenide transistors
+Molecular recognition and specificity of biomolecules to titanium dioxide from molecular dynamics simulations
+High-throughput discovery of high Curie point two-dimensional ferromagnetic materials
+Time-dependent density-functional theory molecular-dynamics study on amorphization of Sc-Sb-Te alloy under optical excitation
+Wannier–Koopmans method calculations for transition metal oxide band gaps
+Comprehensive scan for nonmagnetic Weyl semimetals with nonlinear optical response
+Coexistence of nontrivial topological properties and strong ferromagnetic fluctuations in quasi-one-dimensional A2Cr3As3
+PRISMS-PF: A general framework for phase-field modeling with a matrix-free finite element method
+Predicting densities and elastic moduli of SiO2-based glasses by machine learning
+Highly selective phonon diffusive scattering in superionic layered AgCrSe2
+Ambipolar device simulation based on the drift-diffusion model in ion-gated transition metal dichalcogenide transistors
+High-performance phosphorene electromechanical actuators
+Multiscale computational understanding and growth of 2D materials: a review
+Stabilizing mechanism of single-atom catalysts on a defective carbon surface
+Imaging mechanism for hyperspectral scanning probe microscopy via Gaussian process modelling
+Author Correction: Topological electronic states in HfRuP family superconductors
+On-the-fly active learning of interpretable Bayesian force fields for atomistic rare events
+Framework for atomic-level characterisation of quantum computer arrays by machine learning
+Ab initio electron-defect interactions using Wannier functions
+An automated predictor for identifying transition states in solids
+Magnetic and superconducting phase diagrams and transition temperatures predicted using text mining and machine learning
+Author Correction: Deep learning analysis of defect and phase evolution during electron beam-induced transformations in WS2
+Molecular dynamics simulation of graphene sinking during chemical vapor deposition growth on semi-molten Cu substrate
+Bio-inspired self-folding strategy to break the trade-off between strength and ductility in carbon-nanoarchitected materials
+Deep learning approach based on dimensionality reduction for designing electromagnetic nanostructures
+The exotically stoichiometric compounds in Al–S system under high pressure
+High-harmonic generation from spin-polarised defects in solids
+Revisiting the anchoring behavior in lithium-sulfur batteries: many-body effect on the suppression of shuttle effect
+Embedding physics domain knowledge into a Bayesian network enables layer-by-layer process innovation for photovoltaics
+Spin Hall effect in prototype Rashba ferroelectrics GeTe and SnTe
+Boron arsenide heterostructures: lattice-matched heterointerfaces and strain effects on band alignments and mobility
+Unfolding the complexity of phonon quasi-particle physics in disordered materials
+Electron transfer governed by light–matter interaction at metal–semiconductor interface
+Releasing the hidden shift current in the TTF-CA organic molecular solid via symmetry lowering
+Combining thermodynamics with tensor completion techniques to enable multicomponent microstructure prediction
+Machine learning enabled autonomous microstructural characterization in 3D samples
+Attribute driven inverse materials design using deep learning Bayesian framework
+Photorealistic modelling of metals from first principles
+Parametrically constrained geometry relaxations for high-throughput materials science
+Coarse-graining auto-encoders for molecular dynamics
+Tailored morphology and highly enhanced phonon transport in polymer fibers: a multiscale computational framework
+Deep-learning-based quality filtering of mechanically exfoliated 2D crystals
+Machine learning guided appraisal and exploration of phase design for high entropy alloys
+Topological electronic states in HfRuP family superconductors
+Multi-cell Monte Carlo method for phase prediction
+Dodecagonal bilayer graphene quasicrystal and its approximants
+Continuous strengthening in nanotwinned diamond
+Systematic beyond-DFT study of binary transition metal oxides
+Ferroelectric nonlinear anomalous Hall effect in few-layer WTe2
+A mechanism of defect-enhanced phase transformation kinetics in lithium iron phosphate olivine
+Ultralow lattice thermal conductivity of chalcogenide perovskite CaZrSe3 contributes to high thermoelectric figure of merit
+Fast, accurate, and transferable many-body interatomic potentials by symbolic regression
+Prediction of room-temperature half-metallicity in layered halide double perovskites
+Crowd-sourcing materials-science challenges with the NOMAD 2018 Kaggle competition
+Phase-field lattice Boltzmann model for dendrites growing and moving in melt flow
+Non-glide effects and dislocation core fields in BCC metals
+Beyond the RPA and GW methods with adiabatic xc-kernels for accurate ground state and quasiparticle energies
+Reliable and explainable machine-learning methods for accelerated material discovery
+A comparative study using state-of-the-art electronic structure theories on solid hydrogen phases under high pressures
+Higher-order topological solitonic insulators
+Identification of advanced spin-driven thermoelectric materials via interpretable machine learning
+Identification of stable adsorption sites and diffusion paths on nanocluster surfaces: an automated scanning algorithm
+Ternary superconducting cophosphorus hydrides stabilized via lithium
+Topological phases in pyrochlore thallium niobate Tl2Nb2O6+x
+Author Correction: Strain engineering of electro-optic constants in ferroelectric materials
+Absolute band alignment at semiconductor-water interfaces using explicit and implicit descriptions for liquid water
+De novo exploration and self-guided learning of potential-energy surfaces
+The study of magnetic topological semimetals by first principles calculations
+Interpretable deep learning for guided microstructure-property explorations in photovoltaics
+Body-centered-cubic structure and weak anharmonic phonon scattering in tungsten
+Strong phonon localization in PbTe with dislocations and large deviation to Matthiessen’s rule
+Tensorial stress−strain fields and large elastoplasticity as well as friction in diamond anvil cell up to 400 GPa
+Creating multiferroic and conductive domain walls in common ferroelastic compounds
+High-performance bifunctional polarization switch chiral metamaterials by inverse design method
+Charge disproportionation and site-selective local magnetic moments in the post-perovskite-type Fe2O3 under ultra-high pressures
+Quantum topology identification with deep neural networks and quantum walks
+Ab initio investigation of the cyclodehydrogenation process for polyanthrylene transformation to graphene nanoribbons
+Predicting superhard materials via a machine learning informed evolutionary structure search
+A property-oriented design strategy for high performance copper alloys via machine learning
+Smart machine learning or discovering meaningful physical and chemical contributions through dimensional stacking
+3D non-isothermal phase-field simulation of microstructure evolution during selective laser sintering
+Theoretical analysis of spectral lineshapes from molecular dynamics
+Publisher Correction: npj Computational Materials, volume 5
+Atom table convolutional neural networks for an accurate prediction of compounds properties
+Recent advances and applications of machine learning in solid-state materials science
+An electrostatic spectral neighbor analysis potential for lithium nitride
+Ab initio vibrational free energies including anharmonicity for multicomponent alloys
+Machine learning enables polymer cloud-point engineering via inverse design
+High-throughput computational discovery of In2Mn2O7 as a high Curie temperature ferromagnetic semiconductor for spintronics
+A review of oxygen reduction mechanisms for metal-free carbon-based electrocatalysts
+Insights into the design of thermoelectric Mg3Sb2 and its analogs by combining theory and experiment
+Multi-component background learning automates signal detection for spectroscopic data
+Unavoidable disorder and entropy in multi-component systems
+Semi-supervised machine-learning classification of materials synthesis procedures
+Building egg-tray-shaped graphenes that have superior mechanical strength and band gap
+Tracking materials science data lineage to manage millions of materials experiments and analyses
+Conditions for void formation in friction stir welding from machine learning
+Tunable ferromagnetic Weyl fermions from a hybrid nodal ring
+Discovery of new materials using combinatorial synthesis and high-throughput characterization of thin-film materials libraries combined with computational methods
+Machine-learning-assisted discovery of polymers with high thermal conductivity using a molecular design algorithm
+High-throughput prediction of the ground-state collinear magnetic order of inorganic materials using Density Functional Theory
+Unconventional topological phase transition in non-symmorphic material KHgX (X = As, Sb, Bi)
+Deep data analytics for genetic engineering of diatoms linking genotype to phenotype via machine learning
+Electric field tuning of the anomalous Hall effect at oxide interfaces
+Transparent conducting materials discovery using high-throughput computing
+Computational strategies for design and discovery of nanostructured thermoelectrics
+Fast and interpretable classification of small X-ray diffraction datasets using data augmentation and deep neural networks
+Coordination corrected ab initio formation enthalpies
+Numerical prediction of colloidal phase separation by direct computation of Navier–Stokes equation
+Heavy ion ranges from first-principles electron dynamics
+Automated estimation of materials parameter from X-ray absorption and electron energy-loss spectra with similarity measures
+Orbitally driven giant thermal conductance associated with abnormal strain dependence in hydrogenated graphene-like borophene
+Machine-learned multi-system surrogate models for materials prediction
+Implementation of distortion symmetry for the nudged elastic band method with DiSPy
+Composite topological nodal lines penetrating the Brillouin zone in orthorhombic AgF2
+Impact of lattice relaxations on phase transitions in a high-entropy alloy studied by machine-learning potentials
+Noble gas as a functional dopant in ZnO
+Predicting interfacial thermal resistance by machine learning
+Microphase separation of a miscible binary liquid mixture under confinement at the nanoscale
+Genetic algorithms for computational materials discovery accelerated by machine learning
+Application of pan-sharpening algorithm for correlative multimodal imaging using AFM-IR
+Plasmon-enhanced light–matter interactions and applications
+Topological superconducting phase in high-Tc superconductor MgB2 with Dirac–nodal-line fermions
+Spin coherence in two-dimensional materials
+Strong hopping induced Dzyaloshinskii–Moriya interaction and skyrmions in elemental cobalt
+Nanoscale self-healing mechanisms in shape memory ceramics
+Closing the gap between atomic-scale lattice deformations and continuum elasticity
+New frontiers for the materials genome initiative
+Enhancing hydrogen evolution on the basal plane of transition metal dichacolgenide van der Waals heterostructures
+Connection between Mott physics and crystal structure in a series of transition metal binary compounds
+Dimerization energetics of curli fiber subunits CsgA and CsgB
+Predicting surface deformation during mechanical attrition of metallic alloys
+Deep neural networks for understanding noisy data applied to physical property extraction in scanning probe microscopy
+Origin of ultrafast growth of monolayer WSe2 via chemical vapor deposition
+Solving the electronic structure problem with machine learning
+The (eg ⊗ eu) ⊗ Eg product Jahn–Teller effect in the neutral group-IV vacancy quantum bits in diamond
+Identifying Pb-free perovskites for solar cells by machine learning
+Bandgap prediction by deep learning in configurationally hybridized graphene and boron nitride
+Active learning in materials science with emphasis on adaptive sampling using uncertainties for targeted design
+Analyzing machine learning models to accelerate generation of fundamental materials insights
+Designing interfaces in energy materials applications with first-principles calculations
+Prediction of Weyl semimetal and antiferromagnetic topological insulator phases in Bi2MnSe4
+Bayesian inference of atomistic structure in functional materials
+Electron engineering of metallic multiferroic polarons in epitaxial BaTiO3
+Charged grain boundary transitions in ionic ceramics for energy applications
+Orbital magneto-optical response of periodic insulators from first principles
+Unlocking the potential of weberite-type metal fluorides in electrochemical energy storage
+Adhesive behavior and detachment mechanisms of bacterial amyloid nanofibers
+Large piezoelectric response in a family of metal-free perovskite ferroelectric compounds from first-principles calculations
+Manifold learning of four-dimensional scanning transmission electron microscopy
+Strain engineering of electro-optic constants in ferroelectric materials
+A new carbon phase with direct bandgap and high carrier mobility as electron transport material for perovskite solar cells
+Large scale hybrid Monte Carlo simulations for structure and property prediction
+Deep learning analysis of defect and phase evolution during electron beam-induced transformations in WS2
+First-principles-based prediction of yield strength in the RhIrPdPtNiCu high-entropy alloy
+Distortion-stabilized ordered structures in A2BB’O7 mixed pyrochlores
+Asymmetric MXene/monolayer transition metal dichalcogenide heterostructures for functional applications
+Learning to predict single-wall carbon nanotube-recognition DNA sequences
+Multi-loop node line states in ternary MgSrSi-type crystals
+High-throughput 3D reconstruction of stochastic heterogeneous microstructures in energy storage materials
+Excitation to defect-bound band edge states in two-dimensional semiconductors and its effect on carrier transport
+Publisher Correction: Transition from source- to stress-controlled plasticity in nanotwinned materials below a softening temperature
+Uncovering electron scattering mechanisms in NiFeCoCrMn derived concentrated solid solution and high entropy alloys
+Transition from source- to stress-controlled plasticity in nanotwinned materials below a softening temperature
+Local-environment dependence of stacking fault energies in concentrated solid-solution alloys
+The role of decomposition reactions in assessing first-principles predictions of solid stability
+Precision and efficiency in solid-state pseudopotential calculations
+Interplay between Kitaev interaction and single ion anisotropy in ferromagnetic CrI3 and CrGeTe3 monolayers
+Tailoring properties of hybrid perovskites by domain-width engineering with charged walls
+A machine learning approach to model solute grain boundary segregation
+Mechanistic insights of enhanced spin polaron conduction in CuO through atomic doping
+Screw dislocation structure and mobility in body centered cubic Fe predicted by a Gaussian Approximation Potential
+Design of 2D massless Dirac fermion systems and quantum spin Hall insulators based on sp–sp2 carbon sheets
+First principles calculation of spin-related quantities for point defect qubit research
+A high-throughput data analysis and materials discovery tool for strongly correlated materials
+Deep-learning-based inverse design model for intelligent discovery of organic molecules
+Implicit glass model for simulation of crystal nucleation for glass-ceramics
+Controlling polar-toroidal multi-order states in twisted ferroelectric nanowires
+Empirical modeling of dopability in diamond-like semiconductors
+Strain-mediated voltage-controlled switching of magnetic skyrmions in nanostructures
+Machine-learning the configurational energy of multicomponent crystalline solids
+Author Correction: Mapping mesoscopic phase evolution during E-beam induced transformations via deep learning of atomically resolved images
+A thermodynamic potential for barium zirconate titanate solid solutions
+Nanoembryonic thermoelastic equilibrium and enhanced properties of defected pretransitional materials
+Unexpectedly large energy variations from dopant interactions in ferroelectric HfO2 from high-throughput ab initio calculations
+Physics and applications of charged domain walls
+Active learning for accelerated design of layered materials
+Predicting accurate cathode properties of layered oxide materials using the SCAN meta-GGA density functional
+Identifying quasi-2D and 1D electrides in yttrium and scandium chlorides via geometrical identification
+Predicting Dirac semimetals based on sodium ternary compounds
+Quantum effects on dislocation motion from ring-polymer molecular dynamics
+Predicting the structure and stability of titanium oxide electrides
+Entropy contributions to phase stability in binary random solid solutions
+Multiobjective genetic training and uncertainty quantification of reactive force fields
+Ductile deformation mechanism in semiconductor α-Ag2S
+Efficient search of compositional space for hybrid organic–inorganic perovskites via Bayesian optimization
+Online search tool for graphical patterns in electronic band structures
+Developing an interatomic potential for martensitic phase transformations in zirconium by machine learning
+Unsupervised phase mapping of X-ray diffraction data by nonnegative matrix factorization integrated with custom clustering
+Materials structure genealogy and high-throughput topological classification of surfaces and 2D materials
+Interplay between epidermal stem cell dynamics and dermal deformation
+Nanometer-scale gradient atomic packing structure surrounding soft spots in metallic glasses
+Mapping the elastic properties of two-dimensional MoS2 via bimodal atomic force microscopy and finite element simulation
+Mechanism of contact pressure-induced friction at the amorphous carbon/alpha olefin interface
+Microstructure design using graphs
+Ultra-low thermal conductivity of two-dimensional phononic crystals in the incoherent regime
+Characterization of domain distributions by second harmonic generation in ferroelectrics
+Effect of ionic composition on thermal properties of energetic ionic liquids
+Electrochemically driven conversion reaction in fluoride electrodes for energy storage devices
+Author Correction: Automated generation and ensemble-learned matching of X-ray absorption spectra
+Mapping mesoscopic phase evolution during E-beam induced transformations via deep learning of atomically resolved images
+Automated defect analysis in electron microscopic images
+Phase-field model of pitting corrosion kinetics in metallic materials
+Machine learning hydrogen adsorption on nanoclusters through structural descriptors
+Sequential piezoresponse force microscopy and the ‘small-data’ problem
+Learning local, quenched disorder in plasticity and other crackling noise phenomena
+Fine-grained optimization method for crystal structure prediction
+Author Correction: Design of high-strength refractory complex solid-solution alloys
+Using machine learning and a data-driven approach to identify the small fatigue crack driving force in polycrystalline materials
+A strategy to apply machine learning to small datasets in materials science
+Reconstructing phase diagrams from local measurements via Gaussian processes: mapping the temperature-composition space to confidence
+Machine learning modeling of superconducting critical temperature
+Co6Se8(PEt3)6 superatoms as tunable chemical dopants for two-dimensional semiconductors
+Evaluation of thermodynamic equations of state across chemistry and structure in the materials project
+Computational design of bimetallic core-shell nanoparticles for hot-carrier photocatalysis
+First-principles screening of structural properties of intermetallic compounds on martensitic transformation
+Improved phase field model of dislocation intersections
+Understanding the physical metallurgy of the CoCrFeMnNi high-entropy alloy: an atomistic simulation study
+Machine learning in materials informatics: recent applications and prospects
+Displacement Current in Domain Walls of Bismuth Ferrite
+Theoretical potential for low energy consumption phase change memory utilizing electrostatically-induced structural phase transitions in 2D materials
+Computational discovery of p-type transparent oxide semiconductors using hydrogen descriptor
+Review on modeling of the anode solid electrolyte interphase (SEI) for lithium-ion batteries
+Bismuth and antimony-based oxyhalides and chalcohalides as potential optoelectronic materials
+Spatial correlation of elastic heterogeneity tunes the deformation behavior of metallic glasses
+Data analytics and parallel-coordinate materials property charts
+Adaptive design of an X-ray magnetic circular dichroism spectroscopy experiment with Gaussian process modelling
+Nanotwinned and hierarchical nanotwinned metals: a review of experimental, computational and theoretical efforts
+Insight into point defects and impurities in titanium from first principles
+Automated generation and ensemble-learned matching of X-ray absorption spectra
+Statistical variances of diffusional properties from ab initio molecular dynamics simulations
+Design of high-strength refractory complex solid-solution alloys
+Virtual screening of inorganic materials synthesis parameters with deep learning
+Efficient first-principles prediction of solid stability: Towards chemical accuracy
+Accelerating evaluation of converged lattice thermal conductivity
+Temperature-dependent phonon spectra of magnetic random solid solutions
+Active cell-matrix coupling regulates cellular force landscapes of cohesive epithelial monolayers
+An effective method to screen sodium-based layered materials for sodium ion batteries
+Dynamics of antipolar distortions
+Atomic and electronic basis for the serrations of refractory high-entropy alloys
+First-principles prediction of high-entropy-alloy stability
+Hydrogen embrittlement of grain boundaries in nickel: an atomistic study
+Phonon broadening in high entropy alloys
+Chemically induced large-gap quantum anomalous Hall insulator states in III-Bi honeycombs
+Voltage-driven charge-mediated fast 180 degree magnetization switching in nanoheterostructure at room temperature
+Theory, simulations and the design of functionalized nanoparticles for biomedical applications: A Soft Matter Perspective
+Data analytics using canonical correlation analysis and Monte Carlo simulation
+Discovering the building blocks of atomic systems using machine learning: application to grain boundaries
+First-principles calculation of intrinsic defect chemistry and self-doping in PbTe
+Atomic-scale structural signature of dynamic heterogeneities in metallic liquids
+Publisher Correction: First-principles calculation of intrinsic defect chemistry and self-doping in PbTe
+Metallic and highly conducting two-dimensional atomic arrays of sulfur enabled by molybdenum disulfide nanotemplate
+Construction of ground-state preserving sparse lattice models for predictive materials simulations
+Learning surface molecular structures via machine vision
+In silico designing of power conversion efficient organic lead dyes for solar cells using todays innovative approaches to assure renewable energy for future
+Chemically intuited, large-scale screening of MOFs by machine learning techniques
+Rethinking phonons: The issue of disorder
+Continuum understanding of twin formation near grain boundaries of FCC metals with low stacking fault energy
+Author Correction: Chemically intuited, large-scale screening of MOFs by machine learning techniques
+Ultra-large-scale phase-field simulation study of ideal grain growth
+Towards efficient data exchange and sharing for big-data driven materials science: metadata and data formats
+Dislocations interaction induced structural instability in intermetallic Al2Cu
+Inhomogeneous strain-induced half-metallicity in bent zigzag graphene nanoribbons
+Revealing and exploiting hierarchical material structure through complex atomic networks
+A universal strategy for the creation of machine learning-based atomistic force fields
+Ferroic glasses
+Thermodynamic potential and phase diagram for multiferroic bismuth ferrite (BiFeO
+                3
+              )
+The origin of uniaxial negative thermal expansion in layered perovskites
+Empirical interatomic potentials optimized for phonon properties
+An efficient and accurate framework for calculating lattice thermal conductivity of solids: AFLOW—AAPL Automatic Anharmonic Phonon Library
+Shift current bulk photovoltaic effect in polar materials—hybrid and oxide perovskites and beyond
+Mechanical properties of Fe-rich Si alloy from Hamiltonian
+A general-purpose machine learning framework for predicting properties of inorganic materials
+Possible ground states and parallel magnetic-field-driven phase transitions of collinear antiferromagnets
+A high-throughput framework for determining adsorption energies on solid surfaces
+Niobium pentoxide: a promising surface-enhanced Raman scattering active semiconductor substrate
+Predicting defect behavior in B2 intermetallics by merging 
+ab initio modeling and machine learning
+A phase field model for snow crystal growth in three dimensions
+Effect of nonlinear and noncollinear transformation strain pathways in phase-field modeling of nucleation and growth during martensite transformation
+Reentrant equilibrium disordering in nanoparticle–polymer mixtures
+Atomic structures of twin boundaries in hexagonal close-packed metallic crystals with particular focus on Mg
+Comparison of dissimilarity measures for cluster analysis of X-ray diffraction data from combinatorial libraries
+Effective mass and Fermi surface complexity factor from ab initio band structure calculations
+Faceted interfaces: a key feature to quantitative understanding of transformation morphology
+A review: applications of the phase field method in predicting microstructure and property evolution of irradiated nuclear materials
+Contribution of point defects and nano-grains to thermal transport behaviours of oxide-based thermoelectrics
+Understanding and designing magnetoelectric heterostructures guided by computation: progresses, remaining questions, and perspectives
+Experimental verification of the ab initio phase transition sequence in SrZrO3 and comparisons with SrHfO3 and SrSnO
+                3
+A three-dimensional polyhedral unit model for grain boundary structure in fcc metals
+Autonomy in materials research: a case study in carbon nanotube growth
+Softening of phonon spectra in metallic glasses
+Chemomechanical modeling of lithiation-induced failure in high-volume-change electrode materials for lithium ion batteries
+Hydrogen bonding: a mechanism for tuning electronic and optical properties of hybrid organic–inorganic frameworks
+Wide-range ideal 2D Rashba electron gas with large spin splitting in Bi2Se3/MoTe2 heterostructure
+Computational modeling sheds light on structural evolution in metallic glasses and supercooled liquids
+Computationally predicted energies and properties of defects in GaN
+Facile measurement of single-crystal elastic constants from polycrystalline samples
+Quantum–continuum simulation of underpotential deposition at electrified metal–solution interfaces
+Charge carrier transition in an ambipolar single-molecule junction: Its mechanical-modulation and reversibility
+Atomistic material behavior at extreme pressures
+Ab initio prediction of fast non-equilibrium transport of nascent polarons in SrI2: a key to high-performance scintillation
+Predictive modelling of ferroelectric tunnel junctions
+Sequential slip transfer of mixed-character dislocations across Σ3 coherent twin boundary in FCC metals: a concurrent atomistic-continuum study
+Theory and experimental evidence of phonon domains and their roles in pre-martensitic phenomena
+Searching for new ferroelectrics and multiferroics: A user’s point of view
+Multiple unpinned Dirac points in group-Va single-layers with phosphorene structure
+A bridge for accelerating materials by design
+Computational understanding of Li-ion batteries
+Prediction of pressure-promoted thermal rejuvenation in metallic glasses
+Super square carbon nanotube network: a new promising water desalination membrane
+The ReaxFF reactive force-field: development, applications and future directions
+First-principles calculations of lattice dynamics and thermal properties of polar solids
+Quasiparticle approach to diffusional atomic scale self-assembly of complex structures: from disorder to complex crystals and double-helix polymers
+Computational approaches to substrate-based cell motility
+On the tuning of electrical and thermal transport in thermoelectrics: an integrated theory–experiment perspective
+The origin of electronic band structure anomaly in topological crystalline insulator group-IV tellurides
+An efficient descriptor model for designing materials for solar cells
+Erratum: Computational understanding of Li-ion batteries
+Design and discovery of materials guided by theory and computation
+Mechanochemical spinodal decomposition: a phenomenological theory of phase transformations in multi-component, crystalline solids
+Cybermaterials: materials by design and accelerated insertion of materials
+Recent developments in computational modelling of nucleation in phase transformations
+The Open Quantum Materials Database (OQMD): assessing the accuracy of DFT formation energies
+A high-throughput technique for determining grain boundary character non-destructively in microstructures with through-thickness grains
+Amplitudon and phason modes of electrocaloric energy interconversion

@@ -1,0 +1,3014 @@
+zener crack
+nucleation and propagation
+phase-field
+hypergravity
+al 6061
+dendritic growth
+discretisation-induced anisotropy
+rbf-fd
+mixed-mode transformation
+diffusion
+steel
+directional solidification
+solid motion
+molten pool
+solidification parameters
+dendrite
+ti6al4v
+dendrite merging
+coherent particle
+robust optimization
+phase-field based topology optimization
+random diffuse region
+wave propagation control
+coherent precipitate
+intragranular gas bubbles
+fuel swelling
+heterogeneous composites
+hybrid formulation
+ensemble kalman filter
+phase transformation
+velocity variations
+crystal plasticity
+anti-trapping
+solute trapping
+adaptive mesh refinement
+benchmark problem
+undercooled melts
+rapid quenching
+nickel-based superalloy
+coupled motion
+droplets
+solid-state phase transformation
+phase nucleation
+numerical stability
+front-tracking
+polycrystalline growth
+alloy
+topological evolution
+nano-single crystal
+aspect ratios
+ternary eutectic alloy
+al–ag–cu
+melt concentration
+pulse magnetic field with double coils
+differential phase pulsed magnetic field
+lorentz force
+multicomponent alloys
+solute interaction
+temperature gradient
+dendritic solidification
+peclet number
+steels
+small misorientation
+elastic distortion
+pore migration
+time adaptivity
+mesh adaptivity
+magnesium alloy
+stress-driven growth
+mobile particles
+crystalline anisotropy
+creep
+plasticity
+multi-length-scale
+magnesium alloys
+multi-variant precipitation
+rapid solidification
+high-temperature
+heterogeneous nucleation of phase transformations
+radiation damage
+transformation of rafting types
+nickel-base superalloys
+ω phase transformation
+selective growth
+lamellar eutectic
+interfacial anisotropy
+constant driving force
+steady-state shape
+electrode reaction
+butler–volmer kinetics
+microforce balance
+principle of virtual power
+phase field (pf)
+transient conditions
+primary dendrite arm spacing
+materials
+wavelets
+galerkin scheme
+binary pfc
+atomic sizes
+mobility differences
+liquid phase heteroepitaxial
+eutectic lamellar
+flow direction
+heat treatment
+ni-al
+thermosolutal transport
+columnar-to-equiaxed transition
+ferroelectric creep
+secondary arm orientation
+unusual overgrowth
+cellular
+tip splitting
+laser additive manufacturing
+nickel-base superalloy
+electroreduction
+porosity
+non-cooperative growth
+divorced eutectoid
+coarsening
+binary alloys
+solder
+damage
+interfacial migration
+columnar dendrite
+interpenetrating phase composite (ipc)
+elastoplastic behavior
+ferroelectric polarization switching
+local mechanical stress
+misfit orientations
+optimization
+organic electronics
+morphology
+segregation
+in situ
+confocal
+peritectic
+nano-crack
+cleavage crack
+pre-straining
+organic photovoltaics
+fill factor
+multiphase mixtures
+polymers
+cyclic voltammatery
+electrocaloric effect
+ferroelectric-antiferroelectric transitions
+anisotropic ndfeb
+dipolar coupling
+demagnetization process
+coercivity
+magnetoresistive effect
+magnetic polaron tunneling
+continuous cooling phase transformation
+ta15
+cellular automaton
+heat conduction
+direct chill casting
+ferroelectromagnet
+andalusite
+crystal growth
+two-phase zone
+multiphase materials
+linear friction welding (lfw)
+oscillation frequency
+axial shortening
+ferrite growth
+transformations in a state of stress
+titanium
+kinetics
+impingement
+bovine cortical bone
+thermodynamic driving force
+fib tomography
+gas-diffusion electrode
+gaussian random field
+visco-vibration
+conveying fluid
+in-phase and out-phase
+glass transformation
+oriented film
+thermal shrinkage
+solid oxide cell
+truncated plurigaussian random fields
+sialon/si2n2o
+toughening
+tip stress field
+duplex stainless steels
+damage nucleation
+pvdf
+poling
+infrared spectroscopy
+surface quenching
+residual stress
+3d polycrystal
+multi-pass welding
+level-set
+microstructural evolutions
+composites
+stress/strain redistribution
+copper-based shape memory alloys
+landau-devonshire phenomenology
+material response
+stress-dependent phase transformation
+swelling ratio
+void growth
+anisotropic meshing
+high carbon iron-based alloy
+melt flow
+haadf-stem
+polyvinylidene fluoride
+mechanical property
+angular dependence
+interatomic potentials
+snap
+aln
+fast-ion conductor
+polarizable
+induced dipole
+amorphous state
+ni-al-ti superalloys
+uncertainty
+sensitivity analyses
+meam potential
+lennard–jones
+time steps
+graphene
+boron nitride sheet
+phase transitions
+interacting cracks and nanovoid
+brittle-to-ductile transition
+fusion materials
+interstitial defects
+tight-binding scheme
+hydrostatic and uniaxial compressive loading
+cubic diamond single crystal silicon
+detwinning
+non-zero temperature
+nickel crystal
+morse potential
+nonlinear oscillations
+intrinsic localized mode
+rfmeam
+ctip
+variable charge
+corrections
+al
+o
+plutonia
+urania-plutonia mixture
+mixed oxide (mox) fuel
+point defects
+monolayer inse
+aluminum
+shape-memory alloy
+pseudoelasticity
+brillouin zone
+variable node
+displacement decomposition
+iron–chromium (fe–cr)
+isobaric semi-grandcanonical ensemble
+effective pair format
+americium oxide
+thermal expansion
+stress-induced migration
+surface
+stair-rod dislocations
+atomic stress
+graphene oxide
+mechanical properties
+reactive force field
+ni (re) solid solution
+edge dislocation
+crss
+modified 9cr–1mo ferritic steel
+deformation behaviour
+modified zerilli–armstrong
+ods
+smith-zener pinning
+dissimilar metal
+buttering
+nitrogen alloyed duplex steels
+yield strength
+fracture toughness
+dbtt
+dislocation/hydrogen atoms interaction
+stress
+steel s45c
+ni-doped bifeo3
+ferrimagnetic
+double exchange
+tem
+atom position
+strain
+proton conduction
+crosslink
+mn6ni16si7 precipitate
+helium
+dislocation-precipitate interaction time
+line dislocation dynamics
+fem-dd framework
+precipitates resistance scale
+cu thin film
+extension twinning
+precipitate orientation
+prismatic dislocation
+cr precipitate
+fe–cr alloys
+cascade overlap
+metropolis mont carlo
+thermal ageing
+iron and its alloys
+shearing mechanism
+precipitate resistance force
+fe–cu alloy
+growth kinetics
+thermo-mechanical treatment
+cracking
+haz
+738
+precipitation hardening
+dislocation climb
+nickel-based single crystal superalloy
+nano-polycrystalline tial
+twin boundary spacing
+misorientation angle
+tension
+tb migration
+strength
+md
+boron or nitrogen doping
+304l stainless steel
+prestrain effect
+abaqus user defined subroutine (umat)
+rippling
+shape fluctuations
+oxygen ion conductivity
+liquid lithium
+high strength steel
+thick plate
+hot bending
+spring-go compensation
+fundamental frequency
+high-temperature properties
+angle-ply laminates
+amorphous intergranular films
+zirconium nanowires
+heat and mass transfer
+hydromagnetic flow
+flow stress
+upsetting
+scf3
+cp2k
+nickel
+vacancy complexes
+layer number
+isotope
+austenitic stainless steel
+viscosity
+diamond
+regular dendrimer
+liquid crystalline dendrimer
+generation number
+thermo-viscoplastic
+am50 magnesium alloy
+deform
+polycrystalline aluminum
+deformation mechanics
+antimony telluride
+topological insulators
+thermoelectric materials
+debye temperature
+nano-ductility
+nanowire
+single crystal superalloy
+high temperature mechanical properties
+dislocation interactions
+tetrahedron
+self-propagating high-temperature synthesis
+ignition
+deposition sequence
+dissimilar metal weld
+flow curve
+forming limit curve
+warm forming
+nanofilm
+reinforcements morphology
+aisi 316l
+stainless steel
+ratcheting
+heat
+germanium
+solder joint
+a. graphene
+b. nanocomposite
+quenching process
+a357 aluminum alloy
+cold stretching process
+piezoelectric medium
+anti-plane problem
+electric impact
+non-linear deformation
+laser ablation
+kapitza effect
+temperature jump
+polymer nanocomposite
+viscoelasticity
+coupled thermo-mechanical
+alloy steel large ring
+7050 aluminium alloy
+air–arc cutting
+temperature fields
+stress fields
+titanium alloy large rings
+blank sizes
+strain and temperature distributions
+coupled thermo-mechanical effect
+polyether ether ketone
+moller-plesset
+heat transfer
+silicene
+metal nanoparticles
+frictional heating
+spall
+polycrystalline boron-nitride
+carbon doping
+thermoelectrics
+nanotechnology
+nanoinclusions
+bipolar effects
+am30
+texture
+stacking fault
+semicrystalline polymers
+ripple
+thermal fluctuation
+doping
+thermochromic property
+free surfaces
+ds ni-based superalloy
+dwell
+variable viscosity
+variable suction
+power law
+suction and injection
+arrhenius-type
+thin films
+thermophysical properties
+indices of crystal planes
+mg–zn–zr–yb alloy
+drx kinetics
+zener-hollomon parameter
+iso-fraction contour map
+drx sensitive rate
+fragility
+ring polymer
+surface treatments
+thermal fatigue
+performance indices
+stereolithography resin
+moisture effect
+boundary-layer
+power-law shear
+free surface velocity
+magnetoelectroelastic materials
+tungsten–copper composite
+plasma-facing component
+heat sink material
+ti–6al–4v alloy
+hot processing
+property
+plastic instabilities
+deformation bands
+extensometer
+cu–al
+atomic dynamics
+bulk nanocrystalline aluminium
+rotating container
+torque
+twist angle
+intersecting lines
+crack face contact
+microcrack initiation and propagation
+viscosity softening
+sheath potential
+determining
+anode region
+gas tungsten arc
+rod rolling
+tempcor
+few-layer graphene
+brittle
+shear banding
+oxide-scale cracking
+oxide growth
+epitaxial strain
+oxidation under loading
+hcp crystal
+collinear interaction
+lattice friction
+straight grate
+induration process
+iron ore pellet
+fuel consumption
+greenhouse gases
+the fusion zone
+diffusion hydrogen
+precrystallization-zone
+solid inclusions
+quasi-steady state approximation
+dopant distribution
+multiexponential fitting
+magnetic disaccommodation
+help mechanism
+short glass fibers
+surface transformation hardening
+surface swelling
+stress induced diffusion
+concentration dependent diffusion
+reorientation
+periodic image effect
+crack tip parameter
+c*-integral
+cobalt base alloy
+hot rod rolling
+meta-dynamic recrystallization
+multi-pass hot strip rolling
+rolling
+crown
+flatness
+ant colony optimization
+generalized differential evolution
+nsga-ii
+pareto front
+multistage rolling
+static softening
+static recrystallization kinetic
+aluminum alloy 5083
+chromium depletion
+cold work
+low-carbon steel
+ferritic ductile iron
+surface crack
+reverse bending
+powder compacts
+fcc single crystal
+ductile/brittle failure
+schmid law
+fgm
+antiplane impacts
+transient stress intensity factor
+sic
+undeformed chip thickness
+wheel speed
+griffith crack
+integral transform
+impact
+stress intensity factor
+hardmetal
+co-island
+hoop stress
+dislocation-dynamics
+dislocation–particle interaction
+image stresses
+thin-film failure
+amorphous silica nanowires
+ratchetting
+vertex singularity
+generalized stress intensity factor
+stress singularity
+fatigue crack
+v-notch
+dealloyed layer
+mini-samples
+wc–co composites
+spall formation
+austempered ductile iron
+plastically graded nanocrystalline metals
+weld solidification crack
+material resistance
+local strain
+fe single crystal
+porous layer-induced stress
+bio-inspired
+zinc oxide (zno)
+peptide
+nano composite
+cod
+migration
+σ5 (2 1 0)
+multicrystalline aggregates
+zirconium alloy
+molecular separation
+impulse wave propagation
+atomic separation
+van der waals
+noble atoms
+zeolitic imidazolate frameworks
+nitrogen oxides
+nox
+traction-separation-law
+electronic speckle pattern interferometry
+al-si bimaterial
+interfacial fracture
+jump-to-contact
+dislocation multiplication
+polymer–liquid crystal
+nonlinear fracture mechanics
+multiphase flows
+operator splitting
+displacement discontinuity
+graphene-coating
+torsional rigidity
+elastoplastic deflections
+monotone scheme
+power-law materials
+spin-polarized surface states
+polymeric foams
+supercritical co2
+singlewall-to-doublewall carbon nanotube transition
+nanopeapod
+memory device
+shuttle memory device
+nonlinear forced vibration
+potential landscapes
+ternary iron chalcogenides
+structural, electronic properties
+repetitive beam lattices
+biaxial loadings
+mxene
+2d-materials
+electric-field
+type-ii
+phase engineering
+graphene-like material
+deep-ultraviolet absorption
+sustainable electronic gap
+ferromagnetic half-metal property
+thermal transport
+two dimensional material
+thermoelectric properties
+boron-based dirac material
+reaxff-lg forcefield
+thermal decomposition
+nanocarbon energetic composite materials
+material anisotropy
+spike forging
+forming limit strain
+forming limit stress
+material variability
+heterogeneity
+damages
+thermal loading
+multi-layered materials
+asphalt mixes
+filling rate
+hexagonal array
+percolation regime
+non-associated flow rule
+distortional hardening
+a. nanoindentation
+ion beam sputtering
+damped kuramoto-sivashinsky
+crack-tip toughness
+alumina
+igscc
+gbcd
+shot peening
+3d crack growth
+bauschinger effect
+two-surface plasticity
+return map
+high-speed dislocations
+projection 3d
+aboav–weaire
+tube extrusion
+preprocessor
+fcc material
+indentation load vs. indentation depth relation
+porous rock
+curvature-driven processes
+tungsten heavy alloy (wha)
+gleeble
+amorphous boundary
+magnesium alloy az31b
+tensorflow
+ageing
+fe–cu–ni ternary alloy
+liquid li–pb alloy
+cyclic shear
+irradiation effect
+dislocation slipping
+cuw alloys
+shear band
+isothermal forging
+ti-17 alloy
+static globularization
+ti600 alloy
+ti3al alloy
+coherent twin boundary
+the inverse hall–petch relation
+aa1050 al alloy
+asymmetric rolling
+shear texture
+odf
+plastic strain ratio
+immiscible alloy
+centrifugal casting
+2124 aluminum alloy
+two-pass hot compression
+metadynamic recrystallization
+friction correction
+oxide film
+steel ingot
+as-cast tc21 titanium alloy
+isothermal compression
+amorphous thickness
+crucible oxides
+titanium–aluminum alloys
+isothermal extrusion
+forming limit
+geometrical hardening
+aluminum alloy sheet
+lode parameter
+nickel-based super alloy
+hot splitting spinning
+field distributions
+forming quality
+aluminum–magnesium alloy
+al–mg
+5083
+5754
+2024-t3 aluminium alloy
+strain hardening
+power-law
+cold hole working
+shape memory alloys
+ti–ni
+residual strain
+schmid factor
+laser–gma hybrid welding
+molten metal flow
+alloying element
+exact muffin-tin orbitals
+rate independent crystal plasticity
+hyperfine field
+disordered alloy
+ti–10v–2fe–3al
+surface magnetism
+fecr alloy
+material optimisation
+work hardening
+particle strengthening
+thick-walled titanium alloy tube
+rotary-draw bending
+profile
+strength-differential effect
+particle dissolution
+stretch forming
+al–mg alloys
+cu–cr–zr–mg alloy
+aging parameter optimization
+electrical conductivity
+cu–cr–sn–zn alloy
+superelasticity
+ansys
+actuator
+trip-steel
+shape memory alloy
+viscoelastic solid
+fe-48ni permalloy
+mechanical alloying
+al/sic nanocomposite
+crystallite size
+mean particle size
+l parameter
+slip stick contact
+material flow
+aerospace aluminium alloy
+γti-al
+wear
+yield asymmetry
+algainp
+direct enumeration
+bandgap reduction
+bandgap range
+band interaction
+asymmetric stress-controlled
+variable loading history
+nanocrystalline cr–33nb
+cyclic softening
+time-dependence
+solid mixtures
+phases transformation
+elastic stresses
+liquid–liquid phase transformation
+growth
+brownian coagulation
+cyclic behavior
+aluminum 2017
+ae42
+az91
+short-fiber composites
+hybrid welding
+butt weld
+welding heat source
+growth strain
+asymptotic solutions
+nicr30
+thermally assisted machining
+cutting force
+isotropic hardening
+path
+7075-t651
+variable properties
+thermomechanical transformations
+magnetic exchange coupling
+fepd
+disorder
+crystallite microstrain
+synchrotron radiation
+cyclic response
+variable material properties
+damage tolerance
+numerical fracture mechanics
+double hit hot deformation
+active target particle swarm optimization
+constrained cavity growth
+tertiary creep
+superplasticity
+pbsn60 alloy
+cr–fe alloys
+selective laser melting (slm)
+laser powder bed fusion (l-pbf)
+adaptive remeshing
+ss316l alloy
+pool dimensions
+melt pool defects
+mo-si-b alloys
+turbine start-up
+turbine shut-down
+non-stationary thermo-mechanical loads
+mpi standard
+fe30ni alloy
+tellurium
+hastelloy n alloy
+zener–hollomon parameter
+al alloy
+thin-walled tube
+biaxial loading
+welded joints
+hardening mechanisms
+particles of a second phase
+alloy 800h
+copper alloy
+mmc's
+local damage
+6061 aluminum alloy
+iron-based alloys
+flow properties
+band offset
+fe-alloys
+calphad-assessment
+rare earths
+mg–pr
+moving mesh
+moving boundary
+semi-solid alloys
+transformation rates
+statistical physics
+localised martensitic transformation
+liquid–liquid transition
+amorphous binary alloys
+boson peak
+6061 aluminium alloy
+laser beam welds
+relaxation behaviors
+ni3al ordered phase
+dictra
+medium-mn
+thermomechanical fatigue
+dynamic strain ageing
+titanium aluminide
+melting phase diagram
+analytic bond order potential
+ferrite
+prenucleation
+vacancy formation enthalpy
+casting
+crystal settling
+equiaxed dendrites
+discontinuous yielding
+strain jump
+intermittent yielding
+experimental verification
+localized deformation
+materials genome initiative (mgi)
+predicting
+factsage
+bismuth antimony telluride
+visco-plasticity
+dendrite fall
+solute distribution
+foreign impurity atoms
+vanadium
+plastic anisotropy
+sheet forming
+ferroelastic martensite
+phase diagram of nucleation sites
+high temperature ceramics
+air plasma spraying
+eddy current evaluation
+metallurgical phase
+interactions
+propagation rate
+morphological properties
+strain path
+dual-phase nanolaminate
+high temperature corrosion
+creep relaxation
+porous metallic glasses
+deviatoric shear strains
+hot work tool steel
+copper extrusion
+copper–diamond
+fast
+plc bands
+optical extensometer
+material’s constants
+precursing films
+complex process parameter
+rapid austenitization
+3d printing
+laser deposition
+fatigue failure
+high-strength steel
+johnson–cook
+cockcroft–latham
+ballistic penetration
+solid-state amorphization
+ni/zr bilayer
+isothermal annealing
+diffusion-limited-reaction
+tungsten
+carbon
+vacancies-oxygen complexes
+cyclic deformation
+reinforcement fracture
+dynamic recrystallisation
+tini
+two-way shape memory effect
+lüders
+twin variant
+coated carbide cutting tools
+hot work tool steels
+omega phase
+crystalline/amorphous nanocomposites
+coru
+current perpendicular-to-planes
+semi-implicit integration scheme
+kinetic
+period
+cementless hip stem
+stress shielding
+w
+ni3al crack
+hardening law
+differential-speed rolling (dsr)
+mg–az31
+speed ratio
+oxygen interstitial
+tetragonal strain
+zirconium nitride
+fission gas incorporation and migration
+nano-indentation
+nano-crystalline zr
+monoclinic
+tetragonal zirconia
+textures
+voronoï polyhedra
+fgm materials
+meshfree fem
+visco-plastic self-consistent scheme
+nonlinear wave flows
+additive technologies
+monocrystalline silicon
+size-effect
+indenter
+dislocation interaction
+intrinsic mechanical properties
+amorphous/crystalline nanolaminate
+layer thickness
+projected contact area
+wedged indenter
+collective interaction
+copper
+surface pit defect
+strain competition mechanism
+indenter position
+transversely isotropic thin film
+lattice dislocation
+quasicontinuum
+indentation hardness
+engineering constants
+piezoelectric constants
+transversely isotropic
+thin film
+polycrystalline silicon
+creep properties
+silicon phase transformation
+binders
+metallic multilayers
+nanomaterials
+metals/ceramics multilayers
+dislocations nucleation
+ti/tin
+continuum crystal plasticity
+substrate effects
+hardness evolutions
+fractal
+polymer particles
+micro-indentation
+indentation size effects
+dislocation source
+adhesion
+spherical contact
+chemical mechanical polishing
+removal mechanism
+h2o2
+aluminium (tri)hydroxide
+flame retardant
+cmmrf
+nanofinishing
+anodization
+kevlar®
+tribochemistry
+qm/mm
+water
+solid–liquid transition
+complete wetting
+domain growth kinetics
+continuous ordering
+nucleation-and-growth
+austenite transformation
+graphene reinforced al composites
+crystallization process
+dislocation motions
+crushing behavior
+chopped random fiber composites
+creep damage
+film oxidation
+potential gradient
+ehrlich–schwöbel barrier
+self-organization
+flow-induced crystallization
+crystallization kinetics
+cylindrical nanopores
+molecular chain evolution
+bcc fe nanowire
+orientation
+micro-tomography
+rsw
+void shape effects
+shear modification
+weld defects
+al3ti
+schwoebel barrier
+island
+facet
+particle cracking
+nanocrystalline cu
+shockley partial dislocation
+ald
+cvd
+sticking centers
+porous substrate
+post dynamic recrystallization
+304l steel
+silicon monoxide
+crystalline reorientation
+mg
+diffusion-induced stress
+primary recrystallization
+warm pre-stress
+crack tip blunting
+powercycling
+refractory ceramics
+h–bn
+rnemd
+kapitza conductance
+coupling factor
+hydrogen segregation
+lomer lock
+relaxation dynamics
+α-titanium
+nanolayered pillars
+criteria of fracture
+hydrogen effect
+self-assembly
+brittleness
+thermoplastic polymer
+viscoelastic material
+validation
+particle configuration
+dynamic compression
+graphene nanobuds
+frequency band gaps
+1-ethyl-3-methylimidazolium tetrafluoroborate
+bamo–ammo/dianp composite
+halpin–tsai
+piezoelectric
+closed crack
+single walled carbon nanocone
+molecular mechanics
+dynamic instability
+traumatic brain injury (tbi)
+ogden
+impulsive
+load
+properties
+layered material
+boltzmann machine
+quantum annealer
+non-isothermal annealing
+ultra-fine
+boron
+multi-scale statistical reconstruction
+entropic descriptors
+correlation descriptors
+simulated annealing
+dispersion of inclusions
+reconstruction
+annealing procedure
+bibliography
+carburizing
+weld residual stress
+transient enhanced diffusion
+impurity interstitials
+induction heating
+iso c45 steel
+metallurgical transformations
+relaxation
+transient regime
+magnesium oxide
+empirical potentials
+phosphorus
+biased random walk
+surface tension effect
+multi-pass weld
+constrained groove pressing
+severe plastic deformation
+h62 brass
+hydrogen concentration
+thermal equilibrium
+deformation history
+phase diagrams
+cucurbit[n]uril
+homogenization procedure
+boundary layer
+couple stresses
+nanocrystalline ni
+frictional anisotropy
+superlubricity
+graphite
+crack bridging
+stainless steels
+surface sliding
+micro/nano-gear train
+tribological behavior
+bainite
+martensite
+anomalous eutectic growth
+movpe
+aix200 rf reactor
+transport properties
+parasitic deposition
+fe–n phase diagram
+nitrogen absorption isotherms
+nitrogen profile
+flame retardants
+gfr epoxy composites
+post-fire flexural performance
+mesh independency
+tip velocity
+portland cement
+cemhyd3d
+mesh transformation
+mesh regularization
+rate-type viscosity
+thermal dissipation
+damage parameter d
+normal stress criterion
+silicon film
+rb2kscf6
+avalanches
+power-law behavior
+erosion/deposition
+shock-compression
+lagrangian elastic code
+protomene
+carbon allotrope
+mechanical and thermal properties
+perovskite materials
+support vector machine
+relevance vector machine
+magnetic materials
+critical phenomena
+delta plutonium
+exact exchange
+reactive diffusion
+solid state reaction
+linear-parabolic kinetics
+sp3 nucleus
+transition from hbn to cbn
+laser assisted process
+rotary switch
+proton transfer
+tautomerism
+ultrafast spectroscopy
+work-hardening
+deformation mechanism maps
+poly(phenylene terephthalamide)
+reactive
+failure mechanisms
+wood cell wall
+single-crystalline cu nanowire
+asymmetry
+polycrystalline
+nanoporous metallic glasses
+pore shape
+reactions
+long time scales
+arc cutting
+ultra-precision cutting
+nano-twinned ni
+tb
+fe3o4
+orbital rearrangement
+nano-cu film
+beryllium phosphorus nitride
+anisotropic mechanical properties
+a-site-ordered perovskite
+superexchange interaction
+antiferromagnet
+hall–petch relation
+fiber ceramics
+transverse cracking
+stochastic fiber failure
+shear damage
+microbuckling
+aluminum single crystals
+fibre-reinforced composite
+anisotropic damage
+viscous regulation
+nanoporous mgs
+atomization
+two phase flow
+supersonic flow
+turbulent jets
+convergence region
+silica
+water dimer
+hydrolytic weakening
+quantum mechanics
+ab initio quantum chemistry
+c-bn
+thin layers
+tension property
+gadolinia doped ceria
+flexural concrete beam
+diagonal crack
+two-dimensional silicon dioxide
+vitreous
+nanoparticle-based composite
+electrical percolation
+electron transport mechanism
+size and shape effects
+fracture mechanisms
+inhomogeneous material
+hydroxyl center
+proton release
+ionization damage
+amorphous silica
+dynamic damage
+polymer bonded explosives
+peridynamic
+silicon nanowires
+bending creep
+black phosphorus
+cu/ta multilayers
+fcc cu nanowire
+uniaxial tensile deformation
+twin
+t-carbon
+silicon nanofilms
+fracture behaviour
+graphene doping
+graphene joining
+graphene nanopore fabrication
+particle beam irradiation
+nanotwinned cu
+twin transmission
+dynamic behaviour
+crack-tip stress
+beat phenomenon
+metal nanowires
+elementary directions
+vibration
+excitation frequency
+mgs
+laser machining
+tbc removal
+silicon nitride nanowires
+breaking strength
+environment-dependent potential
+boundary-value problem
+coated materials
+localized plastic flow and fracture
+bone damage
+damage evolution law
+electromagnetic field
+biomaterials
+water diffusion
+external electric field
+water tree
+space charge
+inverse hall-petch
+black phosphorene
+perfect absorbers
+tunable metamaterials
+self-healing efficiency
+nanomagnets
+ge thin films
+linear polymers
+dislocation-twin interactions
+nanoring
+argon
+magnesium single crystal
+eam
+transformation toughening
+curing process
+near-infrared spectroscopy
+mean free path
+single phase materials
+diffusion creep
+yield
+silicon surfaces
+surface reactions
+reaction dynamics
+tribological property
+nano particle
+tip damage
+automatic nanomanipulation
+positioning errors
+(0 0 0 1) polar surfaces
+pt adsorption
+tensile failure
+dynamic effects
+short crack
+a. nano composites
+b. interfacial strength
+b. mechanical properties
+atomistic formulation
+dislocation nucleation and motion
+graphane
+circumference
+crystallization behaviors
+srtio3
+critical twin spacing
+nanocrystals
+acoustic vibrations
+hybrid welded joint
+corrosion
+surfactant-polymer mixtures
+polyacrylamide
+population diversity
+manufacturing
+size-dependent
+hyper molecular dynamics
+local bias potential
+orientation effect
+bcc lattice
+nonlinear lattice dynamics
+crack deflection/penetration
+nano-friction
+tilt effect
+pile-up
+local plasticity
+nanoframes
+metallic nanocages
+hardness homogeneity
+all-electric spintronics
+rashba spin–orbit coupling
+nanoscratch
+single crystalline copper
+minimum depth
+plane strain deformation
+pure magnesium
+electronic transport
+elastic limit
+nanoscale sliding
+pseudo amorphous cell
+dissolution
+hill potential
+multiferroics
+nano-breaking
+shock-wave
+self heal
+characteristic-distance
+mixture criterion
+short fatigue crack propagation
+microstructural barrier
+segregated b
+strengthening effect
+gb cohesion
+nial
+scratch
+fiber orientation variation factor
+fiber orientation distribution
+principal strains
+continuum damage mechanics
+gradient continuum
+failure induced anisotropy
+thermodynamic framework
+nc bending
+retracting mandrel
+whole process
+flexural beam
+shear failure
+diagonal crack propagation
+nanobuds
+fullerene
+fiber reinforced polymers
+fiber fracture
+acoustic emission
+bcc iron nanowire
+tensile behaviour
+crystalline solids
+orthogonal nanometric machining
+thermo-mechanics
+chip temperature
+mono silicon
+crack stability
+tool steel
+aisi h13
+molecular orientation
+wide-angle x-ray scattering
+semicrystalline
+sintered metals
+liquid crystalline polymers
+order parameter
+isotropisation temperature
+kink bands
+elastic–viscoplastic material
+dislocation propagation
+porous
+trefftz
+lekhnitskii
+open flaw
+closed flaw
+filling material
+residual thermal stress
+two-stage covering
+pre-made composite
+virtual experiment
+metal/ceramic
+birth and death element
+multi-pass welds
+mode і crack
+fibre reinforcement
+cyclic fatigue
+high strength carbon steel weld
+pulsed gas metal arc welding
+dissimilar metal welds
+flip chip on board
+underfill resin
+flexible substrate
+idealized explicit fem
+nanolaminated mab phases
+moalb
+walb
+zinc gallate spinel
+vibrational property
+liquid phase sintering
+green-kubo relations
+partial specific enthalpy
+k2o–sio2
+na2o–sio2
+thermal equilibrium state
+mesomorphic mixtures
+nematic liquid crystals
+phase equilibria
+phase
+melt
+confined liquid crystals
+hybrid films
+silica glass
+glass-forming ability
+plasma source ion nitriding
+nitrogen diffusion
+recrystallization kinetics
+microstructurally small cracks
+304 stainless steel
+austenitic stainless steel (ass)
+low temperature
+strain-induced martensitic transformation
+vacancy concentration
+solid-state transformation kinetics
+dynamic stress intensity factors
+mls-approximation
+transient linear coupled thermoelasticity
+thermal dynamic stress intensity factors
+inclusion evolution
+interconnect
+penny-shaped crack
+thermopiezoelectricity
+quasicrystal
+fluid phonon
+damage-fracture transition
+silica/pvc
+geometrical coherency
+potassium and phosphorus recovery
+solubility product
+struvite-k
+rectangular deep drawn
+blank thickness
+length/wide punch ratio
+dual phase steels
+micro-compression
+dp600 steel
+rate-dependent
+dynamic tension
+vumat
+polymer blend nanocomposites
+nanofiller content
+powder metallurgy superalloy
+thermal deformation behavior
+ni-base ds superalloy
+multi-axial stress state
+constraint degree
+stress rupture life
+ni-based superalloy
+microindentation
+sink-in
+cmsx-4
+excitonic splitting
+inp/gap
+inp/gap/zns
+core/shell/shell nanocrystal
+electron transport
+landauer
+electronic cloaking
+transport
+thermo-mechanical properties
+lattice parameters
+spherical semiconductor quantum dot
+nanocrystalline semiconductors
+ion implantation
+normal compressive strain
+semiconductor–metal transition
+optical
+nanoribbons
+polystyrene nanoparticles
+pb/pb-si nanochain
+oxide nanotubes
+sulfide nanotubes
+metallic edge states
+edge magnetism
+afm semiconducting ground state
+ppv
+pda
+charge mobility
+n-type conductivity
+excess electrons
+tungsten trioxides
+graphene layers
+argon spacer
+frank-read source
+polytypic transformation
+critical stress
+numerical homogenisation
+crystal anisotropy
+diffusion limited aggregation
+dendrites
+dipole–dipole interaction
+anisotropic growth
+self hardening
+latent hardening
+scale transition rules
+plastic flow
+filler orientation
+dielectric constant
+inertial migration
+spheroid
+icosahedron
+complex permeability
+magneto-elastic behavior
+iron loss
+cu nano-beams
+geometric scaling
+necking of cu nano-beams
+unilateral effects
+nanocomposite
+hashin–shtrikman bound
+spherical inclusion
+j integral
+lattice instabilities
+nickel superalloy
+non-linear combined hardening
+high-speed deformation
+ballistic plastometer
+elastic waves
+initial axial stress
+dynamic fracture mechanics
+in-plane shear
+longitudinal shear
+bayesian
+flow strength
+unidirectional fibres
+random fibres
+fibre interaction
+particulate–fibre composites
+steel, frp
+fire resistance
+cu/cnts composites
+microscopic randomness
+stochastic homogenization
+fiber reinforced composite material
+laser shock forming
+interfacial damage and failure
+identification of interfacial parameters
+split johnson–cook material parameters
+calibration procedures
+strain rate and temperature sensitivities
+plastic behavior of metals
+vamuch
+materials genome
+nonlinear homogenization
+diamondene
+stress-strain curves
+vapor-grown carbon nanofiber
+vinyl ester
+viscoelastic/flexural/tensile/compressive
+fatigue stress concentration factor
+material fatigue resistance
+vapor-grown carbon nanofiber/vinyl ester
+nanoglass
+nanolaminates composite
+fingerprinting
+diamond-sic composite
+dynamic strength
+distribution pattern
+stress singularity order
+cu/si bi-material
+large yielding scale
+polishing
+abrasive particle
+core-shell agglomerate
+compression experiment
+early-age
+diffusivity
+laser full penetration welding
+weld dimensions
+stochastic inference
+non-parametric bootstrap
+confidence bounds
+fracture processes
+mode ii fracture
+siliceous fly-ash
+shear stress amplitude
+smallest enclosing circle
+high-nitrogen steel
+fatigue behavior
+fatigue crack propagation (fcp)
+multiphase
+interphase
+imperfect adhesion
+transversely isotropic fiber
+thermo-viscoelasticity
+cutback
+shape effects
+micro-macroscopic properties
+particulate materials
+natural materials
+composite
+potential
+strength hypothesis
+interfacial bonding
+electrolytic solutions
+ionic activity
+ionic strength
+piezoelectric properties
+thermal rectification
+compressive properties
+point defect
+reverse non-equilibrium
+supercooled liquid
+transverse oscillations
+carbyne
+one-dimensional
+reverse non-equilibrium molecular dynamics (rnemd)
+green-kubo
+tersoff
+heat flux formulation
+skutterudites
+sb vacancies
+layer stacking
+opposite atoms
+stacking order
+two-photon absorption
+projector-augmented wave
+dielectric response
+photoelastic response
+l12-ti(al pt)3
+mechanical mutability
+cubic polycrystals
+elastic localization tensors
+cathodes
+lithium-ion battery separator
+intercalation stress
+thermal mismatch
+thermo-viscoelastic
+thermal runaway
+crack detection
+brittle crack
+crack interaction
+lattice misfit
+metallic glass transition
+local order
+intermediate range order
+non-gaussian random field
+damage regularization
+higher order continua
+micromorphic
+granular media
+fabric tensor
+phase shift
+phase-lag
+yield surfaces
+pareto
+trigonometrically fitting
+exponential-fitting
+resonance problem
+scattering problem
+range
+short-order range
+long-order range
+symmetric free-edge joint
+singularity order
+elastic material
+elasto-plastic material
+single-walled carbon nanocones
+temperature-related higher-order cauchy–born rule
+reduced-order representation
+complex materials
+symplectic integration
+eigenvalue problem
+brownian motion
+sticking event
+receding surfaces
+carbon–carbon composites
+dendrite arm spacing
+transition-metal oxides
+orbital physics
+dental joints
+dentin
+dental restorative materials
+separated representation
+nonlinear viscoelasticity
+fractional calculus
+dislocation pattern
+microstructural heterogeneity
+non-proportional loading
+5-harness satin
+carbon-nanotube composites
+rigid inclusions
+bi-material notches
+karhunen–loève expansion
+rectangular plate
+interlayer couplings
+green–kubo
+bi-material
+bi-axial
+non-basal slip
+defect nucleation
+bioplar droplet
+polymer-dispersed liquid crystal (pdlc) film
+liquid crystal director reorientation
+particle reinforced elastomers
+softening materials
+in-plane buckling load
+elementary pattern
+3d finite element analyses
+geometrical nonlinearities
+crushing
+thread behaviour
+global versus local phenomena
+piezoelectric materials
+derivatives
+butt-weld
+quantum molecular dynamics
+mass diffusion
+spin-filter efficiency
+boundary element
+rupture time
+damage process
+combined hardening
+trip/twip
+hill's potential
+phase-transformations
+trip steel
+single crystal beam
+bending size effect
+spring back size effect
+orientation dependency
+gnd isotropic hardening
+gnd kinematic hardening
+solid oxide fuel cell (sofc)
+electrolyte
+ion conductivity
+microcapsules
+liquid release
+gradient-enhanced continuum
+localized failure
+titanium oxide
+bigraphene
+spintronics
+transition metal
+adsorption
+bdf2
+time-step-control
+aluminum-boron-composite
+chaotic behavior
+c. ferroelectric properties
+pmn-pt
+bonded composite patch
+applied mechanics
+constant friction factor
+atmospheric corrosion
+zinc
+hyper-molecular dynamics
+filler
+elongation
+total knee replacement (tkr)
+tibia tray
+22mnb5
+localized necking
+element-free galerkin
+gradient plasticity
+ceramic materials
+mixed mode loading
+elastic–plastic stress
+clamped and simply supported plates
+thermoplastic laminated plates
+plates with rectangular hole
+photoelasticity
+center crack
+variable fiber spacing
+thermal postbuckling
+flutter
+composite laminate
+particle-reinforced composite (prc)
+r-value
+heat conductivity
+nanocoil
+kinked crack
+ceramic composites
+porous materials
+ductile
+plastic compressibility
+double porous media
+green materials
+complex stress states
+fully reversed cycling
+continuum damage mechanics (cdm)
+ideal tensile strength
+non-stoichiometric
+micromagnetism
+stray field
+transverse susceptibility
+behavior at rupture
+elastomers
+ultimate elongations
+seth strain measures invariant
+biaxiality ration
+bonded patch repair
+disbond effect
+apparent/effective properties
+stochastic mechanics
+early age
+percolation
+ag nanowire
+ion-solid interactions
+plasma material interactions
+code coupling
+itz
+ultrafast-pulse laser
+nanoscale film
+contact problem with friction
+friction coulomb law
+stick–slip motion
+contact surface materials
+sliding behavior
+graphene sheets
+nano-sensor
+orientation-dependent properties
+stochastic
+yield curve
+poisson line process
+flow resistivity
+acoustic absorption
+in-flight particle characteristics
+coating properties and characteristics
+deposition yield
+cylindrical orthotropy
+double period
+smoothed particles hydrodynamics (sph)
+kernel correction
+inhomogeneous materials
+distribution mixtures
+nano-indentation experiment
+aluminum 1100
+rolling reduction
+conjugate gradient
+modified zener–hollomon parameter
+compensation of strain and strain rate
+surface effects
+type ii superconductors
+x-ray ct
+air void distribution
+bi-orthogonal decomposition
+property variability
+two-phase composite
+ductile crack growth
+brittle inclusions
+symmetric laminates
+ply cracks
+constraining layers
+pfc
+rod drawing
+wire drawing
+non-metallic inclusions
+fracture of ceramics
+orthotropic elastic composite material
+silicalite
+pyridine
+heat of adsorption
+refined beam of neutral free radical
+selective epitaxy
+metastable condensed phase
+metallic glasses
+flow serration
+deborah number
+tunable electronic properties
+o-doping
+titanium dioxide
+medium-high carbon steel
+martensite transformation
+earing
+uniaxial and biaxial loading
+railway wheels
+cavity growth
+multicrystalline silicon
+optimisation
+powder pattern
+indexing
+multiple extrema
+convergence
+texture decomposition
+gauss component
+pso
+nonlinear vdw interaction
+microstructural image of tbcs
+micro-crack growth
+cementite
+hot press forming
+morphological characteristics
+hts
+crack–inclusion
+electromagnetic force
+glass transition temperature
+graphene–polymer composite
+additivity principle
+boron carbide
+bond kinetics
+manganese oxides
+nanostructuring
+β-mno2
+ethanol oxidation reaction
+csbndc bond cleavage
+csbndo bond coupling
+ch3cooh formation
+transition metals
+dynamical recovery
+single-crystal superalloy
+stress relaxation
+parameter optimisation
+multiaxial creep
+cyclic oxidation
+al–si coatings
+hierarchical representation
+backus-naur form
+xml schema definitions
+crystallographic orientations
+orientation factor
+polymer damage
+fibrillation
+size selection
+discrete voids
+void growth and coalescence
+small-scale yielding
+crack tip shielding
+ductile cast iron
+triaxial tensile loading
+single crystal copper nanocubes
+influence factor
+fracture criteria
+microvoid growth
+sintered metal
+elastic–plastic damage
+stress triaxiality dependence
+cuda
+gain broadening
+quantum-dot
+broadband laser
+inhomogeneous broadening
+homogeneous broadening
+ingaas/gaas
+porous composite materials
+plastic deformation localization
+material base cell
+mean compliance
+evolutive transition behaviour
+free-edge effects
+singularity
+carbon fibre reinforced composite
+random composite material
+periodic composite material
+polymeric composite
+biomaterial
+manufacturing processes
+self-consistent scheme
+effective medium
+local strain field
+neutron diffraction
+carbon–fiber-reinforced polymers (cfrp)
+crack-microdefect interaction
+pine wood dust reinforcement
+glass fibre-reinforced composites
+high temperature properties
+finite element analyses
+three-point bending fatigue
+3-d braided composite
+user-defined materials (umats)
+nonlocal averaging
+rigid inclusion
+anisotropic fiber-reinforced composites
+multiple interfacial layers
+antiplane crack
+riemann–hilbert problem
+manufacturing porosity
+graded materials
+heterogeneous piezoelectric composite
+thermo-electro-mechanical behavior
+woven fabric
+fractional derivatives
+large strains
+al2o3
+tzp
+hemicellulose
+effective permeability
+intrinsic permeability
+flaky inclusion
+carbonyl iron powder
+geodesic active contours
+serial sections
+indent
+macro-, meso-, and micro-level of investigation
+stress/strain curves
+periodicity conditions
+hypoelasticity
+fibrous material
+anfis
+laminated sheet
+flange wrinkling
+successive elastic solution
+creep behavior
+statistical continuum mechanics
+mixed mode debonding
+magnetoelasticity
+composite elastomers
+finite deformations
+constitutive laws
+piezoelectric ceramics
+oxide scale
+interaction integral
+charge screening
+mixed mode i/ii
+semi-circular bend specimen
+brazilian disc specimen
+〈1 0 0〉 cu nanowire
+pre-necking deformation
+post-necking deformation
+copper nanowires
+the most probable breaking position
+si nanowires
+ni–al bimetallic nanowires
+stress–strain curve
+gas flow rate
+gas component
+stability
+dithering beam
+rotating beam
+statistical self-similarity
+topological transitions
+intramolecular junctions
+thermo-mechanical
+recursive
+iterative
+3d study
+piezoceramic materials
+self-adaptive differential evolution
+spontaneous polarization
+spontaneous strain
+aboav–weaire-law
+topological events
+fermi-pasta-ulam
+gradient crystal plasticity
+self-/latent hardening
+chemical vapor infiltration
+diffusion/reaction problems
+random walks
+linear-combination-based isotropic periodic sum
+methanol
+substrate profiles
+spectroscopy auger
+fvm
+discrete number of velocity directions
+thermal-conductivity
+carbon nanotube composites
+thermophoresis
+variable thermal conductivity
+chebyshev finite difference
+metal foams
+x-ray microtomography
+skeletonization
+nanoscale effects
+vibrational modes
+green–kubo formalism
+bxcynz heteronanotubes
+nitmtaa
+critical temperature
+a. ternary carbide
+d. thermal properties
+d. optical properties
+steel continuous casting
+convective heat transfer
+restraint
+nanostrcutured permanent magnets
+magnetization and demagnetization
+thermo-mechanical behavior
+rolls size effects
+micro/meso-forming
+size/scale factor
+stripe domain
+strain effect
+nanobeam
+single-crystal copper
+intrinsic material length
+plastic strain gradient
+orientation distribution
+nanofiller
+thermal stress intensity factor
+side flow
+recovery
+stagnation region
+delamination buckling
+hydrophobic material
+impact phenomenon
+spin scattering
+non-adiabatic response
+electron emission
+sharp emitters
+nanotips
+rotating magnetic field
+local strain field analyses
+fe-cr-ni stainless steel
+high temperature water
+interfacial reactions
+charge transfer
+surface science
+vacancy defects
+uc
+potential parameter fitting
+bimodal effect
+bond length
+perovskites
+atomic parameters
+percentage absolute difference
+ferromagnetic crystals
+fe
+q-states
+second phase particles
+zener limit
+scaling constant
+coincident site lattice (csl)
+crystallographic constraint
+special coordination
+dislocation velocity
+misfit potential
+dislocation core
+path of least resistance (polr)
+body centered cubic
+passivation layer
+junction drag effect
+oxygen vacancy
+nanocrystalline material
+laplace transform
+heat capacity
+molecular crystals
+β-diketonate fe
+kpb2cl5
+kpb2br5
+γ′-ni3al
+lattice-boltzmann
+droplet
+hugoniot relationship
+burgers vector
+melting point
+coated sample
+rubber curing
+cure kinetics
+rest-api
+materials genomics
+aflow
+collagen
+tissue engineering
+statistical correlation
+spark plasma sintering (sps)
+statistically equivalent periodic unit cell
+graphics processing unit
+material behavior
+curve fitting
+curve approximation
+magnetohydrodynamic
+zno
+dislocation mechanics
+tmcp steel
+sm570-tmc
+low-cycle fatigue
+power-law creep
+steady-state creep
+spectral finite element
+basis sets
+annihilation
+polymer nafion
+ip-ga
+response surface
+processing
+magnetodielectrical material
+effective complex magnetic permeability
+effective complex electric permittivity
+lognormal distribution
+viscoplastic property
+polymer materials
+brittle material failure
+pipeline steel
+reverse plasticity
+gumbel distribution
+brittle rupture
+geometrical optimizing
+drücker-prager behavior
+parameter sensitivities
+steel properties
+anisotropic wood material
+continuum micromechanics
+dynamic electric displacement intensity factor
+pyrene derivatives
+experimental study
+photophysical properties
+pzt actuation
+thermomechanical stress
+deflection
+micro-mirror
+polar surface
+nonpolar surface
+isometry
+multi-physics
+discontinuities
+cohesion
+filled nanocomposites
+geometrically necessary dislocations
+vertically aligned nanotubes
+power voronoi-diagram
+interior angle
+thermoplastic olefin
+rate dependence
+bone behaviour
+human femur
+implants
+topology deformation
+comminution
+instrumented indentation
+gan/zno heterojunction
+materials project
+rest
+representational state transfer
+barreling
+cap aspect ratio
+radius of the transition surface
+molecular materials
+magnetic exchange
+foam material
+crushable pore
+pore collapse
+expanded polystyrene
+shifting cloak
+homogeneous metamaterials
+thin hard films
+indentation-induced fracture
+channel cracks
+powder consolidation
+pressing
+nano-powders
+king’s rings
+primitive rings
+strong rings
+piezoelectricity
+isotropic stress field
+anisotropic stress field
+aluminum laser welded joints
+mndo
+anisotropic materials
+epitaxy
+crack growth in metal sheets
+r-curves
+kahn specimen
+disk forging
+non-parametric belief propagation
+constituting phase
+wire rope
+fractography
+mathematica
+contact problem
+identification
+gas absorption
+recycled aggregate
+splitting tensile strength
+cementitious composites
+bond strength
+tensile responses
+crack-tip stress field
+edge crack
+fracture of graphene
+crack healing
+crack–vacancy interaction
+tailoring of fracture properties
+coated particle
+virial stress
+waste polymers
+interfacial adhesion
+monolayer ws2
+tm-doped monolayer ws2
+magnetic storage
+tailor welded blank
+weld zone
+exciton diffusion length
+spatial disorder
+orientation disorder
+physical trap
+auxetic materials
+conducting polymers
+electroluminescence
+smoothed molecular dynamics
+seals
+porosity ratio
+protective materials
+geometrical and morphological characterizations
+decision trees
+sandwich panels
+nomex h.c.
+nanomanipulation
+nanoparticle
+material effects
+mixed dislocation
+nye tensor
+crystallographic slip zone
+2d dislocation dynamics
+junction
+crossed state
+mesoscopic length scale
+accelerations
+diffraction
+fourier transformation
+shock deformation and spallation
+stair-rod dislocation
+microcrack healing
+cu
+twins
+waves
+stretching deformation
+nonsolidity
+vacancy diffusion
+crystal deformation
+3d molecular dynamics
+mode ii
+viscous stress
+mesovolume
+limiting drawing ratio
+316l stainless steel
+ge(1 0 0) surface
+ge adsorption
+simulated stm images
+pd–ca–silica catalysts
+co–pd
+ased-mo
+non-adiabatic
+ehrenfest
+hole distribution
+la2−xsrxcu1−yzn(ni)yo4
+force field benchmark
+normal valent
+multivalent
+relativistic corrections
+argon plasma
+melting time
+melting behavior
+copper nanorod
+aermet100 steel
+adhesive contact
+loading and unloading
+plastic pull-off force
+dielectric susceptibility
+ferroelectric relaxor
+cnt agglomerates
+rotary kiln
+iron making
+sponge iron
+direct reduction
+neural net
+transonic twins
+accelerated molecular dynamics
+collective variables
+magnetite
+oxide formation
+effective stiffness tensor
+ultra-heavy plate rolling
+central crack
+closing behavior
+critical reduction
+canister
+strain-dependent
+zone-centre
+lithium manganese oxides
+raman and infrared phonons
+interpore distance
+nanoporous anodic aluminum oxide
+growth stress
+tgo growth
+chemo-mechanical coupled
+eem
+ultra-fine powder metal oxide
+drawing stress
+cnt junction
+random pores
+single fiber pull-out
+nano-films
+lateral movement
+noncontact interaction
+instability
+cognitive load
+teaching
+multi-phase equilibrium
+orthotropic elastoplastic materials
+the lüders band
+kinking
+stress-induced phase transformations
+koistinen–marburger
+non-isothermal conditions
+temperature and stress distribution
+eigen values
+fene dumbbells
+polymer flow
+ultrasonic softening
+cof
+aluminium single crystal
+traction law
+pullout behavior
+vhb 4910
+material parameter identification
+cnt/pp nanocomposites
+cnt/pp interphase
+ballistic
+cementitious
+material
+peak load
+in-plane roll-bending
+spread effects
+hole expansion ratio
+true fracture strain
+auto grade steels
+nanotube angular-velocimeter
+nanotube resonator
+cantilevered nanotube oscillators
+nanotube-resonator
+nanotube frequency tuner
+nanotube memory
+mass detector
+nanobalance
+shear-strain-induced tension
+nanotube tuner
+nanopeapods
+shear behaviors
+combined loading
+failure envelope
+helium diffusion
+anisotropic viscoplasticity
+texture components
+elastic anisotropy
+phonon focusing
+slowness surface
+phonon caustics
+frenkel–kontorova chain
+breather
+resonance effect
+boron nitride–carbon nanosheet
+thickness determination
+boron nitride-carbon nanotube
+nanosensor
+mass sensing
+bulky shuttle memory device
+boron-nitride peapod
+boron-nitride nanotube
+nano nonvolatile memory
+rotary nanomotor
+braking nanotube
+bnc nanotube
+domain growth
+ultrathin magnetic films
+magnetic viscosity
+ellipsoidal inclusion
+elasto-inelastic behavior
+yield surface evolution
+statistical continuum
+contact anisotropy
+coatings and thin films
+ultrathin magnetic film
+normal surface anisotropy
+spin-reorientation transition
+u-bending
+hill48 yielding criterion
+material hardening rule
+unbending
+anisotropy induced by damage
+multiaxial cyclic plasticity
+generalized measures
+vpsc
+circular co dots
+traction free surface
+autocorrelation length
+duplex steels
+randomness
+rotation transmission
+curved nanobearing
+hydrogenation
+nanobearing
+oscillator
+rotor
+lattice rotations
+plain weave
+nano motor
+forming characteristics
+behaviors of roller
+continuous feed conditions
+hydrodynamic stresses
+suspended sphere
+3d flow
+orientation spread
+dic
+3d fem
+softening plasticity
+consistent tangent operator
+rod
+laser micro-sintering
+process parameter
+dimensions of molten pool
+de-gmaw process
+weld dimension
+residual stress and distortion
+magnetic nanoparticles
+peak temperature
+poly-dispersity
+high power direct-diode laser welding
+rectangular output beam profile
+weld pool dimension
+surfaces
+sheet
+mechanical attrition treatment
+enhanced ductility
+applied mathematics
+particle fracture
+periodic homogenization
+material damage
+surface morphology
+ultrasonic shot peening
+aisi-1018 steel
+mossbauer spectroscopy
+nuclear magnetic resonance
+entropy
+power laws
+anode boundary layer
+hutchinson–rice–rosengren field
+thermomechanical
+faceted gemstones
+backstress
+pre-hardening
+stress-control
+warm pre-stressing
+mode i
+microcrack evolution
+stress migration
+plastic deformation band
+gradients of strain and stress
+carbon nanotubes (cnt)
+microtomography
+miniature specimen
+inverse finite element procedure
+constitutive tensile behavior
+load vs. displacement curve
+abs (acrylonitrile–butadiene–styrene)
+particle mechanics
+post-buckling
+vibration under post-buckling behavior
+thin-walled beams
+laminated plate
+dwnts
+cylindrical shell
+radii difference
+double-walled carbon nanotube
+double-wall
+cylindrical panel
+magnetic induction
+magnetization
+applied magnetic field
+silicane nanosheet
+metallic bimaterial
+non-euclidean
+load–elongation
+mean square error
+unstable failure
+gamma based titanium aluminide
+multiple scale
+total hip prosthesis (tph)
+break-through mode
+time-domain hypersingular bem
+lubich’s quadrature formula
+stresses intensity factor
+mixed mode i + ii
+pellet-cladding interaction
+pci
+light water reactor
+thermomechanics
+hip prosthesis
+acrylic cement
+adhesively bonded joint
+perforated al sheets
+interfacial mechanical property
+wrinkled graphene sheet
+graphene nano platelet
+nanocomposite membrane
+y-doped baceo3 nanoparticle
+proton conductivity
+nano silica
+phenolic resin
+nano indentation
+strain hardening behavior
+d. microcavity-polariton condensate
+d. vortex
+algan/gan
+supercooled austenite
+sae 52100
+gcr15 steel
+nitrogen
+tritium
+carbon impurity
+γ-lialo2 (1 0 0) surface
+adsorbate
+lateral diffusivity
+surface coverage
+lennard-jones potential
+hypermolecular dynamics
+island ripening
+surface growth
+debonding parameter
+crystallisation
+size dependence
+copper and gold nanoparticles
+stereoimaging
+constitutive law parameters
+cross-hardening
+pre-loads
+metal-ceramic composites
+distributed applications
+potassium fulleride
+rubidium fulleride
+plasmons
+eigenfrequencies of free-electron sphere
+strain-path changes
+microbands
+disclinations
+mild steel
+electrodeposition
+additive
+copper-filled carbon nanotubes
+soft-to-hard transition
+high radial strength
+discontinuous phenomena
+creep crack growth
+p92 steel
+parameter c*
+elasto-viscoplasticity
+deformation non-uniformity
+cross-channel extrusion
+stress–strain variations
+two-exponent power-law
+entropic descriptor
+dependence of sif and t-stress
+influence of boundary conditions
+flow-induced vibration
+imperfection
+pasternak foundation
+angularity
+form
+imaging
+particle
+rare events
+statistical mechanics
+intra-molecular charge mobility
+dmeoppv
+pt growth
+pt/tio2
+schottky barrier height
+determination
+reverse current
+reverse voltage
+surface elastic waves
+haemodynamics
+drug-eluting stents (des)
+in stent restenosis (isr)
+nitinol
+free surface depression
+fully-penetrated weld pool
+front free surface deformation
+back free surface deformation
+arc and pool
+inco718 welded sheet
+soft tissue
+decohesion
+impact-induced damage
+mechanical formulation
+kill element
+unidirectional fibre reinforced composites
+damage propagation
+laser scanning microscopy (lsm)
+tdks
+kirigami
+flexibility
+nonadiabatic transitions
+shockwaves
+shell particle
+pre-stressed
+gauss type qudratures formulas
+jacoby polynomials
+glass-epoxy
+repair patch
+crack opening displacement (cod)
+lipid membrane roughness
+canham–helfrich hamiltonian
+bloch oscillations
+square lattice
+plasmonic metamaterials
+surface plasmon polariton
+tunability
+perovskite
+ion migration
+polarisation
+a large-sized forging
+surface relief
+rate independence
+rounded yield locus
+uniqueness of slip
+series development
+standard distributions
+strain-gradient crystal plasticity
+ferroelastic domain
+switching
+transformation stresses
+diameter
+control
+filaments
+interpenetrating phase composite
+thin surface coatings
+microcrack interaction
+ferrite and martensite steel
+tp
+step-wise load
+through-hardening
+dimensionless numbers
+material constant optimisation
+void defects
+plasticity criterion
+mesodescription
+pearlitic steel
+cylindrical void
+material identification
+ultrasonic
+karhunen–loeve transform
+dimensionality
+drawing
+nano-machining
+time step
+silicon carbon nanotube
+armchair nanotube
+static polarizability
+nics
+defective single-walled carbon nanotubes
+nonequilibrium structural changes
+frp plate
+rc beam
+oof2
+tantalum carbide
+ceramic mixed ionic conductor
+fly ash
+plasticine
+graphene nano-ribbons
+damage mechanics of gnr
+armchair gnrs
+zigzag gnrs
+hyper-visco-hysteresis behavior
+resolved shear stress
+solvent-accessible surface
+molecular rugosity
+cavity
+brønsted acid
+chord length distribution (cld)
+non convex bodies
+light scattering
+nanofriction
+hollow particle
+fib-sem
+parametric surface
+dental implant
+cross-ecap
+hyperelasticity
+equilibrium shape
+migration velocity
+acoustic cloak
+acoustic metamaterials
+second harmonic generation
+comparison
+topological semimetals
+node-line semimetal
+nano-sensors
+nano-resonators
+resonant frequencies
+wave propagations
+81.40.lm
+phenomenological plasticity
+logarithmic strain
+objective stress rate
+interacting inclusions
+stacking fault tetrahedra
+volumetric strain
+emission
+amplitude–frequency properties
+fluid-conveying carbon nanotube
+curved shape
+bridged carbon nanotube
+biosensor
+frequency
+hydrogen storage
+van der waals (vdw) distance
+carbon nanotube arrays
+cantilevered boundary condition
+biosensors
+double-walled nanotube
+aluminogermanate nanotube
+imogolite
+nanoscale continuum mechanics
+groove pressing
+deformation homogeneity
+plastic mismatch
+dugdale crack
+ripple height
+acoustic modes
+roughness surface
+contact surface
+strain history
+double plates
+impact welding
+gas gun
+cell complex
+plane strain state
+elastic field
+soil mechanics
+settlements
+differential scheme
+finite periodical inhomogeneous media
+acoustic behavior
+multi-replicas
+path integral molecular dynamics
+weak formulation
+pattern
+void defect
+grazing ion bombardment
+fundamental solution
+multiply-layered cylinder
+pressurized sphere
+cylindrical
+spherical
+hard particle reinforced
+magneto-micropolar
+suction
+blowing
+woven fibre reinforcements
+moisture attack
+representative unit cell
+thin-film growth
+exchange reaction
+wettability gradient
+water nanodroplet
+movement pattern
+preforming binder
+stiffened glass fiber/polyester composite plates
+piezoelectric ceramic
+nastran
+deposition rate
+cellular materials, multi-fidelity optimization
+variable fidelity
+material behaviour
+nonlinear optimization
+multiple processor parallelisation
+tensorial fourier expansion
+mixing
+competing flaw distributions
+domain boundary
+mls approximation
+polyamide 6
+virtual material laboratory
+virtual reality
+force feedback
+superplastic deformation
+micromagnetic
+demagnetization interaction
+quantum corrals
+initial velocity
+rubber-toughening
+shear yielding
+crazing
+cohesive surface
+normalised sif
+spin chains
+non-abelian anyons
+exponential fitting
+p-stability
+scattering problems
+initial-value problems
+periodic solutions
+oscillating solutions
+orbital problems
+doublet
+turbidity
+anomalous diffraction
+graphene nanoribbons (gnrs)
+interlayer shear
+nanoscale mass sensor
+nanomechanical devices
+chemical kinetics
+reproducibility
+palmgren–miner rule
+cumulative damage
+additivity
+complex potentials
+quasi-phase-matching
+third harmonic generation
+sum-frequency generation
+effective strain
+principal strain
+scientific workflow
+directed acyclic graph
+iur-chords
+recognition of geometric figures by their chord length distribution
+2d
+on-chip
+thermal activation time dependence
+stripe domains
+current crowding
+concrete compressive strength
+ab initio mo
+error estimators
+nonlinearities
+circular notch specimen
+upv
+spurious oscillations
+discrete transformations
+thermoelasticity
+spr
+wspr
+l2-pr
+adaptive refinement
+quantity of interest
+goal-oriented
+cellular pattern study
+micrograph stitching
