@@ -13,3 +13,7 @@ run python3 repeat_extraction.py
 run article_extraction_npj.py
 
 ## Step2.Text Mining
+Run run.py
+PS:
+1. The corpus.txt contains only titles of articles, the corpus_add.txt contains both titles and abstracts of articles.
+2. There are a few parameters to be assigned in the run.py file. Among these parameters, param means the weighted coeffcient when calculating the topic probability.
