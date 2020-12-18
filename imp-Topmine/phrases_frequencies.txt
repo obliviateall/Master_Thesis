@@ -1,0 +1,624 @@
+"molecular dynamics": 353
+"first principles study": 319
+"finite element": 262
+"phase field": 233
+"mechanical properties": 219
+"first principles": 215
+"electronic properties": 204
+"first principles calculations": 196
+"molecular dynamics simulation": 180
+"electronic structure": 172
+"molecular dynamics study": 170
+"monte carlo": 152
+"molecular dynamics simulations": 140
+"elastic properties": 139
+"optical properties": 139
+"carbon nanotube": 132
+"carbon nanotubes": 120
+"ab initio study": 102
+"machine learning": 94
+"thermodynamic properties": 87
+"walled carbon": 83
+"magnetic properties": 82
+"density functional theory": 80
+"numerical simulation": 79
+"grain growth": 77
+"thermal conductivity": 74
+"theoretical study": 68
+"scale phase": 68
+"high pressure": 67
+"first principles investigation": 66
+"finite element analysis": 65
+"functional theory": 64
+"metal matrix": 63
+"shape memory": 62
+"tight binding": 61
+"multi scale": 60
+"large scale": 60
+"electronic structures": 58
+"dft study": 58
+"phase transition": 57
+"grain boundaries": 56
+"atomistic simulation": 54
+"grain boundary": 54
+"ab initio calculations": 53
+"numerical analysis": 53
+"thin films": 53
+"crack propagation": 52
+"phase transformation": 51
+"embedded atom": 51
+"kinetic monte": 50
+"single walled carbon nanotubes": 49
+"multi phase": 49
+"structural electronic": 48
+"grain size": 48
+"crystal plasticity": 48
+"field model": 48
+"single walled": 48
+"solidification model": 48
+"first principle study": 47
+"mechanical behavior": 47
+"plastic deformation": 47
+"numerical study": 47
+"part ii": 47
+"phase field model": 46
+"atomistic simulations": 42
+"dynamics simulations": 42
+"wall carbon": 41
+"thermal properties": 40
+"functionally graded": 40
+"microstructure evolution": 40
+"nanotube reinforced": 40
+"field lattice": 40
+"computer simulation": 39
+"structural elastic": 39
+"monte carlo simulation": 38
+"strain rate": 38
+"thin film": 38
+"band gap": 37
+"density functional theory study": 37
+"cellular automaton": 37
+"scale phase field": 37
+"residual stresses": 35
+"comparative study": 35
+"single crystal": 35
+"composite materials": 35
+"stacking fault": 35
+"stress strain": 35
+"lattice boltzmann": 35
+"dynamics simulation": 35
+"first principles calculation": 34
+"neural network": 34
+"atom method": 34
+"single wall": 33
+"phase field modeling": 32
+"point defects": 32
+"structural properties": 32
+"fiber reinforced": 32
+"matrix composites": 32
+"niti shape": 32
+"model part": 32
+"phase field simulation": 31
+"solid solution": 31
+"two phase": 31
+"kinetic monte carlo": 31
+"band structure": 31
+"finite element method": 31
+"large scale phase": 31
+"reinforced polymer": 31
+"atomic scale": 30
+"artificial neural network": 30
+"phase stability": 30
+"high temperature": 30
+"size effects": 30
+"plasticity finite element": 30
+"computational study": 29
+"metal matrix composites": 29
+"phase field study": 28
+"metallic glass": 28
+"simulation study": 28
+"single layer": 28
+"crack growth": 28
+"der waals": 28
+"induced phase": 28
+"empirical tight": 28
+"theoretical investigation": 27
+"computational modeling": 27
+"first principle": 27
+"deformation behavior": 27
+"crack tip": 27
+"van der": 27
+"single walled carbon": 27
+"dimensional phase": 27
+"two dimensional": 26
+"density functional study": 26
+"hydrogen storage": 26
+"finite element simulation": 26
+"polymer composites": 26
+"two scale": 26
+"memory alloy": 26
+"tilt grain": 26
+"transport properties": 25
+"atomic structure": 25
+"dynamic recrystallization": 25
+"embedded atom method": 25
+"constitutive model": 25
+"force field": 25
+"reinforced composites": 25
+"walled carbon nanotube": 25
+"thermal expansion": 24
+"mechanical behaviour": 24
+"interatomic potential": 24
+"high throughput": 24
+"size effect": 24
+"atomistic study": 24
+"dislocation dynamics": 24
+"graphene sheets": 24
+"phase transformations": 24
+"classical molecular dynamics": 24
+"ion battery": 24
+"3d phase": 24
+"solid solutions": 23
+"residual stress": 23
+"lattice dynamics": 23
+"elastic constants": 23
+"silicon carbide": 23
+"materials science": 23
+"aluminum alloy": 23
+"single crystals": 23
+"finite element modelling": 23
+"md simulation": 23
+"columnar solidification": 23
+"shape memory alloy": 23
+"memory alloys": 23
+"structural phase": 23
+"reinforced metal matrix": 23
+"generalized stacking": 23
+"phase field lattice": 23
+"functional tight": 23
+"physical properties": 22
+"atomistic modeling": 22
+"first principle calculations": 22
+"transition metal": 22
+"ground state": 22
+"exchange correlation": 22
+"plane strain": 22
+"plastic material": 22
+"solidification model part": 22
+"order two": 22
+"interatomic potentials": 21
+"intermetallic compounds": 21
+"rare earth": 21
+"numerical modelling": 21
+"electric field": 21
+"heat transfer": 21
+"heterogeneous materials": 21
+"scale modeling": 21
+"carlo simulation": 21
+"field simulation": 21
+"principles calculations": 21
+"multiscale solidification": 21
+"multiscale modeling": 20
+"thermoelectric properties": 20
+"phase field method": 20
+"first principles studies": 20
+"binary alloy": 20
+"lattice thermal conductivity": 20
+"numerical investigation": 20
+"001 surface": 20
+"molecular dynamics simulation study": 20
+"van der waals": 20
+"element method": 20
+"phase change": 20
+"initio molecular dynamics": 20
+"high strength": 20
+"particle 3d": 20
+"multiple phase": 20
+"solute 3d": 20
+"layer annealing": 20
+"ternary alloys": 19
+"metallic glasses": 19
+"alloying elements": 19
+"monte carlo simulations": 19
+"ab initio": 19
+"zinc blende": 19
+"bcc iron": 19
+"micromechanical modelling": 19
+"stainless steel": 19
+"layered graphene": 19
+"fatigue crack": 19
+"author index": 19
+"single wall carbon": 19
+"large scale phase field": 19
+"genetic algorithm": 18
+"neural networks": 18
+"shape memory alloys": 18
+"mechanical response": 18
+"fracture toughness": 18
+"dft calculations": 18
+"vibrational properties": 18
+"graphene nanoribbons": 18
+"material properties": 18
+"finite element modeling": 18
+"fcc metals": 18
+"unit cell": 18
+"finite element model": 18
+"dual phase": 18
+"nanotubes conveying": 18
+"oxide layer": 18
+"crystal plasticity finite element": 18
+"niti shape memory": 18
+"walled carbon nanotubes": 18
+"element analysis": 18
+"glass forming": 17
+"microstructural evolution": 17
+"deformation behaviour": 17
+"total energy": 17
+"finite element simulations": 17
+"cyclic loading": 17
+"graded material": 17
+"carbon nanotube reinforced": 17
+"die casting": 17
+"model incorporating": 17
+"titanium alloy": 16
+"fe cr": 16
+"aluminum alloys": 16
+"multi component": 16
+"structural elastic electronic": 16
+"free energy": 16
+"ab initio calculation": 16
+"phase transitions": 16
+"core shell": 16
+"magnesium alloy": 16
+"oxygen vacancy": 16
+"molecular dynamics method": 16
+"second order": 16
+"single walled carbon nanotube": 16
+"lithium ion": 16
+"transition metals": 16
+"dislocation core": 16
+"fibre reinforced": 16
+"tensile deformation": 16
+"deep learning": 16
+"multi phase field": 16
+"wall carbon nanotube": 16
+"field lattice boltzmann": 16
+"structural evolution": 15
+"molecular simulations": 15
+"first principles investigations": 15
+"genetic algorithms": 15
+"experimental study": 15
+"structural stability": 15
+"deformation mechanisms": 15
+"half metallicity": 15
+"effective mass": 15
+"case study": 15
+"numerical modeling": 15
+"electronic band structure": 15
+"phase diagram": 15
+"heat conduction": 15
+"boundary conditions": 15
+"hot work": 15
+"multi scale modeling": 15
+"reactive force": 15
+"metal doped": 15
+"metal oxide": 15
+"dynamics study": 15
+"one particle": 15
+"3d unit": 15
+"oxide multiple": 15
+"phase electrode": 15
+"boundaries kinetic monte": 15
+"hybrid geometry": 15
+"initio classical molecular dynamics": 15
+"anisotropy generalized stacking": 15
+"versus multi phase": 15
+"cyclic plastic material": 15
+"annealing monte": 15
+"epitaxial growth": 14
+"binary alloys": 14
+"phase field simulations": 14
+"artificial neural networks": 14
+"austenitic stainless steel": 14
+"self diffusion": 14
+"density functional theory calculations": 14
+"ab initio investigation": 14
+"solar cells": 14
+"crystal structure": 14
+"energy density": 14
+"electronic band": 14
+"flow stress": 14
+"110 surface": 14
+"molecular dynamics investigation": 14
+"single crystalline": 14
+"brittle fracture": 14
+"magnetic field": 14
+"martensitic transformation": 14
+"shear deformation": 14
+"ab initio molecular dynamics": 14
+"composite plates": 14
+"layer graphene": 14
+"solid state": 14
+"consistent charge": 14
+"diffusion controlled": 14
+"strain gradient": 14
+"multi walled": 14
+"metals part": 14
+"quantum dots": 13
+"chemical bonding": 13
+"fluid flow": 13
+"intergranular fracture": 13
+"mass transfer": 13
+"structural mechanical": 13
+"high pressures": 13
+"ca sr": 13
+"elastic moduli": 13
+"fracture behavior": 13
+"polycrystalline materials": 13
+"tight binding molecular dynamics": 13
+"grain structure": 13
+"damage evolution": 13
+"texture evolution": 13
+"three dimensional": 13
+"fatigue crack growth": 13
+"multi walled carbon nanotubes": 13
+"effective properties": 13
+"computer simulations": 13
+"equal channel angular extrusion": 13
+"fiber reinforced composites": 13
+"dendrite growth": 13
+"stress distribution": 13
+"void growth": 13
+"grain boundary migration": 13
+"micromechanical modeling": 13
+"directional solidification": 13
+"representative volume": 13
+"order parameter": 13
+"plasticity model": 13
+"aluminium alloy": 13
+"functionally graded material": 13
+"dynamics method": 13
+"thermal barrier": 13
+"martensitic phase": 13
+"cohesive zone": 13
+"density functional tight": 13
+"3d phase field": 13
+"strain deformation": 13
+"angular extrusion": 13
+"angular pressing": 13
+"dimensional phase field": 13
+"work tool": 13
+"columnar solidification model": 13
+"element techniques": 13
+"scale phase field lattice": 13
+"multiscale solidification model": 13
+"additive manufacturing": 12
+"phase diagrams": 12
+"titanium alloys": 12
+"strain gradient plasticity theory": 12
+"density functional calculations": 12
+"creep behaviour": 12
+"half metallic ferromagnetism": 12
+"hydrostatic pressure": 12
+"crystal structures": 12
+"charge density": 12
+"111 surface": 12
+"interfacial properties": 12
+"band gaps": 12
+"si ge": 12
+"cellular automata": 12
+"electron transport": 12
+"tensile loading": 12
+"alloy solidification": 12
+"thermal transport": 12
+"static recrystallization": 12
+"tensile strength": 12
+"bcc fe": 12
+"monte carlo study": 12
+"generalized gradient": 12
+"computational analysis": 12
+"wave propagation": 12
+"vibration analysis": 12
+"particle reinforced": 12
+"dislocation nucleation": 12
+"functionally graded materials": 12
+"solid liquid": 12
+"stress corrosion": 12
+"thermal barrier coatings": 12
+"arc welding": 12
+"second phase": 12
+"high strain": 12
+"strain hardening": 12
+"level set": 12
+"range order": 12
+"double walled": 12
+"element model": 12
+"ceramic tool": 12
+"binding molecular dynamics": 12
+"stress intensity": 12
+"element modeling": 12
+"pressure phase": 12
+"3d fe": 12
+"material behavior": 12
+"metal arc": 12
+"three dimensional phase": 12
+"order two scale": 12
+"monte carlo method": 11
+"mixed mode": 11
+"high entropy alloys": 11
+"fe analysis": 11
+"heusler alloys": 11
+"dual phase steels": 11
+"electronic magnetic": 11
+"pressure effect": 11
+"anatase tio2": 11
+"single wall carbon nanotubes": 11
+"density functional": 11
+"dislocation density": 11
+"plastic flow": 11
+"boron nitride": 11
+"amorphous silicon": 11
+"si 100": 11
+"mechanical behaviors": 11
+"high performance": 11
+"0001 surface": 11
+"deformation behaviors": 11
+"tensile behavior": 11
+"trip steel": 11
+"polycrystalline microstructures": 11
+"force fields": 11
+"tensile properties": 11
+"electronic structure calculations": 11
+"screw dislocation": 11
+"functionally graded steels": 11
+"impact energy": 11
+"metal forming": 11
+"uniaxial tension": 11
+"equal channel angular pressing": 11
+"meso scale": 11
+"single wall carbon nanotube": 11
+"carbon steel": 11
+"metallic materials": 11
+"crystal growth": 11
+"computational materials science": 11
+"glass transition": 11
+"symmetric tilt": 11
+"local stress": 11
+"order disorder": 11
+"fracture mechanics": 11
+"computational materials": 11
+"boundary migration": 11
+"modified embedded atom": 11
+"3d finite element": 11
+"scale analysis": 11
+"carbon nanotubes conveying": 11
+"pressure die casting": 11
+"non equilibrium": 11
+"adhesive bonded": 11
+"full multiple": 11
+"empirical tight binding": 11
+"interfaces part": 11
+"walled armchair": 11
+"techniques part": 11
+"mechanical fe": 11
+"optoelectronic properties": 10
+"phase separation": 10
+"atomistic investigation": 10
+"nanocrystalline metals": 10
+"magnesium alloys": 10
+"heat treatment": 10
+"cathode materials": 10
+"lithium ion batteries": 10
+"computational model": 10
+"computational homogenization": 10
+"atomistic simulation study": 10
+"temperature effects": 10
+"theoretical studies": 10
+"deformation mechanism": 10
+"dielectric properties": 10
+"bonding properties": 10
+"pressure dependence": 10
+"boron nitride nanotubes": 10
+"theoretical investigations": 10
+"stacking fault energy": 10
+"doped graphene": 10
+"oxygen adsorption": 10
+"li ion batteries": 10
+"plastic strain": 10
+"100 surface": 10
+"surface energy": 10
+"hydrogen adsorption": 10
+"graphene nanoribbon": 10
+"room temperature": 10
+"phonon spectra": 10
+"computational modelling": 10
+"niti shape memory alloy": 10
+"hot deformation": 10
+"elastic modulus": 10
+"bcc metals": 10
+"amorphous carbon": 10
+"coarse grained": 10
+"screw dislocations": 10
+"potential energy": 10
+"finite temperature": 10
+"misfit dislocation": 10
+"single crystal copper": 10
+"modified embedded atom method": 10
+"materials design": 10
+"atomistic continuum": 10
+"tilt grain boundaries": 10
+"fracture behaviour": 10
+"new method": 10
+"molecular statics": 10
+"md simulations": 10
+"fem analysis": 10
+"mass transport": 10
+"noble gas": 10
+"tension compression asymmetry": 10
+"surface roughness": 10
+"ductile fracture": 10
+"real space": 10
+"numerical solution": 10
+"copper nanowires": 10
+"stress analysis": 10
+"chemical vapor": 10
+"computational method": 10
+"polymer nanocomposites": 10
+"structure property": 10
+"multi walled carbon": 10
+"damage model": 10
+"li ion": 10
+"element simulations": 10
+"channel angular extrusion": 10
+"phase field lattice boltzmann": 10
+"functional tight binding": 10
+"anisotropic grain": 10
+"superconducting transition": 10
+"induced dislocation": 10
+"temperature phase": 10
+"cubic iron": 10
+"nanotube polymer": 10
+"grained molecular dynamics": 10
+"crystal model": 10
+"initio study": 10
+"scale molecular dynamics": 10
+"second order two": 10
+"phase columnar": 10
+"waals corrected": 10
+"corrected exchange": 10
+"induced band": 10
+"one particle 3d": 10
+"particle 3d unit": 10
+"functional molecular dynamics": 10
+"oxide multiple phase": 10
+"multiple phase electrode": 10
+"along aluminum": 10
+"parameter phase": 10
+"grain boundaries kinetic monte": 10
+"ionic embedded atom": 10
+"carlo hybrid geometry": 10
+"ab initio classical molecular dynamics": 10
+"constants anisotropy generalized stacking": 10
+"set versus multi phase": 10
+"field model incorporating": 10
+"microstructures large scale": 10
+"hybrid first principles": 10
+"alloys grain": 10
+"bonded aluminium": 10
+"microstructures including": 10
+"including grain": 10
+"virtual grain": 10
+"hollow nanoparticles": 10
+"nanoparticles grain": 10
+"thermal solute 3d": 10
+"solute 3d phase": 10
+"constitutive cyclic plastic material": 10
+"wave front": 10
+"front image": 10
+"model part ii": 10
+"recrystallization predicting": 10
+"predicting kinetics": 10
+"oxide layer annealing": 10
+"layer annealing monte": 10
+"nanocrystals empirical tight": 10
+

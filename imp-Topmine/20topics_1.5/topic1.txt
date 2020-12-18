@@ -1,0 +1,8 @@
+machine learning 94
+point defects 32
+001 surface 20
+genetic algorithms 15
+110 surface 14
+ca sr 13
+uniaxial tension 11
+tension compression asymmetry 10

@@ -1,0 +1,12 @@
+stacking fault 35
+interatomic potential 24
+generalized stacking 23
+anisotropy generalized stacking 15
+consistent charge 14
+strain gradient 14
+strain gradient plasticity theory 12
+generalized gradient 12
+impact energy 11
+stacking fault energy 10
+potential energy 10
+constants anisotropy generalized stacking 10

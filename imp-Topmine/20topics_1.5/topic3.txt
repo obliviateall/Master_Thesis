@@ -1,0 +1,64 @@
+molecular dynamics 353
+first principles study 319
+first principles 215
+first principles calculations 196
+molecular dynamics simulation 180
+molecular dynamics study 170
+monte carlo 152
+molecular dynamics simulations 140
+ab initio study 102
+theoretical study 68
+first principles investigation 66
+dft study 58
+atomistic simulation 54
+ab initio calculations 53
+first principle study 47
+atomistic simulations 42
+dynamics simulations 42
+computer simulation 39
+monte carlo simulation 38
+dynamics simulation 35
+first principles calculation 34
+theoretical investigation 27
+first principle 27
+atomistic study 24
+classical molecular dynamics 24
+md simulation 23
+first principle calculations 22
+carlo simulation 21
+principles calculations 21
+first principles studies 20
+molecular dynamics simulation study 20
+initio molecular dynamics 20
+monte carlo simulations 19
+ab initio 19
+dft calculations 18
+ab initio calculation 16
+molecular dynamics method 16
+molecular simulations 15
+first principles investigations 15
+experimental study 15
+dynamics study 15
+hybrid geometry 15
+initio classical molecular dynamics 15
+ab initio investigation 14
+molecular dynamics investigation 14
+ab initio molecular dynamics 14
+computer simulations 13
+dynamics method 13
+monte carlo study 12
+monte carlo method 11
+atomistic investigation 10
+atomistic simulation study 10
+theoretical studies 10
+theoretical investigations 10
+atomistic continuum 10
+molecular statics 10
+md simulations 10
+grained molecular dynamics 10
+initio study 10
+scale molecular dynamics 10
+functional molecular dynamics 10
+carlo hybrid geometry 10
+ab initio classical molecular dynamics 10
+hybrid first principles 10

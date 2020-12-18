@@ -1,0 +1,26 @@
+shape memory 62
+cellular automaton 37
+niti shape 32
+memory alloy 26
+aluminum alloy 23
+shape memory alloy 23
+memory alloys 23
+binary alloy 20
+ternary alloys 19
+genetic algorithm 18
+shape memory alloys 18
+niti shape memory 18
+titanium alloy 16
+aluminum alloys 16
+magnesium alloy 16
+binary alloys 14
+solar cells 14
+aluminium alloy 13
+cohesive zone 13
+titanium alloys 12
+alloy solidification 12
+high entropy alloys 11
+magnesium alloys 10
+niti shape memory alloy 10
+along aluminum 10
+alloys grain 10

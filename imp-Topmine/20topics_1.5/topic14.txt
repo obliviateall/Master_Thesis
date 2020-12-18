@@ -1,0 +1,45 @@
+mechanical properties 219
+electronic properties 204
+electronic structure 172
+elastic properties 139
+optical properties 139
+thermodynamic properties 87
+magnetic properties 82
+electronic structures 58
+phase transformation 51
+structural electronic 48
+structural elastic 39
+band gap 37
+structural properties 32
+band structure 31
+size effects 30
+induced phase 28
+elastic constants 23
+structural phase 23
+interatomic potentials 21
+rare earth 21
+vibrational properties 18
+graphene nanoribbons 18
+structural elastic electronic 16
+structural evolution 15
+structural stability 15
+electronic band structure 15
+hot work 15
+crystal structure 14
+electronic band 14
+martensitic transformation 14
+quantum dots 13
+elastic moduli 13
+martensitic phase 13
+crystal structures 12
+band gaps 12
+electronic magnetic 11
+electronic structure calculations 11
+temperature effects 10
+bonding properties 10
+room temperature 10
+elastic modulus 10
+finite temperature 10
+structure property 10
+temperature phase 10
+induced band 10

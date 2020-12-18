@@ -1,0 +1,2005 @@
+phase-field simulation
+atomic scale
+interfacial energy
+binary alloy
+molecular dynamics simulations
+alloy composition
+stainless steels
+phase diagram
+first principles
+neural network analysis
+chemical composition
+hot rolling
+tool steel
+structural defects
+organic solar cells
+mechanical properties
+effective method
+novel approach
+electronic structure
+ab initio calculations
+residual stresses
+titanium alloy based
+artificial neural network
+genetic algorithm
+field model
+grain boundary energy
+molecular dynamics study
+molecular dynamics simulation
+phase transition
+gas phase
+thermal properties
+ordering kinetics
+epitaxial growth
+structural evolution
+rapid solidification
+high pressure
+mechanical property
+neural networks
+thermal residual stresses
+optimization algorithm
+binary alloys
+thermodynamic modeling
+first-principles simulations
+local structure
+ordering effects
+metallic glasses
+phase-field modeling
+machine learning
+elastic properties
+bimetallic nanoparticles
+molecular simulations
+surface segregation
+monte carlo method
+molecular dynamics
+phase-field study
+oxygen vacancies
+solid solutions
+precipitate coarsening
+ternary alloys
+density functional theory investigation
+optoelectronic properties
+global energy
+high-throughput calculations
+phase separation
+aluminum alloys
+computer simulation
+additive manufacturing
+first-principles study
+first-principles modeling
+random alloys
+density functional theory
+ordered structures
+molecular beam
+experimental investigations
+first-principles investigations
+ab initio study
+electronic band gaps
+theoretical study
+atomistic investigation
+metallic glass
+thermal expansion
+phase-field analysis
+cellular automata modeling
+first principles investigation
+phase stability
+first principles calculations
+shape memory alloys
+laser powder deposition
+ni-based superalloys
+residual stress
+metallic glass films
+molecular dynamic simulation
+phase diagrams
+3d modelling
+quantum dots
+monte carlo simulation
+electrical properties
+fe substitution
+physical properties
+dft+u study
+bimetallic nanowires
+chemical bonding
+electronic structures
+steel based
+first-principles calculations
+structural, elastic,
+thermodynamic properties
+first principle investigation
+phase-field simulations
+analytical modelling
+low carbon steels
+artificial neural networks
+first-principles investigation
+lattice constants
+ab initio prediction
+phase field simulation study
+mesoscopic simulation
+morphological evolution
+processing parameters
+phase boundaries
+atomistic modeling
+high entropy alloys
+structural, elastic, electronic
+lattice dynamic properties
+grain growth
+genetic algorithms
+simulated annealing
+electronic properties
+ternary alloy
+lattice dynamics
+point defects
+ab initio thermodynamics
+tial alloy
+molecular dynamics approach
+oxygen evolution
+phase transformation
+artificial neural network modeling
+alloying elements
+titanium alloys
+first principles study
+equiaxed solidification
+phase-field model
+interphase precipitation
+structural steels
+computational methods
+monte carlo simulations
+alloying effect
+solid solution
+computational design
+high temperature
+atomistic simulations
+surface diffusion
+3d reconstruction
+local ordering
+simulation study
+high-entropy alloy
+structural properties
+energy analysis
+multiscale modeling
+radiation induced segregation
+iron based alloys
+bulk metallic glasses
+thermoelectric properties
+melting temperature
+high-entropy alloys
+b2 phase
+exact solutions
+graded materials
+first principle calculations
+experimental results
+local structures
+nanocrystalline metals
+phase-field approach
+atomistic simulation
+structural, electronic
+functional materials
+reactive diffusion
+binary systems
+austenitic stainless steel
+data mining
+phase field
+elastic constants
+artificial neural network approach
+surface alloys
+alloy surfaces
+experimental study
+machine learning approach
+free energy
+quantitative phase-field model
+structural, electronic, optical
+grain boundaries
+electronic, optical
+transport properties
+thermodynamic analysis
+silicon carbide
+hydrogen bonding
+cyclic phase transformation concept
+interface mobility
+free surface
+design optimization
+al alloys
+tool steels
+materials science
+thermo-mechanical properties
+interatomic potentials
+structural transitions
+phase-field method
+ni-based superalloy
+glass forming
+alloy systems
+mechanical response
+optical properties
+layered structures
+numerical analysis
+temperature distribution
+molten pool
+local structural
+phase competition
+two-phase systems
+level set method
+multiphase steels
+fcc binary alloys
+kinetic monte carlo
+alkali metal
+modeling tensile strength
+strain gradient plasticity theory
+periodic arrays
+ion irradiation
+functionally graded plates
+analytical approach
+first principles calculation
+magnesium alloys
+atomic layer deposition
+thin films
+high pressure phases
+liquid region
+computational framework
+first principles studies
+finite element analysis
+fluid flow
+ab initio calculation
+neural network
+sensitivity analysis
+binding study
+alloy phase diagrams
+microstructure prediction
+heat treatment
+thermo-mechanical loading
+dendritic growth
+lattice models
+aluminum alloy
+crystalline phases
+computational approach
+machine learning methods
+cathode materials
+lithium-ion batteries
+atomic structure
+amorphous alloys
+multi-scale model
+intergranular fracture
+fracture toughness
+band structure calculations
+phase field modelling
+solid particles
+density functional calculations
+molecular modeling
+materials properties
+high-throughput ab initio calculations
+computational model
+phase transitions
+model study
+density functional study
+micromagnetic simulation
+microstructural evolution
+comparative study
+first principle study
+first-principles prediction
+thermal oxidation
+metals application
+mass transfer
+elevated temperatures
+aluminium plates
+impact loading
+x-ray diffraction
+multi-component systems
+multicomponent alloys
+magnesium alloy
+magnetic properties
+lattice dynamical
+optimization techniques
+structural stability
+glass formation
+phonon dispersion
+single crystal
+cluster variation method
+heusler alloys
+deformation mechanisms
+austenite grain size
+grain size effects
+nonlocal effects
+functionally graded
+numerical simulation
+strain relaxation
+continuum modeling
+atomic ordering
+theoretical investigation
+dual phase steels
+multiscale thermoelastic analysis
+multiscale simulations
+optical response
+structural formation
+energetic materials
+ceramic tool materials
+ab initio
+monte carlo modeling
+surface structure
+low temperatures
+material design
+creep behaviour
+mathematical model
+structural, mechanical
+transition metal nitrides
+local structure evolution
+first-principles calculation
+intermetallic compounds
+computational homogenization
+representative volume elements
+heusler compounds
+ternary compounds
+thermodynamic stability
+density functional theory calculations
+first-principle study
+dft study
+ab-initio investigation
+thermal behavior
+half-metallic ferromagnetism
+binary compounds
+structural characterization
+compound semiconductors
+mechanical, electronic
+intermetallic compound
+pressure effects
+structural, elastic
+hydrostatic pressure
+lattice thermal conductivity
+thermal barrier coating applications
+solder joints
+density functionals
+computational investigation
+ab-initio calculation
+hydrogen storage
+two-dimensional structure
+ab-initio study
+first-principle investigation
+topological phase transition
+computational modeling
+dft calculations
+mechanical, vibrational
+thermodynamics properties
+phonon properties
+structural, elastic, electronic,
+linear optical properties
+structural, electronic, elastic
+thermodynamical properties
+electronic, magnetic
+first-principle studies
+piezoelectric properties
+structural, electronic,
+lattice dynamical properties
+crystal structures
+structural phase
+atomistic simulation study
+li-ion battery cathode materials
+vibrational properties
+ab initio molecular dynamics study
+max phase
+comparative dft study
+anisotropic elastic properties
+theoretical insight
+temperature effects
+metallic alloys
+computational simulation
+carbon nanotubes
+aqueous solution
+theoretical studies
+topological analysis
+computational study
+bandgap engineering
+solar materials
+elastic moduli
+transition metal
+max phases
+electronic, elastic
+deformation mechanism
+mechanical behaviour
+density-functional theory
+electromechanical properties
+earth elements
+strengthening effects
+lattice parameters
+fcc crystals
+lead-free solder joints
+interatomic potential
+two-dimensional simulation
+atomic configurations
+thermal diffusion
+high pressures
+bulk materials
+oxidation states
+computational prediction
+electronic structure properties
+laves phase
+transition metal carbides
+ab initio investigation
+water splitting
+heusler alloy
+chemical bonding properties
+first principle calculation
+molecular dynamics calculations
+alloy system
+band structure
+dielectric properties
+dft studies
+band profiles
+half-metallic properties
+electronic band structures
+effective mass
+thermoelectric materials
+bonding properties
+first-principle calculations
+first-principles approach
+dft functionals
+band gap
+basis set
+elastic, electronic
+single crystals
+oxygen vacancy
+machine learning models
+crystalline silicon
+density functional theory study
+pressure effect
+structural behaviour
+mixed mode loading
+prediction study
+thermomechanical properties
+high temperatures
+double perovskite
+reaction mechanisms
+cathode material
+high pressure properties
+fatigue crack initiation
+theoretical prediction
+activation energy
+computational procedure
+case study
+binary system
+double perovskites
+laves phases
+polymer films
+composite materials
+strain effect
+numerical modeling
+first-principles analysis
+electronic structure, magnetic
+ab initio investigations
+high-throughput prediction
+theory study
+hydrogen storage material
+nonlinear optical properties
+thermal stability
+first-principles studies
+metal nitrides
+electric field gradients
+different temperatures
+new approach
+new ternary
+pressure induced
+via first-principles calculations
+photocatalytic properties
+phenomenological modeling
+pressure dependence
+magnetic systems
+experimental studies
+ternary system
+anatase tio2
+niti alloy
+computational studies
+stacking fault
+surface energy
+vacancy defects
+ground state properties
+structural phase transformation
+mechanical behavior
+reactive molecular dynamics simulation study
+external electric field
+anode material
+first principles investigations
+molecular crystal
+molecular dynamics application
+spin polarization
+metallic ferromagnetism
+boron nitride nanotubes
+first-principle prediction
+microstructure evolution
+lattice constant prediction
+single-wall carbon nanotubes
+molecular simulation study
+potential models
+modified embedded atom method potential
+optimization method
+size effects
+thermal decomposition
+ab initio molecular dynamics simulation
+oxygen diffusion
+monte carlo
+plastic deformation
+transition metal atoms
+force fields
+vibrational modes
+energy band gap
+liquid crystals
+structural, elastic, electronic, chemical bonding
+molecular dynamics method
+doping effects
+electronic band structure
+model simulations
+monolayer mos2
+refractory materials
+thermal conductivity
+alloying effects
+theoretical investigations
+cubic crystals
+young’s modulus
+density functional theory studies
+structural, magnetic
+tool wear
+cubic silicon carbide
+grain orientation
+comparative investigation
+computational insights
+carbon nanotube
+density functional theory calculation
+helium behavior
+density functional
+earth alloys
+twin boundaries
+binding method
+graphene nanoribbons
+thermal radiation
+porous silicon
+density-functional study
+morphology evolution
+response properties
+stacking fault energy
+bulk modulus
+domain evolution
+phase field study
+ideal strength
+density-functional theory study
+dislocation density
+shock compression
+electronic, mechanical
+hybrid density functional
+co2 adsorption
+selective adsorption
+single-walled carbon nanotubes
+thin film
+crack initiation
+classical force field
+interfaces based
+van der waals density functional study
+multiscale simulation
+water molecules
+small molecules
+plastic flow
+liquid crystal
+bcc materials
+crystal plasticity fem
+density functional investigation
+boron nitride
+gas metal arc welding
+structural, mechanical,
+geometry optimization
+electrode materials
+oxygen defect
+size effect
+numerical investigation
+aluminum foam
+friction coefficient
+sic grain boundaries
+amorphous silicon
+formation energy
+numerical modelling
+damage initiation
+thermally bonded
+plastic strain
+zigzag single-walled carbon nanotubes
+cellular materials
+bilayer graphene
+high-pressure behavior
+finite element simulation
+gan nanowires
+ground state
+axial tension
+genetic algorithm methods
+mechanical, thermodynamic
+crystal structure
+co adsorption
+periodic boundary conditions
+tight-binding approach
+ab initio simulation
+electronic transport properties
+compressive properties
+cluster formation
+metal clusters
+finite element modelling
+interfacial properties
+atomistic model
+metallic foams
+interfacial adhesion
+oxygen adsorption
+surface effects
+carbon dioxide adsorption
+grain boundary
+interaction effects
+gas molecules
+numerical study
+combined experimental
+empirical potentials
+amorphous carbon films
+two-dimensional materials
+magnetic anisotropy
+oxygen reduction reactions
+structural, electronic properties
+(001) surface
+porous graphene
+niti alloys
+electronic states
+numerical simulations
+noble gas atoms
+atomistic study
+grain boundary segregation
+hcp titanium
+strain engineering
+si nanowires
+theoretical design
+ag surfaces
+mechanical behaviors
+dft calculation
+surface properties
+thermal transport properties
+zirconium hydrides
+high-throughput dft calculations
+band gaps
+graphene oxide
+external strain
+dft methods
+gas sensing
+nitrogen dioxide
+single-walled carbon nanotube
+ni based alloys
+fracture behavior
+first-principles research
+ab initio approach
+theoretical approach
+carbon nitride
+tuning electronic
+electric field
+hydrogen adsorption
+structural phase transitions
+solar cells
+carbon dioxide
+adsorption properties
+flow stress
+zirconium thin films
+molecular-dynamics simulation
+graphene nanoribbon
+laser irradiation
+lattice stability
+magnetic interactions
+microscopic mechanism
+ferroelectric polarization
+classical molecular dynamics simulations
+irradiation hardening
+polycrystalline materials
+intrinsic defects
+electron transport properties
+uniaxial tensile behavior
+different phases
+critical assessment
+energy barriers
+cubic metals
+phase field model
+high performance
+structural changes
+hardening model
+noble metals
+interface effects
+elastic property
+microstructural modeling
+dynamic recrystallization
+cellular automata
+molecular chains
+kinetic monte carlo simulation
+sic film
+zigzag boron nitride nanoribbons
+failure behaviors
+clusters embedded
+structural parameters
+wurtzite zno
+graphene sheet
+dynamic recrystallization behaviors
+material properties
+electron transport
+new insights
+single walled carbon nanotubes
+hexagonal phases
+nitrogen doping
+strengthening mechanisms
+electronic structure,
+room temperature
+magnetic behavior
+bimetallic clusters
+finite-element modeling
+nanocrystalline materials
+interfacial systems
+aluminum surface
+black phosphorus
+phonon spectra
+finite element based
+computational science
+structural effects
+electronic spectra
+computational modelling
+multiscale analysis
+silicon nanowire
+chemical reactions
+hcp titanium formation
+solid oxide fuel cell
+adsorption characteristics
+chemical expansion
+tight-binding molecular dynamics
+band gap engineering
+van der
+interlayer interaction
+hexagonal boron nitride
+flow behaviour
+dual-phase steel
+ab initio studies
+fcc fe
+transverse cracking
+composite laminates
+magnetic structure
+heterogeneous nucleation
+new materials
+electrical conductivity
+empirical modeling
+electronic transport
+deformation process
+hexagonal metals
+material behaviour
+new scheme
+hcp metals
+polycrystalline microstructure
+evolutionary algorithms
+bcc iron
+structural relaxation
+internal stresses
+tensile loading
+full field modeling
+heat conduction
+binary glasses
+dislocation evolution
+single crystal titanium
+fcc metals
+melting point
+phase-field crystals model
+nickel surface
+transition metals
+liquid al
+dislocation interaction
+crystallographic orientation
+deformation behaviors
+gas adsorption
+slip bands
+molecular simulation
+orientation effects
+polycrystalline metals
+crystal plasticity model
+interstitial atoms
+yield strength
+dislocation dynamics
+two dimensional
+biaxial strain
+magnetic states
+grain size
+strengthening behavior
+tensile behavior
+heat welded
+boundary conditions
+niti shape memory alloy
+cellular automaton
+grain structure
+strain rate
+deformation behavior
+plasticity model
+structural stabilities, electronic
+phase field models
+alloy solidification
+energy levels
+phase-field crystal model
+damage evolution
+dynamics simulations
+thermal response
+graphene sheets
+shear strain
+anode materials
+computer modeling
+mg (0001) surface
+tensile response
+novel carbon
+molecular dynamics simulation study
+cellular automaton simulation
+hot deformation
+trip steel
+helium separation
+strain effects
+dynamic behavior
+texture evolution
+recrystallization effect
+orientation relationships
+embedded atom method
+micromechanical model
+high strain rates
+failure mechanism
+thermal transport
+atomistic modelling
+polycrystalline microstructures
+lithium storage
+model development
+elastic modulus
+finite size effects
+ferroelectric properties
+bcc metals
+electronic effects
+helium behaviors
+fully coupled
+x-ray magnetic circular
+fem simulation
+dislocation generation
+high-pressure phase transition
+tensile strain
+nitride nanosheets
+computational simulations
+amorphous carbon
+dynamic analysis
+single-layer graphene sheets
+defect properties
+absorption spectra
+slip systems
+uniaxial compression
+many-body effects
+mesoscopic models
+quantum mechanical calculations
+compression behavior
+bulk properties
+epoxy resin
+molecular dynamics investigation
+effective stiffness
+bulk metallic glass
+vacancy formation energies
+lattice distortion
+vacancy effect
+cellular automata model
+sintering process
+crystal plasticity
+phase-field modelling
+static recrystallization
+correlation effects
+energy absorption
+solar cell
+piezoelectric response
+edge dislocations
+ab initio modeling
+defects induced
+elastic stiffness coefficients
+diffusion process
+crystal orientation
+shock loading
+bond strength
+finite element
+temperature dependence
+diffusion behaviors
+electrode material
+nuclear fuel
+amorphous si
+polymer composites
+semi-empirical calculations
+precipitation kinetics
+uniaxial strain
+heat transfer
+phase transformations
+single crystalline
+ag nanowires
+optical absorption
+tetragonal batio3
+3d micromechanical modeling
+solder joint
+screw dislocations
+dynamical properties
+3d transition-metal
+adhesion properties
+effective elastic properties
+random fibre composites
+equivalent crystal theory
+angular dependence
+optimization procedure
+structures based
+partial atomic
+crystalline silica
+tensile strength
+fem modelling
+ab initio vibrational
+polymer nanocomposites
+relaxation dynamics
+cyclic loading
+crack propagation
+coupled cellular automaton
+compression twinning
+deformed sodium clusters
+fcc ni
+generalized stacking fault energies
+deformation behaviour
+high temperature oxidation
+lattice defects
+single crystal iron
+body-centered cubic
+particle dynamics simulation
+bcc fe
+quantum transport
+hydrogen diffusion
+phase-field lattice boltzmann model
+flow behaviors
+field theory
+first-principles method
+atomistic insight
+carbon nanotube composites
+elastic–plastic properties
+grain size dependence
+tensile properties
+numerical method
+mesoscale simulation
+cellular automaton method
+normal stress
+shear strength
+bcc crystals
+plastic deformation behavior
+mesoscopic study
+fluid dynamics
+selective laser melting
+large scale molecular dynamics study
+polymeric nanocomposites
+al (111) surface
+twin boundary
+deformation twinning
+magnesium single crystals
+lattice structure
+welding process
+improved calculation
+vibrational mode
+polycrystalline copper
+materials based
+particle size
+polymeric composites
+fatigue crack growth
+charge transfer
+organic molecules
+magnetic semiconductors
+wurtzite gan
+porous titanium
+dislocation structures
+thermal resistance
+active learning
+three-dimensional modeling
+nonlinear elastic response
+li-ion batteries
+sio2 glass
+new model
+nanoscale cutting
+nickel-based superalloys
+weld pool
+fracture energy
+monte carlo study
+spin transport
+magnetic materials
+molecular dynamics investigations
+porous material
+wide range
+small clusters
+graphene effects
+electron gas
+hybrid model
+electronic structure calculations
+large systems
+silica glass
+uniaxial deformation
+metal hydrides
+mg alloy
+quantitative analysis
+image processing
+theoretical analysis
+micromagnetic simulations
+ferroelectric ceramics
+gold nanowires
+potential energy
+single layer
+integrated computational materials engineering
+finite temperature
+– experiments
+molecular-dynamics study
+(110) surface
+mechanical strain
+charge carrier
+dislocation slip
+ferritic steel
+three-dimensional monte carlo simulations
+polycrystalline thin films
+screw dislocation
+misfit dislocation
+mesoscale simulations
+functionally graded steels
+modeling fracture toughness
+single crystal copper
+impact energy
+quantum chemical study
+solid foams
+single crystal ti
+multi-walled carbon nanotubes
+stacking fault energies
+multiscale model
+modified embedded atom method
+theoretical calculations
+zinc oxide
+ti atom
+atomic simulations
+micromechanical modelling
+ductile crack growth
+first principles modeling
+ab initio simulations
+van der waals
+grain boundary motion
+multiple cracking
+kinetic parameters
+electrical steels
+crystalline solids
+porous medium
+modified stress–strain curve data
+grain size effect
+theoretical strength
+al alloy
+atomic clusters
+materials design
+quantitative characterization
+two-phase alloys
+cement based materials
+magnesium oxide
+effective thermal conductivity
+two-scale analysis
+composite structure
+random distribution
+melting temperatures
+3d morphology
+tilt grain boundaries
+numerical investigations
+effective properties
+micromechanical study
+reaction thermodynamics
+recrystallization texture
+molecular dynamic
+defect clusters
+molecular dynamics calculation
+interfacial free energy
+experimental research
+behaviour modelling
+md study
+point defect properties
+theoretical insights
+elastic deformation
+formation energies
+potential energy surface
+growth dynamics
+total energy
+growth simulation
+one-dimensional components
+reinforced composite
+discrete element method
+void nucleation
+valence band
+orientation dependence
+thin film growth
+photocatalytic activity
+computer study
+boron nitride nanosheets
+fe doped
+reactive force fields
+thermal plasma
+mechanical stability
+finite element modeling
+growth kinetics
+boron carbide
+segregation behavior
+structural, elastic properties
+edge dislocation
+fatigue life prediction
+model materials
+thermal effects
+dopant diffusion
+mg storage
+partial dislocations
+single walled carbon nanotube
+mechanical strength
+coupled effects
+molecular dynamics studies
+cluster beam deposition
+combined shear
+axial loading
+metal foams
+tight-binding methods
+tensile behaviour
+solid surfaces
+multi-scale simulations
+pure titanium
+vacancy formation
+cyclic plasticity
+multiple length scales
+diffusion properties
+plastic flow stress
+phonon instability
+finite temperatures
+fatigue behavior
+computer simulations
+quantum mechanical forces
+mechanical modeling
+fracture behaviour
+domain walls
+ferroelectric materials
+iron crystals
+anisotropic materials
+elastic medium
+transverse vibration
+phase field simulation
+porous ceramics
+solute segregation
+polycrystalline graphene
+coherent precipitate
+new method
+molecular statics
+software package
+tight-binding models
+molecular mechanics approach
+md simulation
+optimal design
+bonded joints
+new finite element
+comparison study
+graphene layers
+experimental validation
+diffusion processes
+micromechanical analysis
+phase field method
+improved molecular dynamics potential
+computational analysis
+magnetic fields
+elastic response
+analytical model
+laser forming
+mathematical modelling
+uniaxial tension
+nonlinear mechanical behaviour
+solid polymers
+elastic buckling
+surface tension
+computer modelling
+molecular dynamics analysis
+equal channel angular extrusion
+second phase
+crack tip
+multiscale method
+heterogeneous materials
+stainless steel
+plastic properties
+stretching surface
+multi-walled carbon nanotube
+material parameters
+porous media
+element method
+internal structure
+materials data
+thin film deposition
+analytical solution
+double-walled carbon nanotube
+finite element simulations
+wave propagation
+elastic matrix
+vibration analysis
+bcc mo
+tool edge
+temperature field
+md simulations
+level set approach
+interface properties
+new interatomic potential
+atomistic calculations
+two-phase composites
+voronoi diagram
+geometry based
+structure solution
+powder x-ray diffraction data
+differential geometry
+mechanical model
+efficient method
+inhomogeneous materials
+stochastic 3d modeling
+experimental analysis
+periodic composites
+composite material
+aluminium alloy die casting
+vibration properties
+interphase effect
+analytical solutions
+charge optimized
+constitutive model
+lithium-ion battery
+random fields
+welded joints
+composite structures
+strengthening mechanism
+experimental investigation
+tensile tests
+particle filled
+unit cell
+porous materials
+structure, morphology
+wetting properties
+mesh generation
+welding simulation
+interface model
+dendrite growth
+interface crack
+mechanical performance
+plastic deformation behaviour
+mechanical anisotropy
+finite-element analysis
+adhesive joints
+equal channel angular pressing
+3d bcc iron crystal
+stress distribution
+fem analysis
+simulation techniques
+finite element method
+stochastic multi-scale modeling
+vibration characteristics
+mathematical modeling
+boundary method
+linear friction welding
+welded structure
+mechanical modelling
+based thermo-mechanical modeling
+inverse method
+brittle materials
+experimental verification
+nonlinear analysis
+lattice model
+micromechanical investigations
+particle reinforced metal matrix composites
+thermomechanical behavior
+equal channel angular extrusion process
+fiber reinforced composites
+temperature effect
+welding distortion
+ductile materials
+crack growth
+random composites
+forming limit diagrams
+finite element calculation
+theoretical aspects
+fem modeling
+thermal diffusivity measurements
+spherical indentation
+numerical approach
+eutectic si
+fe analysis
+bonded composite
+thermodynamic calculations
+dendritic solidification
+multi-phase materials
+numerical methods
+stress fields
+computational chemistry
+coupling effect
+piezoelectric materials
+polymer matrix
+titanium alloy
+electromechanical behaviors
+mesoscale modelling
+crack tip parameters
+cell wall layers
+discrete element modeling
+sandwich composite
+single-walled carbon nanotube embedded
+integrated intensity
+single crystal diffraction
+polycrystalline silicon carbide
+crystalline materials
+crack tip plasticity
+fe simulation
+cementitious composites
+finite element model
+fem study
+quantum chemical modelling
+perovskite crystals
+solid-state phase transformations
+ground-state properties
+dynamic fracture simulations
+failure behaviour
+polymer concrete
+cementitious materials
+mass transport
+laser surface
+hydrogen functionalized graphene
+quenching process
+microstructural simulation
+particle reinforced
+phase field modeling
+ideal grain growth
+brittle fracture
+void growth
+single crystalline copper
+alloy steel large ring
+piezoelectric solids
+representative volume element
+sheet metal
+superconducting transition temperature
+pressure-induced phase transformation
+dislocation nucleation
+thermomechanical loading
+functionally graded materials
+elastic anisotropy
+fracture analysis
+failure analysis
+statistical approach
+continuum studies
+screw dislocation core
+atomistic mechanisms
+reactive force field
+fracture strength
+classical molecular dynamics simulation
+chemical potential
+temperature model
+hydride cracking
+crystal structure prediction
+interatomic potential models
+dynamic properties
+single crystal al
+single crystal cu
+quantum effects
+phase behavior
+noble gas
+single wall carbon nanotubes
+superhard phase
+generalized stacking fault energy
+dislocation core
+new phases
+lattice strains
+molecular dynamics based study
+copper nanoparticles
+hot cracking
+material removal mechanism
+nanocrystalline cu
+amorphous materials
+fibrous composite materials
+multiscale approach
+finite element study
+dynamic response
+structural transition
+numerical analyses
+buckling instability
+phase change
+effective permeability
+microstructure model
+damage model
+surface roughness
+discrete element modelling
+parameter study
+grain boundary networks
+fem simulations
+reactive molecular dynamics study
+empirical potential
+predicting flow stress
+cu precipitation
+extended defects
+disordered phase
+uniaxial cyclic loading
+discontinuous dynamic recrystallization
+ductile fracture
+flow behavior
+micromechanical models
+multi-scale approach
+powder materials
+atomic-scale simulations
+3d numerical simulation
+molten al
+materials application
+experimental characterization
+mesoscopic simulations
+electric fields
+diffusion behavior
+fracture process zone
+reactive molecular dynamics simulation
+channel segregation
+mechanical responses
+interface energy
+metal nanowires
+threshold displacement energies
+interfacial energy anisotropy
+interaction energy
+vibrational free energy
+different methods
+elastic strain energy
+accurate representation
+surface energies
+phase-field simulation study
+cyclic loading conditions
+surface energy calculation
+cluster size
+fe (001) surface
+grain boundary energy anisotropy
+two adhesive bands
+two-dimensional crystal
+anisotropic surface free energies
+dynamic loading
+total energy calculations
+metal matrix composites
+cohesive energy
+valence electron structure parameters
+carbon steel
+second phase particles
+tilt grain boundary
+embedded atom method potential
+defect energetics
+eutectic alloys
+efficient algorithm
+metallic materials
+vacancy clusters
+crystal growth
+continuum models
+size dependence
+contact angle
+elastic substrate
+point defect
+copper grain boundaries
+strain gradients
+parametric study
+equiaxed dendritic solidification
+polymeric materials
+ti substrate
+adhesion strength
+fe–cr alloys
+semiconductor nanocrystals
+thermal barrier coatings
+planar defects
+liquid metals
+electrochemical properties
+elastic fields
+binary nanocrystalline alloys
+solute selection based
+interfacial crack
+new algorithm
+diffusion mechanism
+single-walled carbon nanotubes based
+constitutive modeling
+coherent twin boundary
+micromechanical simulation
+ductile failure
+real space
+fracture study
+effective young’s modulus
+finite deformation
+mixed mode
+liquid phase sintering
+silicon studied
+shock waves
+uniaxial tensile loading
+silicon nanowires
+numerical solution
+crystal nucleation
+small interstitial clusters
+melt convection
+microstructural analysis
+compression deformation
+dislocation motion
+metallic nanowires
+cooling rate
+bcc transition metals
+chain length
+nanotwinned cu
+mechanical characterization
+cu cluster deposition
+fe system
+small concentration
+tensile loads
+shape transition
+polymer molecules
+potential application
+grain growth prediction
+ferroelectric phase transition
+pattern formation
+local lattice instability analysis
+transfer mechanisms
+microstructure simulation
+irradiated materials
+adhesive behavior
+atomic diffusion
+symmetric tilt grain boundary
+optimization approach
+viscoelastic properties
+physical aging
+fracture toughness evaluation
+graphene surface
+plastic deformation mechanism
+nanocrystalline copper
+parameter space
+double-walled carbon nanotube based
+process parameters
+grain boundary migration
+2d materials
+constitutive models
+critical role
+combined molecular dynamics
+symmetric tilt grain boundaries
+materials discovery
+ab initio electronic structure calculations
+phase-field models
+shape memory effect
+molecular dynamics modeling
+tungsten surfaces
+vibrational analysis
+refractory high-entropy alloys
+single layer graphene sheets
+domain switching
+layered structure
+titanium dioxide
+phase boundary
+martensitic phase transformations
+disordered materials
+martensitic transformations
+heat generation
+novel model
+laser processing
+finite element analyses
+crack problems
+micromechanical modeling
+thermally induced phase separation
+computational materials science
+ferroelectric switching
+micromechanical approach
+constitutive equations
+pure magnesium
+differential evolution algorithm
+tensile deformation
+hcp polycrystals
+fiber reinforced
+inhomogeneous deformation
+shape memory ceramics
+molecular statics simulations
+nonlocal cohesive zone model
+materials simulation
+welding arc
+domain growth
+radiation damage
+thermal analysis
+metallic nanoparticles
+force field
+realistic molecular dynamics simulations
+thermal effect
+beam theory
+copper nanowires
+models based
+continuum mechanics
+glass transition temperature
+three dimensions
+directional solidification
+liquid copper
+magnetic field
+interfacial behavior
+dynamic fracture
+graphite particles
+dynamic recrystallization kinetics
+3d simulation
+discontinuous welding
+extended finite element method
+finite strains
+numerical implementation
+glass transition
+uniaxial stress
+nanoparticle impact
+cu nanowires
+shear loading
+propagation behavior
+shear stress
+cluster growth
+particle reinforced composites
+melt flow
+isothermal compression
+negative thermal expansion
+aluminium alloys
+coarse grained models
+ceramic composites
+formation mechanism
+binary metallic glass
+heterogeneous media
+discrete dislocation dynamics
+particle modeling
+defective carbon nanotubes
+molecular dynamic simulations
+cold deformation
+porous moving plate
+multi-scale modeling
+hot deformation behavior
+amorphous polymers
+transformation strain
+stress analysis
+thermal shock
+creep behavior
+atomic elastic stiffness
+ceramic matrix composites
+wetting characteristics
+single crystal silicon
+(110) surfaces
+effective mechanical properties
+reinforced composites
+topology optimization
+statistical volume elements
+computational aspects
+multiphase steel
+multiphase materials
+creep deformation
+effective material properties
+cylindrical inclusions
+author index
+homogenization scheme
+polycrystalline solids
+flow curves
+failure modes
+scattering experiments
+plastic behavior
+dual-phase steels
+two-phase ceramic composites
+fracture properties
+polycrystalline cubic boron nitride
+numerical evaluation
+particulate composites
+casting magnesium alloy
+trip steels
+micromechanics based modeling
+glass fibers
+unidirectional composites
+failure initiation
+nanocomposites near
+damage behaviour
+two-phase materials
+numerical aspects
+fcc polycrystals
+polymer bonded
+initial defects
+cyclic deformation
+multiscale modelling
+isotropic grain growth
+single crystal nickel
+correlation functions
+loading conditions
+porous polymers
+2d finite element analysis
+three-dimensional phase-field simulations
+ab initio molecular dynamics simulations
+piezoelectric composites
+modelling mixed
+effective elastic modulus
+carbon nanotube distribution
+macroscopic stiffness
+damage development
+hot ring rolling
+aluminium sheets
+elastoplastic constitutive description
+nonlinear vibration
+composite plates
+welding residual stress
+manufacturing parameters
+interface damage
+cohesive zone model
+micromechanical predictions
+linear elasticity
+random fiber composites
+electrical resistivity
+microstructure formation
+ductile damage
+alloys hydrides
+analytical modeling
+diamond shapes
+numerical prediction
+arbitrary stiffness distribution
+embedded carbon nanotubes
+finite elements
+crystal plasticity finite element method
+three-dimensional model
+part i
+numerical studies
+martensitic transformation
+dual phase steel
+topological design
+shear modulus
+plasma sintering process
+directional coarsening
+model reduction
+creep properties
+numerical homogenization
+reinforced concrete
+quantitative prediction
+failure properties
+short fiber reinforced composites
+advanced numerical method
+parameter identification
+single crystal superalloys
+shear deformation theory
+length scales
+strain-induced martensitic transformation
+fatigue modeling
+strain fields
+shear deformation
+elasto-plastic behaviour
+fracture parameters
+constitutive equation
+generalized stresses
+elasto-plastic behavior
+thermal transport behavior
+local strain fields
+transverse loading
+randomly oriented
+short fiber reinforced
+single-walled carbon
+viscoelastic behavior
+3d finite element modeling
+materials subjected
+computational mechanics
+elastoplastic behaviour
+hardening behavior
+free surfaces
+fatigue damage
+crack propagation simulation
+cohesive element method
+element simulations
+damage coupled orthotropic finite plasticity model
+sheet metal forming
+dynamic compression
+boundary element method
+fatigue modelling
+two-dimensional model
+molecular dynamics evaluation
+continuum theory
+sandwich plates
+bulk nanocrystalline aluminium
+electron microscopy
+arbitrary number
+transverse cracks
+lattice dynamics method
+mesoscopic modelling
+mg alloys
+single crystal superalloy
+laminated composites
+simple computational model
+cu substrate
+polycrystalline structures
+tunable band gap
+topological properties
+aluminum oxide
+structural analysis
+conveying fluid
+damage state
+atomistic structure
+atomistic studies
+grain boundary structure
+phase structures
+atomic structures
+oriented finite element method
+concrete structures
+ni solute
+grain boundary diffusivity
+fem prediction
+thin plate
+double symmetric
+dynamic behaviour
+thermal characteristics
+basis functions
+oxide perovskites
+amorphous silica
+buckling analysis
+material property
+ab initio molecular dynamics
+strain hardening
+complex microstructures
+failure behavior
+equiaxed transition
+twist grain boundaries
+crystal plasticity analysis
+fuel cell polymer membranes molecular dynamics simulation
+structural transformations
+interface dynamics
+irradiation defects
+symmetric tilt
+concrete beams
+deep learning
+correlation function
+polymer solutions
+computational approaches
+constitutive law
+tensile mechanical properties
+nuclear magnetic
+plastic deformation mechanisms
+surface defects
+uniaxial stretching
+materials research
+microscopic phase-field study
+bending based
+hexagonal boron nitride monolayer
+conducting electrode
+virtual screening
+niti shape memory alloys
+eutectic growth
+graphene coated copper
+tensile load
+dislocation configuration
+combined atomistic
+stress intensity factor
+microstructural investigation
+scattering correlation function
+thermal expansion behaviors
+effective conductivity
+coarse-grained molecular dynamics simulation
+au nanoparticles
+compressive strength
+material model
+explicit finite element
+shape memory alloy
+laminated plates
+microstructure development
+matrix cracking
+micromechanical formulation
+two-phase composite
+phenomenological approach
+buckling behavior
+bending properties
+interfacial sliding
+stress field
+novel semiconductor devices
+plastic damage
+interface effect
+ferroelectric film
+nonlocal elasticity theory
+nonlocal elasticity
+stability analysis
+carbon nanotubes conveying fluid
+sensor via nonlocal
+plate theory
+initial axial stress
+double-walled carbon nanotubes conveying fluid
+self-consistent embedded cell model
+thermomechanical analysis
+inhomogeneous interphase
+manufacturing process
+comparative assessment
+laser welding
+phase-field investigation
+polycrystalline solidification
+phase field simulations
+three-dimensional phase-field simulation
+nickel-based superalloy
+grain rotation
+elastoplastic behavior
+phase composites
+grain size distribution
+two dimensions
+network model
+heat conduction problem
+uniaxial loading
+local stress
+nanostructured materials
+different models
+low alloy steel
+twinning deformation
+elevated temperature
+stretching sheet
+monte carlo simulation study
+welding residual stresses
+elevated temperature flow behavior
+lead-free surface
+aluminium alloy
+atomic simulation
+heat source
+shock response
+genetic algorithms based
+static recrystallization kinetics
+thermo-mechanical fatigue testing
+dislocation dynamics simulations
+splitting scheme
+coupling macroscopic transport
+van der waals heterostructures
+material models
+alloy steel
+deep neural networks
+strain localization
+hot compressed typical
+effective diffusivity
+accurate prediction
+finite element methods
+variable material properties
+shape memory alloy wires
+superconducting heusler alloy
+particle cleavage
+thermal vacancy formation
+solid-state amorphization
+crack growth behavior
+rate dependent crystal plasticity
+functionally graded material
+atomistic insights
+fracture mechanism
+material removal
+polymer crystallization
+exact exchange within
+dft potential
+nanotwinned polycrystalline ni nanowires
+cohesive zone representation
+defects evolution
+dynamic monte carlo simulations
+damage models
+molecular dynamics simulation studies
+stress intensity factors
+relaxation element method
+deformation conditions
+stress state
+fcc single crystals
+yield stress
+particle dynamics simulations
+spherical inclusions
+strength analysis
+coarse-grained molecular dynamics simulations
+transformation behaviour
+plastic zone
+multiphase material
+interfacial bonding
+hydrogenated graphene
+thermal conductivity prediction
+binary liquid
+axial compression
+piezoelectric media
+quantum molecular dynamics
+composites reinforced
+non-linear extension
+metal forming processes
+martensite transformation
+tensile testing
+low carbon
+texture decomposition
+forming process
+void coalescence
+chemical vapor
+interfacial mechanical properties
+tight-binding molecular dynamics simulations
+fcc nickel
+tensile modulus
+discontinuous phenomena
+data compression
+numerical calculations
+perovskite solar cells
+concrete containing
+length distributions
+indentation experiments
+concrete compressive strength
+accelerated design
+tunable chemical
+device simulation based
+process modelling
+phase evolution
+two-dimensional semiconductors
+nanotwinned materials
+softening temperature
+induced transformations via deep learning
+thermodynamic potential
+layered materials
+x-ray diffraction data
+x-ray absorption spectra
+refractory complex
+intrinsic defect chemistry
+large-scale screening
+machine learning techniques
+computational understanding

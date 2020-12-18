@@ -1,0 +1,15 @@
+embedded atom 51
+atom method 34
+embedded atom method 25
+fcc metals 18
+magnetic field 14
+metals part 14
+chemical bonding 13
+ceramic tool 12
+symmetric tilt 11
+modified embedded atom 11
+modified embedded atom method 10
+new method 10
+chemical vapor 10
+ionic embedded atom 10
+front image 10

@@ -1,0 +1,66 @@
+finite element 262
+numerical simulation 79
+finite element analysis 65
+numerical analysis 53
+crystal plasticity 48
+field model 48
+solidification model 48
+numerical study 47
+part ii 47
+phase field model 46
+model part 32
+phase field simulation 31
+finite element method 31
+plasticity finite element 30
+computational study 29
+phase field study 28
+simulation study 28
+computational modeling 27
+finite element simulation 26
+constitutive model 25
+size effect 24
+materials science 23
+finite element modelling 23
+columnar solidification 23
+atomistic modeling 22
+solidification model part 22
+numerical modelling 21
+field simulation 21
+multiscale solidification 21
+multiscale modeling 20
+phase field method 20
+numerical investigation 20
+element method 20
+micromechanical modelling 19
+finite element modeling 18
+finite element model 18
+crystal plasticity finite element 18
+element analysis 18
+finite element simulations 17
+model incorporating 17
+numerical modeling 15
+micromechanical modeling 13
+directional solidification 13
+plasticity model 13
+columnar solidification model 13
+element techniques 13
+multiscale solidification model 13
+computational analysis 12
+vibration analysis 12
+element model 12
+fe analysis 11
+pressure effect 11
+crystal growth 11
+computational materials science 11
+3d finite element 11
+interfaces part 11
+techniques part 11
+computational model 10
+computational modelling 10
+fem analysis 10
+computational method 10
+damage model 10
+element simulations 10
+crystal model 10
+field model incorporating 10
+model part ii 10

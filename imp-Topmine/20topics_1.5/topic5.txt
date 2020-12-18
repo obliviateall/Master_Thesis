@@ -1,0 +1,28 @@
+thermal conductivity 74
+crack propagation 52
+thermal properties 40
+crack growth 28
+crack tip 27
+transport properties 25
+thermal expansion 24
+physical properties 22
+heat transfer 21
+thermoelectric properties 20
+lattice thermal conductivity 20
+fatigue crack 19
+material properties 18
+heat conduction 15
+mass transfer 13
+fatigue crack growth 13
+effective properties 13
+void growth 13
+thermal barrier 13
+work tool 13
+interfacial properties 12
+electron transport 12
+thermal transport 12
+thermal barrier coatings 12
+optoelectronic properties 10
+heat treatment 10
+dielectric properties 10
+mass transport 10

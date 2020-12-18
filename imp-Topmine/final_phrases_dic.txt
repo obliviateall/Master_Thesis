@@ -1,0 +1,2367 @@
+first principles  1
+v cr 1
+molecular dynamics  1
+ti v 1
+cr mn 1
+ab initio 1
+phase field 1
+molecular dynamics 1
+first principles 1
+finite element 1
+density functional 1
+si ti 1
+first principles study  1
+ab initio  1
+co ni 1
+ti v cr 1
+ni cu 1
+v cr mn 1
+cu ag 1
+monte carlo 1
+fe co 1
+tight binding 1
+doped 10 1
+si ti v 1
+0 zigzag 1
+boron nitride 1
+electronic properties  1
+three dimensional 1
+finite element  1
+al si 1
+mechanical properties  1
+carbon nanotube 1
+grain boundary 1
+molecular dynamics simulation  1
+phase field  1
+mn co 1
+first principles calculations  1
+carbon nanotubes 1
+electronic structure  1
+two dimensional 1
+walled carbon 1
+molecular dynamics study  1
+large scale 1
+density functional  1
+single walled 1
+part ii 1
+part 2 1
+steel part 1
+crystal plasticity 1
+single crystal 1
+co ni cu 1
+metal matrix 1
+zr nb 1
+optical properties  1
+co doped 1
+functional theory 1
+ti v cr mn 1
+ag au 1
+scale phase 1
+zr hf 1
+zigzag single 1
+doped si 1
+1 zno 1
+doped 10 0 1
+si ti v cr 1
+water considering 1
+si x 1
+nb mo 1
+zno 1 1
+10 0 zigzag 1
+1 al 1
+ni cu ag 1
+initio classical 1
+considering carbon 1
+hf nb 1
+al si ti 1
+cr mn co 1
+elastic properties  1
+shape memory 1
+mn fe 1
+stacking ordered 1
+molecular dynamics simulations  1
+tool steel 1
+multi scale 1
+density functional theory  1
+grain boundaries 1
+period stacking 1
+functional tight 1
+fe co ni 1
+high pressure 1
+functionally graded 1
+embedded atom 1
+transition metal 1
+machine learning  1
+ab initio study  1
+first principle  1
+reinforced metal 1
+pressure ab 1
+x x 1
+cr zr 1
+classical molecular 1
+cu ag au 1
+nb ta 1
+x ge 1
+al 1 1
+centered cubic 1
+mn doped 1
+plasticity finite 1
+single layer 1
+thermodynamic properties  1
+two phase 1
+co doped 10 1
+al si ti v 1
+conveying water 1
+tm zr 1
+mo hf 1
+0 zigzag single 1
+v cr mn co 1
+carbon water 1
+2 coupling 1
+two dimensional  1
+grain boundary  1
+al fe 1
+matrix composites 1
+single crystal  1
+magnetic properties  1
+density functional theory 1
+thermo mechanical 1
+n 1 1
+fiber reinforced 1
+fe c 1
+carbon nanotubes  1
+numerical simulation  1
+multi phase 1
+high pressure  1
+kinetic monte 1
+charge transfer 1
+nanotube reinforced 1
+solidification model 1
+prediction first 1
+doped si x 1
+zr nb mo 1
+clusters ab 1
+1 zno 1 1
+doped 10 0 zigzag 1
+1 1 al 1
+oxide 0 1
+si ti v cr mn 1
+ag coherent 1
+co ni cu ag 1
+ab initio classical 1
+constants anisotropy 1
+water considering carbon 1
+set versus 1
+zr hf nb 1
+composites three 1
+constitutive cyclic 1
+steel part 2 1
+sized cu 1
+nanotubes tight 1
+three dimensional  1
+self consistent 1
+materials part 1
+single wall 1
+der waals 1
+structural electronic  1
+field crystal 1
+theoretical study  1
+level set 1
+atom method 1
+single walled  1
+large scale phase 1
+zinc oxide 1
+tool steel part 1
+first principles investigation  1
+silicon carbide 1
+α al2o3 1
+work tool 1
+structural elastic  1
+scale phase field 1
+wall carbon 1
+cyclic plastic 1
+elastic constants 1
+field model 1
+monte carlo  1
+single walled carbon  1
+ceramic composites 1
+dependent constitutive 1
+carbon nanotube  1
+mode phase 1
+cr mn fe 1
+ordered structure 1
+pressure ab initio 1
+energy grain 1
+field lattice 1
+niti shape 1
+van der 1
+cr zr nb 1
+zn ag 1
+binding molecular 1
+period stacking ordered 1
+synthesis prediction 1
+mn doped si 1
+titanium clusters 1
+0 1 zno 1
+co doped 10 0 1
+al si ti v cr 1
+fe co ni cu 1
+conveying water considering 1
+tm zr hf 1
+medium al 1
+nano sized 1
+si x ge 1
+ii direct 1
+nb mo hf 1
+zno 1 1 1
+10 0 zigzag single 1
+1 al 1 1
+ti v cr mn co 1
+coherent interfaces 1
+ni cu ag au 1
+boundaries kinetic 1
+initio classical molecular 1
+anisotropy generalized 1
+considering carbon water 1
+versus multi 1
+hf nb ta 1
+1 ni 1
+part 2 coupling 1
+cu beams 1
+memory alloys 1
+atoms al 1
+electronic structures  1
+transition metal  1
+atomistic simulation  1
+long period 1
+density functional tight 1
+nanotubes conveying 1
+hexagonal boron 1
+grain growth  1
+dft study  1
+electronic structure 1
+c n 1
+thermal conductivity  1
+non linear 1
+equal channel 1
+channel angular 1
+artificial neural  1
+numerical analysis  1
+finite element analysis  1
+tilt grain 1
+strain rate 1
+high temperature 1
+tm tm 1
+single walled carbon 1
+stress induced 1
+reinforced metal matrix 1
+high strength 1
+crystal plasticity finite 1
+memory alloy 1
+first principle study  1
+plastic deformation  1
+x ray 1
+machine learning 1
+functional tight binding 1
+3d phase 1
+ab initio calculations  1
+functionally graded  1
+phase field crystal 1
+n co 1
+charge density 1
+body centered 1
+atoms al si 1
+metal fe 1
+mn co ni 1
+au rh 1
+multi scale  1
+single walled carbon nanotubes  1
+numerical study  1
+modified embedded 1
+walled carbon nanotube 1
+phase transition 1
+b c 1
+particle reinforced 1
+high throughput 1
+embedded atom method 1
+fe cr 1
+reinforced polymer 1
+rate dependent 1
+cellular automata 1
+consistent charge 1
+mn fe co 1
+atomic scale 1
+continuous ceramic 1
+scale modelling 1
+multi walled 1
+empirical tight 1
+initio molecular 1
+model part 1
+mechanical behavior  1
+crystal plasticity  1
+dispersion corrected 1
+metallic glass 1
+stress strain 1
+ni al 1
+zigzag single walled 1
+dependent elastic 1
+atomistic simulations  1
+mechanical properties 1
+dimensional phase 1
+phase transformation 1
+dynamics simulations 1
+work tool steel 1
+sc tm 1
+heusler alloys 1
+fe ni 1
+carbide nanotubes 1
+high energy 1
+lattice boltzmann 1
+high throughput  1
+c mn 1
+cu zn 1
+solid solution 1
+pressure die 1
+constant pressure 1
+absorption spectroscopy 1
+reinforced copper 1
+thermal properties  1
+plasticity finite element 1
+phase field model 1
+semi empirical 1
+thin films 1
+grain growth 1
+functional molecular 1
+materials part ii 1
+al cr 1
+dimensional large 1
+layer polycrystalline 1
+modelling approach 1
+induced phase 1
+thin film 1
+grain size 1
+one dimensional 1
+long period stacking 1
+two scale 1
+shell nanocrystals 1
+co fe 1
+hf ta 1
+system first 1
+two phase  1
+dynamics simulation 1
+higher order 1
+hot work 1
+metallic mn 1
+n co doped 1
+sic 1 1
+atoms al si ti 1
+oxide layer 1
+tm v 1
+metal fe co 1
+metal matrix composites 1
+energy grain boundaries 1
+cr fe 1
+metal tm 1
+k rb 1
+copper nanocomposites 1
+stacking ordered structure 1
+ge 1 1
+cr mn co ni 1
+ag au rh 1
+water bond 1
+ta mo 1
+coupling predicted 1
+artificial neural network  1
+density functional theory study  1
+cellular automaton 1
+mode phase field 1
+large scale phase field 1
+columnar solidification 1
+multiscale solidification 1
+synthesis prediction first 1
+mn doped si x 1
+cr zr nb mo 1
+titanium clusters ab 1
+principles calculation 1
+one particle 1
+hybrid self 1
+oxide multiple 1
+0 1 zno 1 1
+co doped 10 0 zigzag 1
+1 1 1 al 1
+zinc oxide 0 1
+al si ti v cr mn 1
+elements x 1
+elements b 1
+dft dispersion 1
+carbon heterostructures 1
+zn ag coherent 1
+nitride nano 1
+fe co ni cu ag 1
+transfer ionic 1
+pressure ab initio classical 1
+elastic constants anisotropy 1
+conveying water considering carbon 1
+level set versus 1
+microstructures large 1
+transfer hybrid 1
+mg system 1
+tm zr hf nb 1
+ceramic composites three 1
+nanocomposites coarse 1
+thermal solute 1
+dependent constitutive cyclic 1
+medium al fe 1
+nano cu 1
+tool steel part 2 1
+nano sized cu 1
+carbon nanotubes tight 1
+prediction first principles 1
+doped si x ge 1
+part ii direct 1
+zr nb mo hf 1
+clusters ab initio 1
+spectroscopy full 1
+alloys first 1
+particle 3d 1
+multiple phase 1
+1 zno 1 1 1
+doped 10 0 zigzag single 1
+1 1 al 1 1
+oxide 0 0 1
+si ti v cr mn co 1
+heterostructures formation 1
+ag coherent interfaces 1
+rb cs 1
+nano tube 1
+co ni cu ag au 1
+grain boundaries kinetic 1
+ionic embedded 1
+carlo hybrid 1
+ab initio classical molecular 1
+constants anisotropy generalized 1
+water considering carbon water 1
+set versus multi 1
+ordered mg 1
+hybrid first 1
+zr hf nb ta 1
+composites three dimensional 1
+coarse grain 1
+0 1 ni 1
+solute 3d 1
+constitutive cyclic plastic 1
+al fe c 1
+layer annealing 1
+cu films 1
+steel part 2 coupling 1
+nanocrystals empirical 1
+sized cu beams 1
+nanotubes tight binding 1
+neural network 1
+van der waals 1
+phase field lattice 1
+al2o3 0001 1
+formation energies 1
+plane strain 1
+metal oxide 1
+computer simulation  1
+comparative study  1
+kinetic monte carlo 1
+walled carbon nanotubes 1
+body centered cubic 1
+thermal conductivity 1
+reinforced composite 1
+binary alloy 1
+v cr zr 1
+doped titanium 1
+tight binding  1
+microstructure evolution  1
+crack propagation  1
+tight binding molecular 1
+first principle 1
+electric field 1
+ion battery 1
+solid liquid 1
+ni 1 1
+111 α 1
+field method 1
+residual stresses  1
+first principles calculation  1
+generalized stacking 1
+pressure induced 1
+classical molecular dynamics 1
+molecular dynamics simulations 1
+heterogeneous materials 1
+crack propagation 1
+walled armchair 1
+zr al 1
+doped zinc 1
+nitride carbon 1
+dimensional microstructure 1
+principles calculations 1
+structural properties  1
+reinforced composites 1
+ray absorption 1
+hexagonal boron nitride 1
+carbon nanotube reinforced 1
+single wall carbon 1
+temperature dependent 1
+crystal nano 1
+nanotubes reinforced 1
+including grain 1
+n 1 10 1
+part 1 1
+solidification model part 1
+phase field modeling  1
+grain size  1
+equal channel angular 1
+symmetric tilt 1
+elastic plastic 1
+alloys part 1
+ag cu 1
+al cu 1
+n 0 1
+first principles calculations 1
+anatase tio2 1
+doped single 1
+reinforced aluminum 1
+al 1 1 1
+plastic material 1
+free carbon 1
+phase stability  1
+point defects  1
+stacking fault 1
+dual phase 1
+structural phase 1
+principles dft 1
+shape memory alloy 1
+shape memory alloys 1
+double walled 1
+phase microstructures 1
+diffusion controlled 1
+phase synthesis 1
+γ ni 1
+metallic mn doped 1
+cluster density 1
+size dependent 1
+n co doped 10 1
+sic 1 1 1
+atoms al si ti v 1
+x cu 1
+metal fe co ni 1
+constant pressure ab 1
+nanotubes conveying water 1
+materials level 1
+metal tm zr 1
+polymer nanocomposites 1
+composites considering 1
+variable dependent 1
+mn medium 1
+x ge 1 1
+direct micromechanical 1
+mo hf ta 1
+initio versus 1
+0 zigzag single walled 1
+v cr mn co ni 1
+interfaces first 1
+cu ag au rh 1
+structure first 1
+carbon water bond 1
+nb ta mo 1
+2 coupling predicted 1
+beams geometric 1
+binding md 1
+high temperature  1
+thermo mechanical  1
+3d finite 1
+modified embedded atom 1
+niti shape memory 1
+fatigue crack 1
+na k 1
+induced structural 1
+v cr mn fe 1
+zinc blende 1
+density functional tight binding 1
+phase change 1
+lattice thermal 1
+grain boundaries  1
+molecular dynamics simulation 1
+force field 1
+strain induced 1
+rare earth 1
+two mode 1
+work tool steel part 1
+cr mn fe co 1
+first principles calculation 1
+fine grained 1
+field induced 1
+order two 1
+shape memory  1
+band gap  1
+half metallic  1
+theoretical investigation  1
+computational study  1
+cellular automaton  1
+crack tip  1
+coarse grained 1
+multi component 1
+induced martensitic 1
+exchange correlation 1
+n n 1
+ternary alloys 1
+fe cu 1
+h bn 1
+cu ni 1
+particulate reinforced 1
+fibre reinforced 1
+cu mg 1
+dimensional large scale 1
+amorphous mg 1
+atomic scale  1
+phase field study  1
+dual phase  1
+materials science 1
+elastic properties 1
+band structure 1
+single crystals 1
+c c 1
+second order 1
+crystal plasticity finite element 1
+graded material 1
+molecular mechanics 1
+binary system 1
+sc tm tm 1
+walled boron 1
+3d phase field 1
+grained molecular 1
+field simulation 1
+lattice dynamics  1
+thin films  1
+computational modeling  1
+large scale  1
+ab initio molecular  1
+stacking fault  1
+scale molecular 1
+multi walled carbon 1
+glass fiber 1
+total energy 1
+dynamic recrystallization 1
+structural elastic 1
+cr binary 1
+mg al 1
+long period stacking ordered 1
+crystalline amorphous 1
+matrix composite 1
+nano composite 1
+porous niti 1
+carbon fiber 1
+polymer composites 1
+length scale 1
+stainless steel 1
+fe c mn 1
+typical high 1
+polycrystalline boron 1
+hybrid boron 1
+hf dft 1
+die casting 1
+model incorporating 1
+ab initio molecular dynamics  1
+atomistic study  1
+particle reinforced  1
+thin film  1
+finite element method  1
+lithium ion 1
+dislocation dynamics 1
+band gap 1
+strain gradient 1
+solid state 1
+stainless steels 1
+time dependent 1
+α al2o3 0001 1
+gas metal 1
+hot work tool 1
+v cr zr nb 1
+ordered ni 1
+2 dimensional 1
+dependent mechanical 1
+cu zn ag 1
+high energy grain 1
+scale modelling approach 1
+three dimensional microstructure 1
+full multiple 1
+foam filled 1
+silicon carbide nanotubes 1
+carlo simulation 1
+phase field simulation  1
+phase transition  1
+metallic glass  1
+monte carlo simulation  1
+phase field model  1
+density functional study  1
+electric field  1
+size effects  1
+finite element simulation  1
+fiber reinforced  1
+ray diffraction 1
+scale modeling 1
+lattice dynamical 1
+ground state 1
+reactive force 1
+111 surface 1
+alloy phase 1
+heterogeneous materials part 1
+dependent density 1
+consistent charge density 1
+composite materials 1
+phase columnar 1
+cu 111 1
+111 α al2o3 1
+phase multiscale 1
+phase synthesis prediction 1
+metallic mn doped si 1
+compounds sc 1
+doped titanium clusters 1
+metal v 1
+cr co 1
+5 heusler 1
+cluster density functional 1
+consistent one 1
+electronic density 1
+dimensional hybrid 1
+0 0 1 zno 1
+n co doped 10 0 1
+core shell 1
+sic 1 1 1 1
+doped zinc oxide 1
+high pressure die 1
+atoms al si ti v cr 1
+transition elements 1
+metal elements 1
+doping tm 1
+metal fe co ni cu 1
+ni γ 1
+composite ceramic 1
+algorithm monte 1
+solid high 1
+constant pressure ab initio 1
+dependent elastic constants 1
+nanotubes conveying water considering 1
+precipitate interactions 1
+materials level set 1
+mg mg 1
+linear thermo 1
+metal tm zr hf 1
+continuous ceramic composites 1
+entropy al 1
+adhesive bonded 1
+scale phase field lattice 1
+scale thermal 1
+single layer polycrystalline 1
+variable dependent constitutive 1
+mn medium al 1
+rich oxide 1
+crystalline nano 1
+shell shell 1
+crystal nano sized 1
+order parameter 1
+free carbon nanotubes 1
+wall silicon 1
+charge density functional 1
+period stacking ordered structure 1
+si x ge 1 1
+ii direct micromechanical 1
+tm cd 1
+nb mo hf ta 1
+ab initio versus 1
+co mn 1
+3d unit 1
+phase electrode 1
+zno 1 1 1 1
+10 0 zigzag single walled 1
+1 al 1 1 1
+ti v cr mn co ni 1
+corrected c60 1
+coherent interfaces first 1
+cs ab 1
+10 nano 1
+tube reinforced 1
+ni cu ag au rh 1
+boundaries kinetic monte 1
+hybrid geometry 1
+initio classical molecular dynamics 1
+ordered structure first 1
+anisotropy generalized stacking 1
+considering carbon water bond 1
+versus multi phase 1
+mg first 1
+hf nb ta mo 1
+grain molecular 1
+approach considering 1
+1 ni 1 1
+cyclic plastic material 1
+annealing monte 1
+films molecular 1
+part 2 coupling predicted 1
+cu beams geometric 1
+tight binding md 1
+nanotubes molecular 1
+nanocomposites molecular 1
+theory molecular 1
+x ray  1
+genetic algorithm  1
+cellular automata  1
+residual stress  1
+atomistic modeling  1
+first principle calculations  1
+strain gradient  1
+hydrogen storage  1
+fatigue crack  1
+numerical investigation  1
+strain rate  1
+metal matrix  1
+si ge 1
+scale computational 1
+monte carlo simulation 1
+three dimensional phase 1
+layered graphene 1
+crack tip 1
+field lattice boltzmann 1
+wall carbon nanotube 1
+self consistent charge 1
+md simulation 1
+cu zr 1
+crack growth 1
+carbon nanotubes conveying 1
+non equilibrium 1
+non local 1
+zno van 1
+hybrid graphene 1
+single phase 1
+micro mechanical 1
+element analysis 1
+initio molecular dynamics 1
+nitride monolayer 1
+waals corrected 1
+columnar solidification model 1
+interfaces part 1
+element techniques 1
+polymer membranes 1
+multiscale solidification model 1
+0 symmetric 1
+refractory complex 1
+synthesis prediction first principles 1
+zr alloys 1
+mn doped si x ge 1
+cr stainless 1
+zone melting 1
+materials part ii direct 1
+ca compounds 1
+cr zr nb mo hf 1
+tm ag 1
+titanium clusters ab initio 1
+co fe co 1
+structures cu 1
+absorption spectroscopy full 1
+heusler alloys first 1
+dimensional charge 1
+one particle 3d 1
+surface density 1
+density functional molecular 1
+hybrid self consistent 1
+1 surface 1
+oxide multiple phase 1
+0 1 zno 1 1 1
+co doped 10 0 zigzag single 1
+driven lattice 1
+al bulk 1
+element x 1
+1 1 1 al 1 1
+hcp bcc 1
+zinc oxide 0 0 1
+segregation along 1
+al si ti v cr mn co 1
+elements x x 1
+polymer fibers 1
+elements b c 1
+tm v cr 1
+dft dispersion corrected 1
+carbon heterostructures formation 1
+0 oriented 1
+zn ag coherent interfaces 1
+k rb cs 1
+nitride nano tube 1
+fe co ni cu ag au 1
+sr alloy 1
+energy grain boundaries kinetic 1
+transfer ionic embedded 1
+monte carlo hybrid 1
+materials 3d 1
+macro microscopic 1
+pressure ab initio classical molecular 1
+elastic constants anisotropy generalized 1
+al metallic 1
+fiber epoxy 1
+conveying water considering carbon water 1
+versus effective 1
+order multi 1
+level set versus multi 1
+stacking ordered mg 1
+microstructures large scale 1
+transfer hybrid first 1
+bulk niti 1
+mg cr 1
+low speed 1
+mg system first 1
+tm zr hf nb ta 1
+ceramic composites three dimensional 1
+voronoi typical 1
+ceramic composite 1
+nanocomposites coarse grain 1
+cubic single 1
+microstructures including 1
+al cr fe 1
+analysis virtual 1
+0 0 1 ni 1
+hollow nanoparticles 1
+thermal solute 3d 1
+dependent constitutive cyclic plastic 1
+wave front 1
+medium al fe c 1
+recrystallization predicting 1
+oxide layer annealing 1
+cubic phase 1
+nano cu films 1
+tool steel part 2 coupling 1
+shell nanocrystals empirical 1
+nano sized cu beams 1
+carbon nanotubes tight binding 1
+interface systems 1
+science multiple 1
+reinforced copper nanocomposites 1
+coarse grained  1
+structural elastic electronic  1
+phase transformation  1
+thermoelectric properties  1
+first principles studies  1
+aluminum alloy  1
+mechanical behaviour  1
+composite materials  1
+dynamic recrystallization  1
+molecular dynamics simulation study  1
+author index  1
+ion batteries 1
+computational materials 1
+simulation study 1
+bulk metallic 1
+cohesive zone 1
+plastic deformation 1
+half metallic 1
+twist grain 1
+point defect 1
+multi phase field 1
+x li 1
+two mode phase 1
+metals part 1
+3c sic 1
+dimensional crystal 1
+intermetallic compounds 1
+n doped 1
+doped zno 1
+doped single layer 1
+ab initio molecular 1
+polymer composite 1
+induced defect 1
+mechanical stress 1
+strain deformation 1
+alloying elements  1
+multi phase  1
+transport properties  1
+atomic structure  1
+non linear  1
+interatomic potential  1
+boron nitride  1
+numerical modelling  1
+finite element modelling  1
+deformation behavior  1
+micromechanical modelling  1
+stress intensity 1
+ray absorption spectroscopy 1
+metal doped 1
+quantum chemical 1
+metal arc 1
+initio hf 1
+boundary sliding 1
+fiber composites 1
+coupled thermo 1
+non isothermal 1
+metal ceramic 1
+n 0 1 1
+phase field method 1
+unit cell 1
+al x 1
+mechanical finite 1
+automata finite 1
+mechanics molecular 1
+method interatomic 1
+fe cr  1
+high entropy  1
+elastic constants  1
+phase field method  1
+structural stability  1
+structural mechanical  1
+solid state  1
+fcc metals  1
+tension compression 1
+high strain 1
+earth metal 1
+phase field simulation 1
+thermal expansion 1
+elasto plastic 1
+110 surface 1
+3d fe 1
+single crystalline 1
+aluminum alloy 1
+finite element analysis 1
+si 111 1
+n n 1 1
+dislocation precipitate 1
+molecular orbital 1
+neural network  1
+electronic band  1
+multiscale modeling  1
+level set  1
+lithium ion  1
+vibrational properties  1
+li ion  1
+pressure induced  1
+oxygen vacancy  1
+ground state  1
+multi walled  1
+heterogeneous materials  1
+constitutive model  1
+cyclic loading  1
+metal matrix composites  1
+structural electronic 1
+thermal barrier 1
+reinforced metal matrix composites 1
+element method 1
+dimensional phase field 1
+molecular dynamic 1
+3d transition 1
+multi layered 1
+martensitic phase 1
+electronic band 1
+0001 surface 1
+hybrid monte 1
+dimensional grain 1
+plasticity analysis 1
+short range 1
+mg zn 1
+gga u 1
+stress corrosion 1
+na k rb 1
+quantum mechanical 1
+nitride nanotube 1
+polycrystalline microstructures 1
+sic functionally 1
+ni zr 1
+nb ti 1
+solid solutions 1
+multi physics 1
+dislocation core 1
+elastic electronic 1
+sc ti 1
+b c n 1
+graphene sheets 1
+graphene boron 1
+pressure die casting 1
+multi order 1
+doped hexagonal 1
+meso scale 1
+three phase 1
+phase nano 1
+poisson voronoi 1
+scale finite 1
+order shear 1
+scale hybrid 1
+system first principles 1
+dimensional periodic 1
+functionally graded material 1
+angular pressing 1
+boundary effects 1
+epoxy composite 1
+alloy stability 1
+bcc iron  1
+austenitic stainless  1
+thermal expansion  1
+first principles investigations  1
+physical properties  1
+artificial neural networks  1
+embedded atom  1
+experimental study  1
+mechanical response  1
+kinetic monte  1
+kinetic monte carlo  1
+solid solution  1
+band structure  1
+elastic plastic  1
+microstructural evolution  1
+body centered  1
+single layer  1
+single wall  1
+self consistent  1
+graphene nanoribbons  1
+van der  1
+double walled  1
+multi walled carbon  1
+equal channel  1
+equal channel angular  1
+layer graphene 1
+clay nanocomposites 1
+ceramic tool 1
+dependent crystal 1
+solids part 1
+dimensional layered 1
+hydrogen storage 1
+modified embedded atom method 1
+dependent density functional 1
+generalized gradient 1
+mode phase field crystal 1
+phase columnar solidification 1
+thickness interfaces 1
+cell polymer 1
+phase multiscale solidification 1
+compressed typical 1
+stress controlled 1
+strength refractory 1
+phase synthesis prediction first 1
+metallic mn doped si x 1
+glasses ab 1
+velocity phase 1
+gradient zone 1
+heterogeneous materials part ii 1
+sr ca 1
+compounds sc tm 1
+v cr zr nb mo 1
+doped titanium clusters ab 1
+metal v cr 1
+cr co fe 1
+ternary structures 1
+5 heusler alloys 1
+cluster density functional tight 1
+consistent one particle 1
+1 n 1
+electronic density functional 1
+dimensional hybrid self 1
+metal oxide multiple 1
+0 0 1 zno 1 1
+representation plane 1
+n co doped 10 0 zigzag 1
+n type 1
+principles driven 1
+energy semi 1
+element c 1
+magnetic element 1
+sic 1 1 1 al 1
+phase hcp 1
+superalloy γ 1
+doped zinc oxide 0 1
+hydrogen segregation 1
+nanowire single 1
+u 0 1
+atoms al si ti v cr mn 1
+transition elements x 1
+strong polymer 1
+metal elements b 1
+orientation dependent 1
+doping tm v 1
+principles dft dispersion 1
+nitride carbon heterostructures 1
+cu zn ag coherent 1
+boron nitride nano 1
+metal fe co ni cu ag 1
+al sr 1
+high energy grain boundaries 1
+magnetic field 1
+consistent ab 1
+charge transfer ionic 1
+filled multi 1
+algorithm monte carlo 1
+nanocomposite materials 1
+viscoplastic equal 1
+anisotropic grain 1
+coupled macro 1
+superconducting transition 1
+solid high pressure 1
+constant pressure ab initio classical 1
+dependent elastic constants anisotropy 1
+scales grain 1
+nanotubes conveying water considering carbon 1
+binding versus 1
+graded foam 1
+ti cr 1
+materials level set versus 1
+phase microstructures large 1
+charge transfer hybrid 1
+crystal bulk 1
+upon low 1
+metal anatase 1
+fiber matrix 1
+cu mg system 1
+joints adhesive 1
+metal tm zr hf nb 1
+3 h 1
+continuous ceramic composites three 1
+polymer nanocomposites coarse 1
+carbon glass 1
+ceramic functionally 1
+length scale modelling 1
+level cellular 1
+entropy al cr 1
+graded piezoelectric 1
+b2 ordered 1
+pd hollow 1
+different 1 1
+source crystal 1
+aln 1 1
+dimensional large scale phase 1
+scale thermal solute 1
+scale three 1
+variable dependent constitutive cyclic 1
+moving wave 1
+mn medium al fe 1
+phase crystalline 1
+rich oxide layer 1
+nitride cubic 1
+crystalline nano cu 1
+work tool steel part 2 1
+shell shell nanocrystals 1
+crystal nano sized cu 1
+free carbon nanotubes tight 1
+wall silicon carbide 1
+w interface 1
+nanotubes reinforced copper 1
+layer hybrid 1
+electrode gas 1
+dimensional single 1
+author correction 1
+dynamics study 1
+artificial neural 1
+corrected exchange 1
+techniques part 1
+membranes molecular 1
+complex solid 1
+prediction first principles calculation 1
+alloys melting 1
+v zr 1
+doped si x ge 1 1
+melting cellular 1
+induced band 1
+part ii direct micromechanical 1
+compounds density 1
+tm tm cd 1
+zr nb mo hf ta 1
+clusters ab initio versus 1
+fe co mn 1
+spectroscopy full multiple 1
+alloys first principles 1
+functional tight binding molecular 1
+particle 3d unit 1
+nanotubes density 1
+functional molecular dynamics 1
+multiple phase electrode 1
+1 zno 1 1 1 1
+doped 10 0 zigzag single walled 1
+alloys representative 1
+monolayer ab 1
+1 diamond 1
+1 1 al 1 1 1
+bcc mg 1
+oxide 0 0 0 1
+along aluminum 1
+si ti v cr mn co ni 1
+interactions within 1
+x x cu 1
+fibers ab 1
+parameter phase 1
+dispersion corrected c60 1
+heterostructures formation energies 1
+oriented 3c 1
+ag coherent interfaces first 1
+rb cs ab 1
+dft molecular 1
+1 10 nano 1
+nano tube reinforced 1
+co ni cu ag au rh 1
+grain boundaries kinetic monte 1
+initio lattice 1
+ionic embedded atom 1
+carlo hybrid geometry 1
+microscopic finite 1
+ab initio classical molecular dynamics 1
+stacking ordered structure first 1
+constants anisotropy generalized stacking 1
+aluminum metal 1
+water considering carbon water bond 1
+effective mass 1
+filled thin 1
+set versus multi phase 1
+waals two 1
+field model incorporating 1
+ordered mg first 1
+hybrid first principles 1
+alloys grain 1
+cr 2 1
+speed impact 1
+tio2 1 1
+bonded aluminium 1
+zr hf nb ta mo 1
+bn monolayer 1
+1 coupling 1
+composites three dimensional microstructure 1
+typical cell 1
+composite dynamic 1
+coarse grain molecular 1
+matrix composites considering 1
+modelling approach considering 1
+cr fe ni 1
+virtual grain 1
+0 1 ni 1 1
+nanoparticles grain 1
+solute 3d phase 1
+induced ferroelectric 1
+constitutive cyclic plastic material 1
+layer polycrystalline boron 1
+front image 1
+2 macroscopic 1
+al fe c mn 1
+predicting kinetics 1
+layer annealing monte 1
+phase versus 1
+cu films molecular 1
+steel part 2 coupling predicted 1
+nanocrystals empirical tight 1
+sized cu beams geometric 1
+nanotubes tight binding md 1
+carbide nanotubes molecular 1
+systems upon 1
+multiple scales 1
+copper nanocomposites molecular 1
+functional theory molecular 1
+neural networks  1
+mixed mode  1
+α fe  1
+strain induced  1
+austenitic stainless steel  1
+materials science  1
+interatomic potentials  1
+ab initio calculation  1
+ab initio investigation  1
+body centered cubic  1
+van der waals  1
+size effect  1
+one dimensional  1
+single walled carbon nanotube  1
+effective elastic  1
+tensile deformation  1
+high entropy 1
+li ion 1
+phase steel 1
+phase transformations 1
+dft u 1
+nickel base 1
+atom method interatomic 1
+elastic stiffness 1
+nanotube polymer 1
+stress distribution 1
+ni cr 1
+range order 1
+0 x 1
+ca sr 1
+phase stability 1
+p type 1
+basis set 1
+electron beam 1
+deformation behavior 1
+mo w 1
+flow stress 1
+armchair single 1
+electro mechanical 1
+fiber reinforced metal 1
+fuel cell 1
+multiphase field 1
+mn si 1
+x ni 1
+energy density 1
+empirical tight binding 1
+porous niti shape 1
+mass transport 1
+heat conduction 1
+constitutive equations 1
+mn al 1
+angular extrusion 1
+c single 1
+al solid 1
+phase polycrystalline 1
+multi component  1
+ni al  1
+molecular simulations  1
+genetic algorithms  1
+strain gradient plasticity  1
+magnesium alloy  1
+deformation mechanisms  1
+lattice thermal  1
+lattice thermal conductivity  1
+thermal barrier  1
+lead free  1
+half metallicity  1
+room temperature  1
+numerical modeling  1
+single wall carbon  1
+temperature dependent  1
+thermal transport  1
+discrete element  1
+point defect  1
+polycrystalline materials  1
+bcc fe  1
+molecular dynamics investigation  1
+second phase  1
+stress strain  1
+deep learning  1
+binding molecular dynamics 1
+particle reinforced metal 1
+boundary migration 1
+metallic glasses 1
+throughput ab 1
+pressure phase 1
+representative volume 1
+pressure structural 1
+random heterogeneous 1
+alkaline earth 1
+molecular dynamics study 1
+electron phonon 1
+second order two 1
+initio electronic 1
+3d finite element 1
+different exchange 1
+stability electronic 1
+two mode phase field 1
+tip stress 1
+temperature phase 1
+si 1 1
+co continuous 1
+ceramics containing 1
+temperature gradient 1
+zn binary 1
+ni binary 1
+high performance 1
+quantum dots 1
+screw dislocation 1
+ni pd 1
+boron nitride carbon 1
+ultra fine 1
+induced grain 1
+al matrix 1
+v system 1
+order disorder 1
+induced dislocation 1
+solution aluminum 1
+large strain 1
+material behavior 1
+isothermal phase 1
+orthotropic finite 1
+scale materials 1
+order two scale 1
+containing metallic 1
+mechanical fe 1
+structural evolution  1
+al mg  1
+molecular dynamic  1
+metallic glasses  1
+reactive molecular  1
+reactive molecular dynamics  1
+strain gradient plasticity theory  1
+mass transfer  1
+high pressures  1
+half metallic ferromagnetism  1
+dft calculations  1
+structural phase  1
+high performance  1
+molecular simulation  1
+si 100  1
+stone wales  1
+electron transport  1
+rate dependent  1
+heat transfer  1
+fatigue crack growth  1
+high speed  1
+stainless steel  1
+crack growth  1
+sheet metal  1
+fe c  1
+elasto plastic  1
+element model 1
+mg si 1
+dynamics method 1
+mixed mode 1
+scale molecular dynamics 1
+element mesh 1
+glass forming 1
+binding method 1
+element modeling 1
+symmetric tilt grain 1
+scale ab 1
+fe grain 1
+li na 1
+spring mass 1
+al alloys 1
+x 0 1
+room temperature 1
+plane wave 1
+dimensional anisotropic 1
+phase field lattice boltzmann 1
+initio hf dft 1
+size effect 1
+interatomic potential 1
+x ray diffraction 1
+atomic structure 1
+single walled carbon nanotubes 1
+crystal structure 1
+al ni 1
+001 surface 1
+ω phase 1
+bi material 1
+material interface 1
+111 α al2o3 0001 1
+coupled thermo mechanical 1
+hot work tool steel 1
+equilibrium molecular 1
+material ceramic 1
+electric field induced 1
+v cr mn fe co 1
+mn fe co ni 1
+group iv 1
+n 0 1 2 1
+low lattice 1
+x b 1
+inter atomic 1
+zno van der 1
+al x x 1
+long range 1
+nanowires ab 1
+induced stress 1
+semi empirical tight 1
+doped boron 1
+graphene hexagonal 1
+shear deformation 1
+al2o3 al 1
+x cu zn 1
+interatomic potentials 1
+γ ni γ 1
+single wall carbon nanotube 1
+nano composite ceramic 1
+mode ii 1
+local stress 1
+rigid body 1
+heat transfer 1
+sic metal 1
+001 twist 1
+γ ni3al 1
+centered cubic single 1
+nanotube epoxy 1
+large scale phase field lattice 1
+typical high strength 1
+magnetic systems 1
+hybrid boron nitride 1
+binary transition 1
+mapping mesoscopic 1
+cu alloys 1
+model part ii 1
+titanium alloy  1
+ternary alloys  1
+aluminum alloys  1
+glass forming  1
+titanium alloys  1
+monte carlo simulations  1
+fracture toughness  1
+representative volume  1
+intermetallic compounds  1
+density functional theory calculations  1
+zinc blende  1
+hydrostatic pressure  1
+pressure effect  1
+rare earth  1
+case study  1
+embedded atom method  1
+plastic flow  1
+electronic transport  1
+face centered  1
+face centered cubic  1
+finite element modeling  1
+double walled carbon  1
+quantum chemical  1
+phase transformations  1
+potential energy  1
+computer simulations  1
+molecular statics  1
+void growth  1
+functionally graded materials  1
+shape memory alloy  1
+computational materials  1
+directional solidification  1
+crystal copper 1
+al mg 1
+grained molecular dynamics 1
+channel angular extrusion 1
+element simulations 1
+discrete dislocation 1
+channel angular pressing 1
+ab initio molecular dynamics 1
+fault energy 1
+plasticity model 1
+crystal superalloys 1
+principles molecular 1
+artificial neural network 1
+iii v 1
+metal oxides 1
+phonon coupling 1
+effective thermal 1
+fracture mechanics 1
+phase ceramic 1
+residual stress 1
+β ω 1
+zn ca 1
+induced novel 1
+consistent charge density functional 1
+x 1 1
+gas metal arc 1
+noble gas 1
+epoxy nanocomposites 1
+real space 1
+dimensional janus 1
+amorphous silicon 1
+al2o3 metal 1
+ab initio study 1
+cu 100 1
+electronic structures 1
+grain structure 1
+arc welding 1
+multi scale modeling 1
+single walled carbon nanotube 1
+force microscopy 1
+vibrational free 1
+free energy 1
+vacancy migration 1
+transition metals 1
+scale analysis 1
+thermo electro 1
+pb sn 1
+coated copper 1
+3 si 1
+cr binary alloy 1
+α fe 1
+n body 1
+storage devices 1
+ni zn 1
+si rich 1
+long period stacking ordered structure 1
+liquid solid 1
+cu pd 1
+dimensional atomic 1
+fe v 1
+multiple scattering 1
+elastic viscoplastic 1
+twist boundaries 1
+time scale 1
+large deformation 1
+field driven 1
+brittle fracture 1
+cellular automata finite 1
+cubic iron 1
+temperature field 1
+strain rate dependent 1
+grain boundary sliding 1
+tial alloy 1
+plane strain deformation 1
+computational method 1
+ge sn 1
+6 clusters 1
+crystal model 1
+initio study 1
+sn ge 1
+armchair germanium 1
+surface first 1
+model combining 1
+solid liquid  1
+coarse grained molecular  1
+epitaxial growth  1
+binary alloys  1
+solid solutions  1
+optoelectronic properties  1
+cu ag  1
+atomistic investigation  1
+dft u  1
+chemical bonding  1
+phase field simulations  1
+dendrite growth  1
+low carbon  1
+high entropy alloys  1
+bulk metallic  1
+nanocrystalline metals  1
+free energy  1
+silicon carbide  1
+self diffusion  1
+p type  1
+crystal structure  1
+fluid flow  1
+density functional calculations  1
+si ge  1
+core shell  1
+lattice dynamical  1
+heusler alloys  1
+dual phase steels  1
+creep behaviour  1
+structural stabilities  1
+semi empirical  1
+solar cells  1
+structural electronic elastic  1
+temperature effects  1
+theoretical studies  1
+elastic moduli  1
+dielectric properties  1
+single crystals  1
+finite temperature  1
+single wall carbon nanotubes  1
+electronic band structure  1
+theoretical investigations  1
+dislocation density  1
+size dependent  1
+flow stress  1
+tight binding molecular  1
+li ion batteries  1
+amorphous carbon  1
+001 surface  1
+fracture behavior  1
+3c sic  1
+stress induced  1
+material properties  1
+α iron  1
+hexagonal boron  1
+hexagonal boron nitride  1
+wc co  1
+total energy  1
+tensile loading  1
+deformation behaviors  1
+dislocation dynamics  1
+phase field crystal  1
+glass transition  1
+graphene sheets  1
+hot deformation  1
+bcc metals  1
+static recrystallization  1
+crystal plasticity finite  1
+crystal plasticity finite element  1
+polymer composites  1
+carbon nanotube reinforced  1
+deformation behaviour  1
+tensile properties  1
+functionally graded steels  1
+single crystal copper  1
+impact energy  1
+multi walled carbon nanotubes  1
+effective properties  1
+fracture behaviour  1
+new method  1
+computational analysis  1
+uniaxial tension  1
+wave propagation  1
+aluminium alloy  1
+fem analysis  1
+forming limit  1
+finite element model  1
+dislocation nucleation  1
+tension compression  1
+crystal growth  1
+ductile fracture  1
+cohesive zone  1
+numerical solution  1
+micromechanical modeling  1
+computational materials science  1
+atomistic simulation 1
+metal forming 1
+second phase 1
+angle scattering 1
+laser melting 1
+dependent crystal plasticity 1
+corrected density 1
+throughput materials 1
+x ray absorption 1
+principles density 1
+organic inorganic 1
+boron nitride monolayer 1
+ni 1 1 1
+bcc fe 1
+structure property 1
+initio vibrational 1
+nanotube reinforced polymer 1
+liquid phase 1
+state sintering 1
+bcc iron 1
+glass transition 1
+transition temperature 1
+ti nb 1
+chemical bonding 1
+density approximation 1
+dependent density functional theory 1
+x 6 1
+genetic algorithm 1
+titanium formation 1
+der waals corrected 1
+strain hardening 1
+forming metals 1
+phase columnar solidification model 1
+thickness interfaces part 1
+three dimensional phase field 1
+composite plates 1
+coupled orthotropic 1
+finite element techniques 1
+cell polymer membranes 1
+data driven 1
+diffusion induced 1
+ti al 1
+3d coupled 1
+phase multiscale solidification model 1
+compressed typical high 1
+1 0 symmetric 1
+strength refractory complex 1
+phase synthesis prediction first principles 1
+ag bimetallic 1
+ni zr alloys 1
+micro alloyed 1
+nb ti v 1
+metallic mn doped si x ge 1
+glasses ab initio 1
+velocity phase field 1
+type thermoelectric 1
+mg li 1
+austenite diffusion 1
+dependent embedded 1
+110 sic 1
+fe cr stainless 1
+gradient zone melting 1
+bcc binary 1
+heterogeneous materials part ii direct 1
+sr ca compounds 1
+rich energetic 1
+v zinc 1
+compounds sc tm tm 1
+ti v cr zr 1
+v cr zr nb mo hf 1
+bi x 1
+alkali metal 1
+magnetic phase 1
+tm tm ag 1
+doped titanium clusters ab initio 1
+ge si 1
+metal v cr mn 1
+cr co fe co 1
+co cu 1
+within tial 1
+inorganic hybrid 1
+parameters elastic 1
+sc ti v 1
+ternary structures cu 1
+ray absorption spectroscopy full 1
+low dimensional 1
+iv ti 1
+5 heusler alloys first 1
+one dimensional charge 1
+magnetic semiconductor 1
+dependent bn 1
+cluster density functional tight binding 1
+halide monolayer 1
+consistent one particle 3d 1
+wave density 1
+111 surface density 1
+dioxide density 1
+1 n 1 1
+electronic density functional molecular 1
+dimensional hybrid self consistent 1
+binding molecular mechanics 1
+0 1 surface 1
+metal oxide multiple phase 1
+0 0 1 zno 1 1 1
+throughput density 1
+representation plane strain 1
+n co doped 10 0 zigzag single 1
+potential nonlocal 1
+u 1 1
+batteries first 1
+tio2 001 1
+rich 3c 1
+small single 1
+noble metal 1
+principles driven lattice 1
+zr al bulk 1
+energy semi empirical 1
+cell applications 1
+applications multi 1
+doped hafnium 1
+ni alloyed 1
+element c n 1
+magnetic element x 1
+tial 1 1
+sic 1 1 1 al 1 1
+c doped 1
+phase hcp bcc 1
+superalloy γ ni 1
+iron doped 1
+doped zinc oxide 0 0 1
+hydrogen segregation along 1
+ultra high 1
+nanowire single wall 1
+porous low 1
+u 0 0 1
+computer simulation 1
+strength boron 1
+fe symmetric 1
+controlled tension 1
+substitutional atoms 1
+atoms al si ti v cr mn co 1
+dislocation precipitate interactions 1
+non linear thermo 1
+transition elements x x 1
+strong polymer fibers 1
+multi order parameter 1
+metal elements b c 1
+semiconductors li 1
+doping tm v cr 1
+principles dft dispersion corrected 1
+nitride carbon heterostructures formation 1
+microstructure evolution 1
+1 0 oriented 1
+cu zn ag coherent interfaces 1
+na k rb cs 1
+cu 001 1
+001 ni 1
+n n 1 10 1
+transfer induced 1
+boron nitride nano tube 1
+metal fe co ni cu ag au 1
+0001 interface 1
+systems x 1
+nanoribbons boron 1
+al sr alloy 1
+high energy grain boundaries kinetic 1
+doped hexagonal boron 1
+ultra hard 1
+continuum mechanics 1
+metal composite 1
+consistent ab initio 1
+charge transfer ionic embedded 1
+filled multi walled 1
+algorithm monte carlo hybrid 1
+nanocomposite materials 3d 1
+viscoplastic equal channel 1
+order plane 1
+metal fibre 1
+reinforced polymer composites 1
+relaxation time 1
+ferritic stainless 1
+coupled macro microscopic 1
+temperature high 1
+solid high pressure die 1
+constant pressure ab initio classical molecular 1
+principles calculated 1
+oxide coated 1
+walled boron nitride 1
+dependent elastic constants anisotropy generalized 1
+diamond nanocomposites 1
+niti shape memory alloy 1
+zr al metallic 1
+carbon fiber epoxy 1
+atom induced 1
+particulate reinforced aluminum 1
+scales grain boundary 1
+ta w 1
+alloy phase field 1
+nanotubes conveying water considering carbon water 1
+defect energies 1
+interstitial noble 1
+binding versus effective 1
+graded foam filled 1
+higher order multi 1
+ti cr binary 1
+materials level set versus multi 1
+3d phase field model 1
+adsorbed hydrogen 1
+period stacking ordered mg 1
+nano porous 1
+nanoparticle nanocomposite 1
+phase microstructures large scale 1
+component β 1
+001 surfaces 1
+charge transfer hybrid first 1
+phase nano composite 1
+crystal bulk niti 1
+phases α 1
+dimensional mn 1
+including grain boundary 1
+mg mg cr 1
+principles tight 1
+dependent order 1
+upon low speed 1
+metal anatase tio2 1
+dependent non 1
+cu mg system first 1
+dimensional conduction 1
+joints adhesive bonded 1
+metal tm zr hf nb ta 1
+3 h bn 1
+systems ii 1
+composites containing 1
+alloys part 1 1
+co continuous ceramic 1
+continuous ceramic composites three dimensional 1
+poisson voronoi typical 1
+continuous ceramic composite 1
+polymer nanocomposites coarse grain 1
+β model 1
+phase polymer 1
+automatic 3d 1
+polycrystalline microstructures including 1
+carbon glass fiber 1
+ti metal 1
+ceramic functionally graded 1
+length scale modelling approach 1
+strain computational 1
+dimensional crystal plasticity 1
+strain viscoelastic 1
+level cellular automata 1
+entropy al cr fe 1
+principles generalized 1
+global multi 1
+plasticity analysis virtual 1
+throughput electronic 1
+0 0 0 1 ni 1
+b2 ordered ni 1
+fluid conveying 1
+pd hollow nanoparticles 1
+cracked single 1
+damage evolution 1
+plates containing 1
+large displacement 1
+oxide superconducting 1
+strain temperature 1
+different 1 2 1
+models within 1
+heterogeneous self 1
+3 carbon 1
+source crystal plasticity 1
+aln 1 1 1
+conveying single 1
+dimensional large scale phase field 1
+scale thermal solute 3d 1
+gradient driven 1
+scale three dimensional 1
+integrated model 1
+mechanical stress induced 1
+field multi 1
+diamond si 1
+polycrystalline tial 1
+variable dependent constitutive cyclic plastic 1
+doped single layer polycrystalline 1
+oxide interaction 1
+moving wave front 1
+alloys part 2 1
+thermo mechanical fe 1
+step asymmetric 1
+reinforced zinc 1
+controlled liquid 1
+mn medium al fe c 1
+induced damage 1
+phase crystalline amorphous 1
+mg amorphous 1
+reactive molecular 1
+dynamic recrystallization predicting 1
+rich oxide layer annealing 1
+nitride cubic phase 1
+crystalline nano cu films 1
+glass fibre 1
+work tool steel part 2 coupling 1
+shell shell nanocrystals empirical 1
+crystal nano sized cu beams 1
+indentation data 1
+related multiscale 1
+free carbon nanotubes tight binding 1
+testing different 1
+transfer modified 1
+wall silicon carbide nanotubes 1
+algorithm multiple 1
+dependent grain 1
+w interface systems 1
+viscoplastic material 1
+homogeneous functionally 1
+materials science multiple 1
+nanotubes reinforced copper nanocomposites 1
+layer hybrid boron 1
+electrode gas metal 1
+different hot 1
+metallic zinc 1
+dimensional single wall 1
+correction mapping 1
+conducting two 1
+interaction induced 1
+face centered 1
+waals density 1
+approximation density 1
+waals corrected exchange 1
+sintering simple 1
+columnar solidification model part 1
+element techniques part 1
+polymer membranes molecular 1
+multiscale solidification model part 1
+0 symmetric tilt 1
+refractory complex solid 1
+synthesis prediction first principles calculation 1
+zr alloys melting 1
+si shape 1
+ti v zr 1
+mn doped si x ge 1 1
+superalloys lattice 1
+theory substitutional 1
+layered lead 1
+system monte 1
+sic 110 1
+111 crystal 1
+cr stainless steels 1
+zone melting cellular 1
+field induced band 1
+physics crystal 1
+materials part ii direct micromechanical 1
+ca compounds density 1
+energetic compound 1
+sc tm tm cd 1
+cr zr nb mo hf ta 1
+tm ag cu 1
+titanium clusters ab initio versus 1
+si phase 1
+devices first 1
+co fe co mn 1
+element cellular 1
+hybrid perovskite 1
+structures cu ni 1
+absorption spectroscopy full multiple 1
+ti iii 1
+heusler alloys first principles 1
+6 ab 1
+dimensional charge transfer 1
+semiconductor first 1
+bn cluster 1
+density functional tight binding molecular 1
+monolayer sheets 1
+zn cu 1
+one particle 3d unit 1
+theory point 1
+surface density functional 1
+charge density functional tight 1
+carbon nanotubes density 1
+density functional molecular dynamics 1
+hybrid self consistent charge 1
+molecular mechanics molecular 1
+si p 1
+oxide multiple phase electrode 1
+0 1 zno 1 1 1 1
+co doped 10 0 zigzag single walled 1
+nonlocal density 1
+method total 1
+memory alloys representative 1
+dimensional direct 1
+armchair silicon 1
+001 mos2 1
+nitride monolayer ab 1
+driven lattice thermal 1
+set dft 1
+al bulk metallic 1
+zno single 1
+hafnium carbide 1
+alloyed cu 1
+2 1 diamond 1
+c n doped 1
+element x x 1
+batteries ab 1
+1 laalo3 1
+1 1 1 al 1 1 1
+0 twist 1
+hcp bcc mg 1
+zinc oxide 0 0 0 1
+segregation along aluminum 1
+strength low 1
+alloys ca 1
+10 tilt 1
+low dielectric 1
+0 hexagonal 1
+0 silicon 1
+al si ti v cr mn co ni 1
+precipitate interactions within 1
+linear thermo mechanical 1
+elements x x cu 1
+polymer fibers ab 1
+order parameter phase 1
+111 first 1
+elements b c n 1
+li zn 1
+tm v cr mn 1
+dft dispersion corrected c60 1
+crystal first 1
+carbon heterostructures formation energies 1
+0 oriented 3c 1
+zn ag coherent interfaces first 1
+k rb cs ab 1
+walled tin 1
+ni 001 1
+hf dft molecular 1
+n 1 10 nano 1
+induced negative 1
+nitride nano tube reinforced 1
+fe co ni cu ag au rh 1
+x ta 1
+sr alloy stability 1
+energy grain boundaries kinetic monte 1
+hard carbide 1
+ab initio lattice 1
+transfer ionic embedded atom 1
+monte carlo hybrid geometry 1
+materials 3d finite 1
+time lattice 1
+macro microscopic finite 1
+high pressure die casting 1
+pressure ab initio classical molecular dynamics 1
+calculated electron 1
+period stacking ordered structure first 1
+elastic constants anisotropy generalized stacking 1
+nanocomposites hierarchical 1
+al metallic glass 1
+fiber epoxy composite 1
+induced lattice 1
+melting thermal 1
+reinforced aluminum metal 1
+transport phase 1
+nanotube atomistic 1
+conveying water considering carbon water bond 1
+1 tilt 1
+energies molecular 1
+x x li 1
+coupling induced 1
+versus effective mass 1
+foam filled thin 1
+order multi phase 1
+level set versus multi phase 1
+der waals two 1
+phase field model incorporating 1
+hydrogen induced 1
+stacking ordered mg first 1
+nanocomposite membranes 1
+microstructures large scale phase 1
+β type 1
+carlo finite 1
+surfaces molecular 1
+transfer hybrid first principles 1
+bulk niti shape 1
+memory alloys grain 1
+liquid ta 1
+mass finite 1
+grain boundary effects 1
+boundaries molecular 1
+steel considering 1
+interfaces part ii 1
+mg cr 2 1
+low speed impact 1
+anatase tio2 1 1
+mg system first principles 1
+conduction heat 1
+adhesive bonded aluminium 1
+surface combined 1
+tm zr hf nb ta mo 1
+h bn monolayer 1
+ii finite 1
+part 1 coupling 1
+ceramic composites three dimensional microstructure 1
+nanocomposites 2d 1
+voronoi typical cell 1
+ceramic composite dynamic 1
+reinforced al 1
+nanocomposites coarse grain molecular 1
+model finite 1
+metal matrix composites considering 1
+microstructures including grain 1
+glass fiber composites 1
+scale modelling approach considering 1
+computational multi 1
+nanocomposites analytical 1
+viscoelastic viscoplastic 1
+method considering 1
+al cr fe ni 1
+body spring 1
+dimensional bn 1
+multi local 1
+analysis virtual grain 1
+0 0 1 ni 1 1
+ordered ni al 1
+hollow nanoparticles grain 1
+containing single 1
+displacement small 1
+1 twist 1
+within finite 1
+self sensing 1
+periodic voronoi 1
+grained nanocrystalline 1
+thermal solute 3d phase 1
+driven pore 1
+stress induced ferroelectric 1
+si single 1
+grained low 1
+tial twin 1
+dependent constitutive cyclic plastic material 1
+single layer polycrystalline boron 1
+interaction finite 1
+1 fcc 1
+wave front image 1
+part 2 macroscopic 1
+strength alloy 1
+asymmetric stress 1
+zinc aluminium 1
+stress considering 1
+medium al fe c mn 1
+equations considering 1
+crystalline amorphous mg 1
+systems ab 1
+crystal contact 1
+recrystallization predicting kinetics 1
+oxide layer annealing monte 1
+crystals molecular 1
+cubic phase versus 1
+nano cu films molecular 1
+0 fcc 1
+tool steel part 2 coupling predicted 1
+mechanical elasto 1
+shell nanocrystals empirical tight 1
+nano sized cu beams geometric 1
+data finite 1
+multiscale quasi 1
+ceramic interface 1
+ii stress 1
+carbon nanotubes tight binding md 1
+silicon carbide nanotubes molecular 1
+multiple model 1
+interface systems upon 1
+reinforced aluminium 1
+science multiple scales 1
+reinforced copper nanocomposites molecular 1
+nitride computational 1
+dynamics finite 1
+interface notch 1
+density functional theory molecular 1
+solidification model part ii 1
+bond potential 1
+rh pd 1

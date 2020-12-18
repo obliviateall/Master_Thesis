@@ -1,0 +1,23 @@
+functionally graded 40
+microstructure evolution 40
+composite materials 35
+exchange correlation 22
+intermetallic compounds 21
+heterogeneous materials 21
+fracture toughness 18
+graded material 17
+case study 15
+brittle fracture 14
+polycrystalline materials 13
+texture evolution 13
+functionally graded material 13
+functionally graded materials 12
+heusler alloys 11
+amorphous silicon 11
+functionally graded steels 11
+fracture mechanics 11
+computational materials 11
+cathode materials 10
+computational homogenization 10
+materials design 10
+ductile fracture 10
